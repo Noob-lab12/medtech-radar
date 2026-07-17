@@ -28,16 +28,16 @@ const TYPE_RULES = [
   ["event", /webinar|training|conference|konferenz|registration|register now|discussion day|schulung|veranstaltung|recording available|save the date|workshop/i],
   ["guidance", /guidance|guideline|leitfaden|mdcg \d|position paper|positionspapier|q&a|questions and answers|manual on|checkliste|broschüre|merkblatt|patientenkarte|information für|decision tree|hilfestellung|factsheet|best practice/i],
   ["norm", /harmonised standard|harmonized standard|harmonisierte norm|\biso[ /]\d|\biec[ /]\d|\bdin en\b|\ben iso\b/i],
-  ["rechtsakt", /implementing regulation|implementing decision|delegated act|delegated regulation|regulation \(eu\)|decision \(eu\)|directive \d|verordnung \(eu\)|richtlinie \d|amending|amendment of|durchführungsverordnung|delegierte verordnung|rechtsakt/i],
+  ["rechtsakt", /implementing regulation|implementing decision|delegated act|delegated regulation|regulation \(eu\)|decision \(eu\)|directive \d|verordnung \(eu\)|richtlinie \d|amending|amendment of|durchführungsverordnung|delegierte verordnung|rechtsakt|final rule|proposed rule/i],
 ];
 
-function classify(src, title, summary) {
+function classify(src, title, summary, typeHint) {
   if (src.forceType) return src.forceType;
   const text = `${title} ${summary}`;
   for (const [type, re] of TYPE_RULES) {
     if (re.test(text)) return type;
   }
-  return src.defaultType || "news";
+  return typeHint || src.defaultType || "news";
 }
 
 // ---------- Feeds abrufen ----------
@@ -70,7 +70,45 @@ function matchesFilter(item, filter) {
   return filter.some((kw) => haystack.includes(kw.toLowerCase()));
 }
 
+async function fetchJson(url) {
+  const res = await fetch(url, { headers: { "User-Agent": "medtech-radar/1.0", Accept: "application/json" }, signal: AbortSignal.timeout(20000) });
+  if (!res.ok) throw new Error(`Status code ${res.status}`);
+  return res.json();
+}
+
+// openFDA-Enforcement: Geräte-Rückrufe als JSON (die klassischen FDA-RSS-Feeds sind abgeschaltet)
+async function fetchOpenFda(src) {
+  const data = await fetchJson(src.url);
+  return (data.results || []).map((r) => {
+    const d = r.report_date || ""; // Format JJJJMMTT
+    return {
+      id: `${src.id}::${r.recall_number || r.event_id}`,
+      source: src.id,
+      title: `${r.classification ? r.classification + ": " : ""}${stripHtml(r.product_description).slice(0, 220)}`,
+      link: r.event_id ? `https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=${r.event_id}` : "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm",
+      summary: stripHtml(`${r.recalling_firm || ""} – ${r.reason_for_recall || ""}`).slice(0, 400),
+      published: d.length === 8 ? `${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}` : null,
+    };
+  });
+}
+
+// Federal Register: dort kündigt die FDA Guidances, Rules und Notices an
+async function fetchFederalRegister(src) {
+  const data = await fetchJson(src.url);
+  return (data.results || []).map((r) => ({
+    id: `${src.id}::${r.html_url}`,
+    source: src.id,
+    title: stripHtml(r.title).slice(0, 300),
+    link: r.html_url,
+    summary: stripHtml(r.abstract || "").slice(0, 400),
+    published: r.publication_date || null,
+    typeHint: r.type === "Rule" || r.type === "Proposed Rule" ? "rechtsakt" : undefined,
+  }));
+}
+
 async function fetchSource(src) {
+  if (src.kind === "openfda") return fetchOpenFda(src);
+  if (src.kind === "federalregister") return fetchFederalRegister(src);
   const feed = await parser.parseURL(src.url);
   return (feed.items || []).map((it) => {
     const title = stripHtml(it.title).slice(0, 300);
@@ -132,7 +170,7 @@ const itemList = Object.values(archive.items)
     return {
       ...it,
       title,
-      type: classify(srcById[it.source], it.title, it.summary),
+      type: classify(srcById[it.source], it.title, it.summary, it.typeHint),
       sourceName: srcById[it.source].name,
       category: srcById[it.source].category,
     };

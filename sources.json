@@ -77,6 +77,101 @@
       "defaultType": "sicherheit"
     },
     {
+      "id": "fda-device-recalls",
+      "name": "FDA – Device Recalls (openFDA)",
+      "url": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=25",
+      "kind": "openfda",
+      "category": "USA",
+      "lang": "en",
+      "forceType": "sicherheit"
+    },
+    {
+      "id": "federal-register-fda",
+      "name": "Federal Register – FDA (Medical Devices)",
+      "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=food-and-drug-administration&conditions%5Bterm%5D=%22medical%20device%22&per_page=25&order=newest",
+      "kind": "federalregister",
+      "category": "USA",
+      "lang": "en",
+      "defaultType": "news"
+    },
+    {
+      "id": "mhra-news",
+      "name": "MHRA – News & Mitteilungen",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=medicines-and-healthcare-products-regulatory-agency",
+      "category": "UK",
+      "lang": "en",
+      "filter": ["device", "diagnostic", "medtech", "software"],
+      "defaultType": "news"
+    },
+    {
+      "id": "mhra-alerts",
+      "name": "MHRA – Device Safety Alerts",
+      "url": "https://www.gov.uk/drug-device-alerts.atom",
+      "category": "UK",
+      "lang": "en",
+      "filter": ["device", "diagnostic"],
+      "forceType": "sicherheit"
+    },
+    {
+      "id": "swissmedic-new",
+      "name": "Swissmedic – Neues auf der Webseite",
+      "url": "https://fetchrss.com/feed/X-CSwP0MWGVCaG_Z2JbPgiti.rss",
+      "category": "Schweiz",
+      "lang": "en",
+      "filter": ["device", "medizinprodukt", "diagnostic", "medtech"],
+      "defaultType": "news"
+    },
+    {
+      "id": "hc-device-recalls",
+      "name": "Health Canada – Device Recalls & Alerts",
+      "url": "https://recalls-rappels.canada.ca/en/feed/medical-devices-alerts-recalls",
+      "category": "Kanada",
+      "lang": "en",
+      "forceType": "sicherheit"
+    },
+    {
+      "id": "tga-safety-alerts",
+      "name": "TGA – Safety Alerts",
+      "url": "https://www.tga.gov.au/feeds/alert/safety-alerts.xml",
+      "category": "Australien",
+      "lang": "en",
+      "forceType": "sicherheit"
+    },
+    {
+      "id": "pmda-top",
+      "name": "PMDA – Aktuelles (englisch)",
+      "url": "https://www.pmda.go.jp/rss_008.xml",
+      "category": "Japan",
+      "lang": "en",
+      "filter": ["device", "diagnostic", "medtech"],
+      "defaultType": "news"
+    },
+    {
+      "id": "anvisa-noticias",
+      "name": "ANVISA – Notícias (portugiesisch)",
+      "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/RSS",
+      "category": "Brasilien",
+      "lang": "pt",
+      "filter": ["dispositivo", "produtos para saúde", "produto para saúde", "equipamento médico"],
+      "defaultType": "news"
+    },
+    {
+      "id": "imdrf-documents",
+      "name": "IMDRF – Documents",
+      "url": "https://www.imdrf.org/documents.xml",
+      "category": "International",
+      "lang": "en",
+      "forceType": "guidance"
+    },
+    {
+      "id": "imdrf-news",
+      "name": "IMDRF – News",
+      "url": "https://www.imdrf.org/news-events/news.xml",
+      "category": "International",
+      "lang": "en",
+      "defaultType": "news"
+    },
+    {
       "id": "johner-blog",
       "name": "Johner Institut – Blog",
       "url": "https://www.johner-institut.de/blog/feed/",

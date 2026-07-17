@@ -1151,6 +1151,618 @@
    "summary": "The artificial heart valve maker will settle allegations it deliberately structured its deal to acquire JC Medical to sidestep a Hart-Scott-Rodino review.",
    "published": "2026-07-13T21:02:14.000Z",
    "firstSeen": "2026-07-17T09:07:35.353Z"
+  },
+  "mhra-news::https://www.gov.uk/government/news/heat-travel-and-late-nights-how-summer-can-affect-your-medicines-and-how-to-stay-safe": {
+   "id": "mhra-news::https://www.gov.uk/government/news/heat-travel-and-late-nights-how-summer-can-affect-your-medicines-and-how-to-stay-safe",
+   "source": "mhra-news",
+   "title": "Heat, travel and late nights: How summer can affect your medicines and how to stay safe",
+   "link": "https://www.gov.uk/government/news/heat-travel-and-late-nights-how-summer-can-affect-your-medicines-and-how-to-stay-safe",
+   "summary": "The MHRA is urging people to “summer-proof your health” as warmer weather, travel, and changing routines can affect how medicines and medical devices work, with simple steps to help prevent avoidable harm.",
+   "published": "2026-07-09T11:36:50.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "mhra-news::https://www.gov.uk/government/news/mhra-secures-convictions-after-a-decade-long-investigation-into-falsely-marked-baby-feeding-devices": {
+   "id": "mhra-news::https://www.gov.uk/government/news/mhra-secures-convictions-after-a-decade-long-investigation-into-falsely-marked-baby-feeding-devices",
+   "source": "mhra-news",
+   "title": "MHRA secures convictions after a decade-long investigation into falsely marked baby-feeding devices",
+   "link": "https://www.gov.uk/government/news/mhra-secures-convictions-after-a-decade-long-investigation-into-falsely-marked-baby-feeding-devices",
+   "summary": "MHRA investigation secures fraud convictions linked to the supply of non-compliant medical devices.",
+   "published": "2026-07-01T11:03:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-june-2026": {
+   "id": "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-june-2026",
+   "source": "mhra-alerts",
+   "title": "MHRA Safety Roundup: June 2026",
+   "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-june-2026",
+   "summary": "Summary of the latest safety advice for medicines and medical device users",
+   "published": "2026-06-30T13:09:46.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-may-2026": {
+   "id": "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-may-2026",
+   "source": "mhra-alerts",
+   "title": "MHRA Safety Roundup: May 2026",
+   "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-may-2026",
+   "summary": "Summary of the latest safety advice for medicines and medical device users",
+   "published": "2026-05-28T12:07:24.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "mhra-alerts::https://www.gov.uk/drug-device-alerts/kimal-procedure-packs-containing-recalled-components-namic-angiographic-syringe-with-the-risk-of-syringe-disconnection-namic-manifolds-with-the-risk-of-foreign-particulates-important-guidance-for-use-in-emergency-situations-dsi-sl": {
+   "id": "mhra-alerts::https://www.gov.uk/drug-device-alerts/kimal-procedure-packs-containing-recalled-components-namic-angiographic-syringe-with-the-risk-of-syringe-disconnection-namic-manifolds-with-the-risk-of-foreign-particulates-important-guidance-for-use-in-emergency-situations-dsi-sl",
+   "source": "mhra-alerts",
+   "title": "Kimal Procedure Packs containing recalled components: Namic Angiographic Syringe with the risk of syringe disconnection; Namic Manifolds with the risk of foreign particulates. Important guidance for use in urgent procedures where there are no alternatives. (DSI/2026/002)",
+   "link": "https://www.gov.uk/drug-device-alerts/kimal-procedure-packs-containing-recalled-components-namic-angiographic-syringe-with-the-risk-of-syringe-disconnection-namic-manifolds-with-the-risk-of-foreign-particulates-important-guidance-for-use-in-emergency-situations-dsi-sl",
+   "summary": "Medline Industries LP and Kimal PLC have identified safety issues with the Namic Angiographic Control Syringes with RA and Namic White Star Off Handle Manifold devices, and have issued field safety notices to affected UK hos…",
+   "published": "2026-05-22T10:10:41.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-april-2026": {
+   "id": "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-april-2026",
+   "source": "mhra-alerts",
+   "title": "MHRA Safety Roundup: April 2026",
+   "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-april-2026",
+   "summary": "Summary of the latest safety advice for medicines and medical device users",
+   "published": "2026-04-29T13:02:41.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-march-2026": {
+   "id": "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-march-2026",
+   "source": "mhra-alerts",
+   "title": "MHRA Safety Roundup: March 2026",
+   "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-march-2026",
+   "summary": "Summary of the latest safety advice for medicines and medical device users",
+   "published": "2026-03-31T13:01:53.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor": {
+   "id": "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor",
+   "source": "hc-device-recalls",
+   "title": "4K UHD LCD Monitor",
+   "link": "https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor",
+   "summary": "Olympus determined that the HDMI and DisplayPort (DP) connectors can become faulty resulting in image loss or image abnormalities if using one of those connectors. Olympus will follow up with affected customers to coordinate return of the monitor for repair.",
+   "published": "2026-07-17T10:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products": {
+   "id": "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products",
+   "source": "hc-device-recalls",
+   "title": "V-Loc™ 90 and 180 Suture Products",
+   "link": "https://recalls-rappels.canada.ca/en/alert-recall/v-loctm-90-and-180-suture-products",
+   "summary": "On 29-Jan-2026 during a quality inspection at a manufacturing site, a V-Loc 180 unit was found with a hole in the breather pouch on the Tyvek side. The breather pouch serves as the sterile barrier system for the suture. Investigation determined the briller plate on the sealing station may be causing the hole. No complaints have been identified for this issue, but lots within the issue bounding hav",
+   "published": "2026-07-16T10:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/sema-3": {
+   "id": "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/sema-3",
+   "source": "hc-device-recalls",
+   "title": "SEMA 3",
+   "link": "https://recalls-rappels.canada.ca/en/alert-recall/sema-3",
+   "summary": "When an ECG is aquired with DEFIGARD Touch 7 or ARGUS PRO LifeCare 3 with the newest software, there might be a discrepancy between the aquiring device and SEMA. This results from inadequate processing by SEMA to an already filtered signal. SEMA should be updated to version 25.10.",
+   "published": "2026-07-16T10:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "pmda-top::https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html": {
+   "id": "pmda-top::https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+   "source": "pmda-top",
+   "title": "[ANZEN]MHLW Pharmaceuticals and Medical Devices Safety Information No.429 posted",
+   "link": "https://www.pmda.go.jp/english/safety/info-services/drugs/medical-safety-information/0024.html",
+   "summary": "",
+   "published": "2026-07-07T03:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "pmda-top::https://www.pmda.go.jp/english/review-services/reviews/0009.html": {
+   "id": "pmda-top::https://www.pmda.go.jp/english/review-services/reviews/0009.html",
+   "source": "pmda-top",
+   "title": "[SHINSA]Software as a Medical Device (SaMD) page updated",
+   "link": "https://www.pmda.go.jp/english/review-services/reviews/0009.html",
+   "summary": "",
+   "published": "2026-07-06T03:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "pmda-top::https://www.pmda.go.jp/english/about-pmda/0024.pdf": {
+   "id": "pmda-top::https://www.pmda.go.jp/english/about-pmda/0024.pdf",
+   "source": "pmda-top",
+   "title": "[PMDA]Conclusion of a Memorandum of Understanding between the Medical University of Vienna and the Pharmaceuticals and Medical Devices Agency (PMDA) (News Release) (June 30, 2026) [263KB]",
+   "link": "https://www.pmda.go.jp/english/about-pmda/0024.pdf",
+   "summary": "",
+   "published": "2026-07-01T03:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "pmda-top::https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0001.html": {
+   "id": "pmda-top::https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0001.html",
+   "source": "pmda-top",
+   "title": "[SHINSA]List of Approved Medical Devices: April 2004 to September 2025",
+   "link": "https://www.pmda.go.jp/english/review-services/reviews/approved-information/devices/0001.html",
+   "summary": "",
+   "published": "2026-06-11T03:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "pmda-top::https://www.pmda.go.jp/english/int-activities/asia/0015.html": {
+   "id": "pmda-top::https://www.pmda.go.jp/english/int-activities/asia/0015.html",
+   "source": "pmda-top",
+   "title": "[KOKUSAI]Registration for the ASEAN-Japan Medical Devices Regulatory Symposium is now open.",
+   "link": "https://www.pmda.go.jp/english/int-activities/asia/0015.html",
+   "summary": "",
+   "published": "2026-05-25T03:00:00.000Z",
+   "firstSeen": "2026-07-17T15:24:09.122Z"
+  },
+  "fda-device-recalls::Z-2623-2026": {
+   "id": "fda-device-recalls::Z-2623-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: GC Agar Base (150mm) 10/PK R04030; GC Agar Base (100mm) 10/PK R01460",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99132",
+   "summary": "Remel, Inc – Reduced or no recovery of some strains of Neisseria gonorrhoeae.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2609-2026": {
+   "id": "fda-device-recalls::Z-2609-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience kits containing recalled Swan-Ganz Catheters KIT GERMANTOWN CABG DYNJ905855 KIT UNIVERSITY CABG PACK DYNJ905857 OH MED RN CDS DYNJ905936B",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99209",
+   "summary": "Medline Industries, LP – Kits contain Swan-Ganz catheters recalled by Becton Dickinson (BD). BD has received complaints of leaks/breakage involving failures of the (blue) proximal injectate lumen hub on these catheters. This has led to instances of leakage, lumen damage, and breakage, and may lead to infection, medication loss, and/or blood loss.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2646-2026": {
+   "id": "fda-device-recalls::Z-2646-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: RayCare 2024A SP1. Oncology Information Systems.",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99141",
+   "summary": "RAYSEARCH LABORATORIES AB – Beam set delivery note issues in which there is potential data loss if the beam set delivery note is modified simultaneously and/or if a note is updated during a treatment session, the user is not notified of the change.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2656-2026": {
+   "id": "fda-device-recalls::Z-2656-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: CK000495A Poly Midline Catheter 4 Fr Single-Lumen UDI-DI Code: 00801741121609 CK000566 Poly Midline Catheter 4 Fr Single-Lumen UDI-DI Code: 00801741108051 CK000566 Poly Midline Catheter 4 Fr Single-Lumen UDI-DI Code: 008",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99096",
+   "summary": "Bard Access Systems, Inc. – Due to lidocaine ampoules being manufactured under deficient manufacturing practices by manufacturer, lidocaine ampoules are currently being recalled by supplier.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2607-2026": {
+   "id": "fda-device-recalls::Z-2607-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience kits containing recalled Swan-Ganz Catheters CARDIAC MAJOR DYNJ901328G HEART A DYNJ903465K OPEN HEART DYNJ909090G SILVER CROSS OPEN HEART DYNJ906102M VPH OPEN HEART DYNJ902664M DYNJ902664N",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99209",
+   "summary": "Medline Industries, LP – Kits contain Swan-Ganz catheters recalled by Becton Dickinson (BD). BD has received complaints of leaks/breakage involving failures of the (blue) proximal injectate lumen hub on these catheters. This has led to instances of leakage, lumen damage, and breakage, and may lead to infection, medication loss, and/or blood loss.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2629-2026": {
+   "id": "fda-device-recalls::Z-2629-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: CRE Pro Wireguided 12-15mm 240cm",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99067",
+   "summary": "Boston Scientific Corporation – Potential sterile breach of the pouches in which devices are packaged.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2639-2026": {
+   "id": "fda-device-recalls::Z-2639-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Brand Name: Pilling Wecksorb Product Name: Pilling Wecksorb Neurosponges (Cotton) Pilling¿ Wecksorb Neurosponge Strips (Cotton) Model/Catalog Number: 200100 200101 200102 200103 200104 200105 200106 200108 200110 200112 ",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=98962",
+   "summary": "TELEFLEX LLC – Due to out-of-specification, or potential out-of-specification, levels of endotoxins",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2542-2026": {
+   "id": "fda-device-recalls::Z-2542-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience Kits: 1) SUTURE TRAY, Model Number: SUT12260; 2) CHEST TUBE INSERTION TRAY, Model Number: MNS3390; 3) CONTRACEPTIVE IMPLANT INSERTION KIT, Model Number: MNS9715; 4) 20GX3\" RADIAL ART LINE KIT, Model N",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99162",
+   "summary": "Medline Industries, LP – The kits containing Huons Lidocaine HCL Injection USP 1% 10mg/ml 5mL Ampules (Lidocaine Ampules)(OEM). A recall notice was issued by Huons Co., Ltd. for Lidocaine Ampules due to quality issues identified during a recent FDA manufacturing inspection of its drug manufacturing site.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2670-2026": {
+   "id": "fda-device-recalls::Z-2670-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Radius VSM ECG pre-connected Set, REF: 4842, 4695",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=98481",
+   "summary": "Masimo Corporation – Two devices recalled: 1) Electrocardiogram (ECG) electrode assembly ECG feature may incorrectly detect extreme bradycardia, tachycardia and trigger alarms on normal heart rate patients, which may distract clinicians away from management of true positive alarms, which could delay treatment; 2) Small and medium size blood pressure cuffs may contain rough edges, may result in ski",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2661-2026": {
+   "id": "fda-device-recalls::Z-2661-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: 5855240 Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter 12 Fr Triple-Lumen UDI-DI Code: 00801741107177 5855300 Power-Trialysis Slim-Cath Straight Short-Term Dialysis Catheter 12 Fr Triple-Lumen UDI-DI Cod",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99096",
+   "summary": "Bard Access Systems, Inc. – Due to lidocaine ampoules being manufactured under deficient manufacturing practices by manufacturer, lidocaine ampoules are currently being recalled by supplier.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2538-2026": {
+   "id": "fda-device-recalls::Z-2538-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience Kits: 1) STD, INTRO-FLEX INTRODUCER 6F, C, Model Number: I550BF6C; 2) STD, INTRO-FLEX INTRODUCER 9F, C, Model Number: I505BF9C",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99162",
+   "summary": "Medline Industries, LP – The kits containing Huons Lidocaine HCL Injection USP 1% 10mg/ml 5mL Ampules (Lidocaine Ampules)(OEM). A recall notice was issued by Huons Co., Ltd. for Lidocaine Ampules due to quality issues identified during a recent FDA manufacturing inspection of its drug manufacturing site.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2539-2026": {
+   "id": "fda-device-recalls::Z-2539-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience Kits: 1) IMAGING BIOPSY TRAY, Model Number: DYNDH1068; 2) BREAST BIOPSY PACK, Model Number: PHS234706I",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99162",
+   "summary": "Medline Industries, LP – The kits containing Huons Lidocaine HCL Injection USP 1% 10mg/ml 5mL Ampules (Lidocaine Ampules)(OEM). A recall notice was issued by Huons Co., Ltd. for Lidocaine Ampules due to quality issues identified during a recent FDA manufacturing inspection of its drug manufacturing site.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2611-2026": {
+   "id": "fda-device-recalls::Z-2611-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience kits containing recalled Swan-Ganz Catheters OPEN HEART DYNJ909090B OPEN HEART CDS QVH CDS982523M",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99209",
+   "summary": "Medline Industries, LP – Kits contain Swan-Ganz catheters recalled by Becton Dickinson (BD). BD has received complaints of leaks/breakage involving failures of the (blue) proximal injectate lumen hub on these catheters. This has led to instances of leakage, lumen damage, and breakage, and may lead to infection, medication loss, and/or blood loss.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2649-2026": {
+   "id": "fda-device-recalls::Z-2649-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Zeiss Intrabeam Spherical Applicator 1.5 cm REF:304534-6000-557",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99239",
+   "summary": "Carl Zeiss Meditec AG – Spherical applicators (radiation therapy accessory) failed to meet manufacturing specifications.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2603-2026": {
+   "id": "fda-device-recalls::Z-2603-2026",
+   "source": "fda-device-recalls",
+   "title": "Class I: Omnipod 5 Pods. Includes the below Model/REF Numbers: 1. POD-OMNI-I1-6720. 2. POD-OMNI-I1-6220. 3. OMNI-I1-6729 (10-Pack), OMNI-I1-6720 (Single Pod). 4. OMNI-I1-6220. 5. OMNI-I1-6720. 6. BLE-H1-529 (10-Pack), BLE-H1-520 ",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99034",
+   "summary": "Insulet Corporation – External soft cannula damage during manufacturing that results in insulin leaking around the Pod instead of being delivered to the user regardless of basal or bolus delivery. The primary failure mode is pump under-delivery due to loss of insulin to an external leak. If insulin is not delivered properly, users may experience high blood glucose levels due to under-delivery of i",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2608-2026": {
+   "id": "fda-device-recalls::Z-2608-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience kits containing recalled Swan-Ganz Catheters CENTRAL AND ARTERIAL LINE TOTE DYNJ8407",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99209",
+   "summary": "Medline Industries, LP – Kits contain Swan-Ganz catheters recalled by Becton Dickinson (BD). BD has received complaints of leaks/breakage involving failures of the (blue) proximal injectate lumen hub on these catheters. This has led to instances of leakage, lumen damage, and breakage, and may lead to infection, medication loss, and/or blood loss.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2662-2026": {
+   "id": "fda-device-recalls::Z-2662-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: CK000727 PowerMidline Catheter 4 Fr Single-Lumen UDI-DI Code: 00801741138478 CK000729 PowerMidline Catheter 4 Fr Single-Lumen UDI-DI Code: 00801741138713 P4153108D PowerMidline Catheter 3 Fr Single-lumen UDI-DI Code: 008",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99096",
+   "summary": "Bard Access Systems, Inc. – Due to lidocaine ampoules being manufactured under deficient manufacturing practices by manufacturer, lidocaine ampoules are currently being recalled by supplier.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2541-2026": {
+   "id": "fda-device-recalls::Z-2541-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience Kits: 1) PI CVC KIT 3L 7 FR 16 CM, Model Number: ECVC8520; 2) NO CATH CENTRAL LINE KIT, Model Number: CVI4880B; 3) 20G x 6\" ARTERIAL CATHETER KIT, Model Number: ART356; 4) MULTIMED 7FR, 16CM, 3L CVC B",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99162",
+   "summary": "Medline Industries, LP – The kits containing Huons Lidocaine HCL Injection USP 1% 10mg/ml 5mL Ampules (Lidocaine Ampules)(OEM). A recall notice was issued by Huons Co., Ltd. for Lidocaine Ampules due to quality issues identified during a recent FDA manufacturing inspection of its drug manufacturing site.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2540-2026": {
+   "id": "fda-device-recalls::Z-2540-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience Kits: 1) SUTURING SET, Model Number: SUT13710",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99162",
+   "summary": "Medline Industries, LP – The kits containing Huons Lidocaine HCL Injection USP 1% 10mg/ml 5mL Ampules (Lidocaine Ampules)(OEM). A recall notice was issued by Huons Co., Ltd. for Lidocaine Ampules due to quality issues identified during a recent FDA manufacturing inspection of its drug manufacturing site.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2667-2026": {
+   "id": "fda-device-recalls::Z-2667-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: CK000880 Provena Midline Catheter 4 Fr Dual-Lumen UDI-DI Code: 00801741188770 S4153108BDP Provena Midline Catheter 3 Fr Single-Lumen UDI-DI Code: 00801741154003 S4153108BP Provena Midline Catheter 3 Fr Single-Lumen UDI-D",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99096",
+   "summary": "Bard Access Systems, Inc. – Due to lidocaine ampoules being manufactured under deficient manufacturing practices by manufacturer, lidocaine ampoules are currently being recalled by supplier.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2657-2026": {
+   "id": "fda-device-recalls::Z-2657-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: 5625240 DuoGlide Short-Term Straight Dialysis Catheter 13 Fr Dual-Lumen UDI-DI Code: 00801741042119 The intended use of the Short-Term Dialysis Catheter is attaining temporary/short-term (less than 30 days) vascular acce",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99096",
+   "summary": "Bard Access Systems, Inc. – Due to lidocaine ampoules being manufactured under deficient manufacturing practices by manufacturer, lidocaine ampoules are currently being recalled by supplier.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2664-2026": {
+   "id": "fda-device-recalls::Z-2664-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: CK000525B PowerPICC Provena SOLO Catheter 4 Fr Dual-Lumen UDI-DI Code: 00801741236129 CK000883 PowerPICC Provena Catheter 4 Fr Dual-Lumen UDI-DI Code: 00801741188800 CK000884A PowerPICC Provena SOLO Catheter 4 Fr Dual-Lu",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99096",
+   "summary": "Bard Access Systems, Inc. – Due to lidocaine ampoules being manufactured under deficient manufacturing practices by manufacturer, lidocaine ampoules are currently being recalled by supplier.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2550-2026": {
+   "id": "fda-device-recalls::Z-2550-2026",
+   "source": "fda-device-recalls",
+   "title": "Class I: Hillrom VOLARA System P.CIRCUIT KIT AC (Single Patient Use Circuit), Model/Catalog Number REF M08473; Oscillation Lung Expansion Therapy, positive pressure breathing device",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99119",
+   "summary": "Baxter Healthcare Corporation – There have been reports of air and medication leakage from the nebulizer cup during therapy of Volara system patient circuits. The leakage can lead to an oxygen level drop in the patient and ineffective nebulization, which may affect the delivery of the prescribed treatment. The issue has been associated with improper locking of the nebulizer cup after adding medica",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2537-2026": {
+   "id": "fda-device-recalls::Z-2537-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience Kits: 1) DYNJ0621189X, Model Number: SM RADIOLOGY-ANGIO PACK-LF; 2) PAIN1470A, Model Number: CONT. 20G EPI MRI COMPATIBLE; 3) TVS4000L, Model Number: TVS4000 ENDOVENOUS PACK",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99162",
+   "summary": "Medline Industries, LP – The kits containing Huons Lidocaine HCL Injection USP 1% 10mg/ml 5mL Ampules (Lidocaine Ampules)(OEM). A recall notice was issued by Huons Co., Ltd. for Lidocaine Ampules due to quality issues identified during a recent FDA manufacturing inspection of its drug manufacturing site.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "fda-device-recalls::Z-2612-2026": {
+   "id": "fda-device-recalls::Z-2612-2026",
+   "source": "fda-device-recalls",
+   "title": "Class II: Medline Convenience kits containing recalled Swan-Ganz Catheters RIGHT HEART CATH PACK CTX DYNJ68530A",
+   "link": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfRES/res.cfm?start_search=1&event_id=99209",
+   "summary": "Medline Industries, LP – Kits contain Swan-Ganz catheters recalled by Becton Dickinson (BD). BD has received complaints of leaks/breakage involving failures of the (blue) proximal injectate lumen hub on these catheters. This has led to instances of leakage, lumen damage, and breakage, and may lead to infection, medication loss, and/or blood loss.",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/17/2026-14441/agency-information-collection-activities-proposed-collection-comment-request-accreditation-scheme": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/17/2026-14441/agency-information-collection-activities-proposed-collection-comment-request-accreditation-scheme",
+   "source": "federal-register-fda",
+   "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Accreditation Scheme for Conformity Assessment Program",
+   "link": "https://www.federalregister.gov/documents/2026/07/17/2026-14441/agency-information-collection-activities-proposed-collection-comment-request-accreditation-scheme",
+   "summary": "The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of in",
+   "published": "2026-07-17",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/17/2026-14440/agency-information-collection-activities-proposed-collection-comment-request-adverse-event-program": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/17/2026-14440/agency-information-collection-activities-proposed-collection-comment-request-adverse-event-program",
+   "source": "federal-register-fda",
+   "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Adverse Event Program for Medical Devices: (Medical Product Safety Network (MedSun))",
+   "link": "https://www.federalregister.gov/documents/2026/07/17/2026-14440/agency-information-collection-activities-proposed-collection-comment-request-adverse-event-program",
+   "summary": "The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of in",
+   "published": "2026-07-17",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/17/2026-14436/agency-information-collection-activities-proposed-collection-comment-request-medical-devices": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/17/2026-14436/agency-information-collection-activities-proposed-collection-comment-request-medical-devices",
+   "source": "federal-register-fda",
+   "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Medical Devices; Voluntary Improvement Program",
+   "link": "https://www.federalregister.gov/documents/2026/07/17/2026-14436/agency-information-collection-activities-proposed-collection-comment-request-medical-devices",
+   "summary": "The Food and Drug Administration (FDA or Agency) is announcing an opportunity for public comment on the proposed collection of certain information by the Agency. Under the Paperwork Reduction Act of 1995 (PRA), Federal Agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of an existing collection of in",
+   "published": "2026-07-17",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/08/2026-13778/medical-device-user-fee-amendments-public-meeting-request-for-comments": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/08/2026-13778/medical-device-user-fee-amendments-public-meeting-request-for-comments",
+   "source": "federal-register-fda",
+   "title": "Medical Device User Fee Amendments; Public Meeting; Request for Comments",
+   "link": "https://www.federalregister.gov/documents/2026/07/08/2026-13778/medical-device-user-fee-amendments-public-meeting-request-for-comments",
+   "summary": "The Food and Drug Administration (FDA, the Agency, or we) is announcing a hybrid public meeting titled \"Medical Device User Fee Amendments.\" The purpose of the public meeting is to discuss proposed recommendations for the reauthorization of the Medical Device User Fee Amendments (MDUFA) for fiscal years (FYs) 2028 through 2032. MDUFA authorizes FDA to collect fees and use them for the process for ",
+   "published": "2026-07-08",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/06/2026-13519/agency-information-collection-activities-submission-for-office-of-management-and-budget-review": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/06/2026-13519/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+   "source": "federal-register-fda",
+   "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Premarket Approval of Medical Devices",
+   "link": "https://www.federalregister.gov/documents/2026/07/06/2026-13519/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+   "summary": "The Food and Drug Administration (FDA) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
+   "published": "2026-07-06",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/30/2026-13140/medical-devices-anesthesiology-devices-classification-of-the-monitor-for-opioid-induced-impairment": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/30/2026-13140/medical-devices-anesthesiology-devices-classification-of-the-monitor-for-opioid-induced-impairment",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Anesthesiology Devices; Classification of the Monitor for Opioid Induced Impairment of Oxygenation",
+   "link": "https://www.federalregister.gov/documents/2026/06/30/2026-13140/medical-devices-anesthesiology-devices-classification-of-the-monitor-for-opioid-induced-impairment",
+   "summary": "The Food and Drug Administration (FDA) is classifying the monitor for opioid induced impairment of oxygenation into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the monitor for opioid induced impairment of oxygenation. We are taking this action because we have determined ",
+   "published": "2026-06-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/30/2026-13139/medical-devices-general-and-plastic-surgery-devices-classification-of-the-skin-patch-for-treatment": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/30/2026-13139/medical-devices-general-and-plastic-surgery-devices-classification-of-the-skin-patch-for-treatment",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; General and Plastic Surgery Devices; Classification of the Skin Patch for Treatment of Hyperhidrosis",
+   "link": "https://www.federalregister.gov/documents/2026/06/30/2026-13139/medical-devices-general-and-plastic-surgery-devices-classification-of-the-skin-patch-for-treatment",
+   "summary": "The Food and Drug Administration (FDA) is classifying the skin patch for treatment of hyperhidrosis into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the skin patch for treatment of hyperhidrosis. We are taking this action because we have determined that classifying the d",
+   "published": "2026-06-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Orthopedic Devices; Classification of the Medial Knee Implanted Shock Absorber",
+   "link": "https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber",
+   "summary": "The Food and Drug Administration (FDA) is classifying the medial knee implanted shock absorber into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the medial knee implanted shock absorber. We are taking this action because we have determined that classifying the device into",
+   "published": "2026-06-29",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/29/2026-13006/determination-of-regulatory-review-period-for-purposes-of-patent-extension-vyalev": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/29/2026-13006/determination-of-regulatory-review-period-for-purposes-of-patent-extension-vyalev",
+   "source": "federal-register-fda",
+   "title": "Determination of Regulatory Review Period for Purposes of Patent Extension; VYALEV",
+   "link": "https://www.federalregister.gov/documents/2026/06/29/2026-13006/determination-of-regulatory-review-period-for-purposes-of-patent-extension-vyalev",
+   "summary": "The Food and Drug Administration (FDA or the Agency) has determined the regulatory review period for VYALEV and is publishing this notice of that determination as required by law. FDA has made the determination because of the submission of applications to the Director of the U.S. Patent and Trademark Office (USPTO), Department of Commerce, for the extension of a patent which claims that human drug",
+   "published": "2026-06-29",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12905/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-infant-supine-sleep": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12905/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-infant-supine-sleep",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; General Hospital and Personal Use Devices; Classification of the Infant Supine Sleep System",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12905/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-infant-supine-sleep",
+   "summary": "The Food and Drug Administration (FDA) is classifying the infant supine sleep system into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the infant supine sleep system. We are taking this action because we have determined that classifying the device into class II will provi",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12904/medical-devices-neurological-devices-classification-of-the-external-lower-extremity-nerve-stimulator": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12904/medical-devices-neurological-devices-classification-of-the-external-lower-extremity-nerve-stimulator",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Neurological Devices; Classification of the External Lower Extremity Nerve Stimulator for Restless Legs Syndrome",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12904/medical-devices-neurological-devices-classification-of-the-external-lower-extremity-nerve-stimulator",
+   "summary": "The Food and Drug Administration (FDA) is classifying the external lower extremity nerve stimulator for Restless Legs Syndrome into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the external lower extremity nerve stimulator for Restless Legs Syndrome. We are taking this ac",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12903/medical-devices-general-and-plastic-surgery-devices-classification-of-the-breast-implant-suction": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12903/medical-devices-general-and-plastic-surgery-devices-classification-of-the-breast-implant-suction",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; General and Plastic Surgery Devices; Classification of the Breast Implant Suction Retrieval System",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12903/medical-devices-general-and-plastic-surgery-devices-classification-of-the-breast-implant-suction",
+   "summary": "The Food and Drug Administration (FDA) is classifying the breast implant suction retrieval system into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the breast implant suction retrieval system. We are taking this action because we have determined that classifying the devic",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12902/medical-devices-immunology-and-microbiology-devices-classification-of-the-sars-cov-2-serology-test": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12902/medical-devices-immunology-and-microbiology-devices-classification-of-the-sars-cov-2-serology-test",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the SARS-CoV-2 Serology Test",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12902/medical-devices-immunology-and-microbiology-devices-classification-of-the-sars-cov-2-serology-test",
+   "summary": "The Food and Drug Administration (FDA) is classifying the SARS-CoV-2 serology test into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the SARS- CoV-2 serology test. We are taking this action because we have determined that classifying the device into class II will provide ",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12901/medical-devices-neurological-devices-classification-of-the-computerized-behavioral-therapy-device": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12901/medical-devices-neurological-devices-classification-of-the-computerized-behavioral-therapy-device",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Neurological Devices; Classification of the Computerized Behavioral Therapy Device for the Treatment of Fibromyalgia Symptoms",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12901/medical-devices-neurological-devices-classification-of-the-computerized-behavioral-therapy-device",
+   "summary": "The Food and Drug Administration (FDA) is classifying the computerized behavioral therapy device for the treatment of fibromyalgia symptoms into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the computerized behavioral therapy device for the treatment of fibromyalgia sympt",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12900/medical-devices-clinical-chemistry-and-toxicology-devices-classification-of-the-prognostic-test-for": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12900/medical-devices-clinical-chemistry-and-toxicology-devices-classification-of-the-prognostic-test-for",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Clinical Chemistry and Toxicology Devices; Classification of the Prognostic Test for Development or Progression of Preeclampsia",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12900/medical-devices-clinical-chemistry-and-toxicology-devices-classification-of-the-prognostic-test-for",
+   "summary": "The Food and Drug Administration (FDA) is classifying the prognostic test for development or progression of preeclampsia into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the prognostic test for development or progression of preeclampsia. We are taking this action because",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12899/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-foam-or-gel-chemical": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/26/2026-12899/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-foam-or-gel-chemical",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; General Hospital and Personal Use Devices; Classification of the Foam or Gel Chemical Sterilant/High Level Disinfectant",
+   "link": "https://www.federalregister.gov/documents/2026/06/26/2026-12899/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-foam-or-gel-chemical",
+   "summary": "The Food and Drug Administration (FDA) is classifying the foam or gel chemical sterilant/high level disinfectant into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the foam or gel chemical sterilant/high level disinfectant. We are taking this action because we have determi",
+   "published": "2026-06-26",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/22/2026-12445/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-traction-device": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/22/2026-12445/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-traction-device",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Endoscopic Traction Device",
+   "link": "https://www.federalregister.gov/documents/2026/06/22/2026-12445/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-traction-device",
+   "summary": "The Food and Drug Administration (FDA) is classifying the endoscopic traction device into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the endoscopic traction device. We are taking this action because we have determined that classifying the device into class II will provi",
+   "published": "2026-06-22",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/22/2026-12444/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-light-projecting": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/22/2026-12444/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-light-projecting",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Endoscopic Light-Projecting Measuring Device",
+   "link": "https://www.federalregister.gov/documents/2026/06/22/2026-12444/medical-devices-gastroenterology-urology-devices-classification-of-the-endoscopic-light-projecting",
+   "summary": "The Food and Drug Administration (FDA) is classifying the endoscopic light-projecting measuring device into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the endoscopic light-projecting measuring device. We are taking this action because we have determined that classifying",
+   "published": "2026-06-22",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/22/2026-12443/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-in-vitro-diagnostic": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/22/2026-12443/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-in-vitro-diagnostic",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Simple In Vitro Diagnostic Device for the Detection of Secreted Proteins From Bacillus Species (spp.) in Human Clinical Samples",
+   "link": "https://www.federalregister.gov/documents/2026/06/22/2026-12443/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-in-vitro-diagnostic",
+   "summary": "The Food and Drug Administration (FDA) is classifying the simple in vitro diagnostic device for the detection of secreted proteins from Bacillus species (spp.) in human clinical samples into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the simple in vitro diagnostic devic",
+   "published": "2026-06-22",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/18/2026-12235/advisory-committee-science-board-to-the-food-and-drug-administration-renewal": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/18/2026-12235/advisory-committee-science-board-to-the-food-and-drug-administration-renewal",
+   "source": "federal-register-fda",
+   "title": "Advisory Committee; Science Board to the Food and Drug Administration; Renewal",
+   "link": "https://www.federalregister.gov/documents/2026/06/18/2026-12235/advisory-committee-science-board-to-the-food-and-drug-administration-renewal",
+   "summary": "The Food and Drug Administration (FDA) is announcing the renewal of the Science Board to the Food and Drug Administration by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Science Board to the Food and Drug Administration for an additional 2 years beyond the charter expiration date. The new charter will be in ef",
+   "published": "2026-06-18",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/17/2026-12166/medical-devices-radiology-devices-classification-of-the-radiological-machine-learning-based": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/17/2026-12166/medical-devices-radiology-devices-classification-of-the-radiological-machine-learning-based",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Radiology Devices; Classification of the Radiological Machine Learning-Based Quantitative Imaging Software With Predetermined Change Control Plan",
+   "link": "https://www.federalregister.gov/documents/2026/06/17/2026-12166/medical-devices-radiology-devices-classification-of-the-radiological-machine-learning-based",
+   "summary": "The Food and Drug Administration (FDA) is classifying the radiological machine learning-based quantitative imaging software with predetermined change control plan into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the radiological machine learning-based quantitative imagin",
+   "published": "2026-06-17",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/17/2026-12165/medical-devices-gastroenterology-urology-devices-classification-of-the-ingestible-gastrointestinal": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/17/2026-12165/medical-devices-gastroenterology-urology-devices-classification-of-the-ingestible-gastrointestinal",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Ingestible Gastrointestinal Blood Detection Capsule",
+   "link": "https://www.federalregister.gov/documents/2026/06/17/2026-12165/medical-devices-gastroenterology-urology-devices-classification-of-the-ingestible-gastrointestinal",
+   "summary": "The Food and Drug Administration (FDA) is classifying the ingestible gastrointestinal blood detection capsule into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the ingestible gastrointestinal blood detection capsule. We are taking this action because we have determined th",
+   "published": "2026-06-17",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/11/2026-11740/medical-devices-immunology-and-microbiology-devices-classification-of-the-spinal-muscular-atrophy": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/11/2026-11740/medical-devices-immunology-and-microbiology-devices-classification-of-the-spinal-muscular-atrophy",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Spinal Muscular Atrophy Newborn Screening Test System",
+   "link": "https://www.federalregister.gov/documents/2026/06/11/2026-11740/medical-devices-immunology-and-microbiology-devices-classification-of-the-spinal-muscular-atrophy",
+   "summary": "The Food and Drug Administration (FDA) is classifying the Spinal Muscular Atrophy newborn screening test system into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the Spinal Muscular Atrophy newborn screening test system. We are taking this action because we have determine",
+   "published": "2026-06-11",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/11/2026-11739/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-point-of-care": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/11/2026-11739/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-point-of-care",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the Simple Point-of-Care Device to Directly Detect SARS-CoV-2 Viral Targets From Clinical Specimens in Near-Patient Settings",
+   "link": "https://www.federalregister.gov/documents/2026/06/11/2026-11739/medical-devices-immunology-and-microbiology-devices-classification-of-the-simple-point-of-care",
+   "summary": "The Food and Drug Administration (FDA) is classifying the simple point-of-care device to directly detect SARS-CoV-2 viral targets from clinical specimens in near-patient settings into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the simple point-of-care device to directly",
+   "published": "2026-06-11",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/06/10/2026-11589/medical-devices-ear-nose-and-throat-devices-classification-of-the-combined-acoustic-and-electrical": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/06/10/2026-11589/medical-devices-ear-nose-and-throat-devices-classification-of-the-combined-acoustic-and-electrical",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Ear, Nose, and Throat Devices; Classification of the Combined Acoustic and Electrical External Stimulation Device for the Relief of Tinnitus",
+   "link": "https://www.federalregister.gov/documents/2026/06/10/2026-11589/medical-devices-ear-nose-and-throat-devices-classification-of-the-combined-acoustic-and-electrical",
+   "summary": "The Food and Drug Administration (FDA) is classifying the combined acoustic and electrical external stimulation device for the relief of tinnitus into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the combined acoustic and electrical external stimulation device for the rel",
+   "published": "2026-06-10",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-discloses-cyberattack-on-cancer-diagnostics-business/825529/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-discloses-cyberattack-on-cancer-diagnostics-business/825529/",
+   "source": "medtech-dive",
+   "title": "Abbott discloses cyberattack on cancer diagnostics business",
+   "link": "https://www.medtechdive.com/news/abbott-discloses-cyberattack-on-cancer-diagnostics-business/825529/",
+   "summary": "The cyberattack follows Abbott’s recent $21 billion purchase of Exact Sciences. Abbott did not disclose what kind of information was accessed.",
+   "published": "2026-07-17T15:27:00.000Z",
+   "firstSeen": "2026-07-17T15:30:01.515Z"
   }
  }
 }
