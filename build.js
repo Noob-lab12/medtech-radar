@@ -198,7 +198,8 @@ const html = `<!doctype html>
 <body>
 <header>
   <h1>🩺 MedTech-Radar <small>Stand: <span id="stand"></span></small></h1>
-  <div class="controls" id="typechips"></div>
+  <div class="controls" id="catchips"></div>
+  <div class="controls" style="margin-top:6px" id="typechips"></div>
   <div class="controls" style="margin-top:6px"><input id="q" type="search" placeholder="Suchen (z. B. MDR, 13485, EUDAMED) …"></div>
 </header>
 <main>
@@ -217,7 +218,7 @@ const STATUS = ${JSON.stringify(status)};
 const GENERATED = ${JSON.stringify(generatedAt)};
 const COLLAPSED = 5; // Einträge pro Karte, bevor "mehr anzeigen" kommt
 
-let activeType = "alle", query = "";
+let activeType = "alle", activeCat = "alle", query = "";
 const expanded = new Set();
 
 document.getElementById("stand").textContent = new Date(GENERATED).toLocaleString("de-DE",{dateStyle:"medium",timeStyle:"short"});
@@ -236,23 +237,41 @@ function isNew(it){ return (Date.now() - Date.parse(it.firstSeen)) < 36*3600*100
 function fmtDate(it){
   return new Date(ts(it)).toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"2-digit"});
 }
-function matches(it){
-  return (activeType === "alle" || it.type === activeType) &&
-         (!query || (it.title + " " + it.summary + " " + it.sourceName).toLowerCase().includes(query));
+function matchesQuery(it){
+  return !query || (it.title + " " + it.summary + " " + it.sourceName).toLowerCase().includes(query);
 }
+function matchesType(it){ return activeType === "alle" || it.type === activeType; }
+function matchesCat(it){ return activeCat === "alle" || it.category === activeCat; }
+function matches(it){ return matchesType(it) && matchesCat(it) && matchesQuery(it); }
 
-// Filterleiste: Dokumentarten mit Anzahl
+// Filterleisten: Region und Dokumentart, kombinierbar.
+// Die Anzahl an jedem Chip berücksichtigt jeweils den anderen aktiven Filter.
 function renderChips(){
+  const catBox = document.getElementById("catchips");
+  catBox.innerHTML = "";
+  const catBase = ITEMS.filter(it => matchesType(it) && matchesQuery(it));
+  for (const cat of ["alle", ...CATS]){
+    const n = cat === "alle" ? catBase.length : catBase.filter(it => it.category === cat).length;
+    const b = document.createElement("button");
+    b.className = "chip" + (cat === activeCat ? " active" : "");
+    b.innerHTML = esc(cat === "alle" ? "🌍 Alle Regionen" : cat) + ' <span class="n">' + n + "</span>";
+    b.onclick = () => { activeCat = cat; render(); };
+    catBox.appendChild(b);
+  }
+
   const box = document.getElementById("typechips");
   box.innerHTML = "";
+  const typeBase = ITEMS.filter(it => matchesCat(it) && matchesQuery(it));
   const counts = {};
-  ITEMS.forEach(it => counts[it.type] = (counts[it.type] || 0) + 1);
-  const defs = [["alle", {label:"Alle", dot:null}], ...Object.entries(TYPES).filter(([k]) => counts[k])];
+  typeBase.forEach(it => counts[it.type] = (counts[it.type] || 0) + 1);
+  const defs = [["alle", {label:"Alle Arten", dot:null}], ...Object.entries(TYPES)];
   for (const [key, def] of defs){
+    const n = key === "alle" ? typeBase.length : (counts[key] || 0);
+    if (key !== "alle" && !ITEMS.some(it => it.type === key)) continue;
     const b = document.createElement("button");
     b.className = "chip" + (key === activeType ? " active" : "");
     b.innerHTML = (def.dot ? '<span class="dot" style="background:' + def.dot + '"></span>' : "") +
-      esc(def.label) + ' <span class="n">' + (key === "alle" ? ITEMS.length : counts[key]) + "</span>";
+      esc(def.label) + ' <span class="n">' + n + "</span>";
     b.onclick = () => { activeType = key; render(); };
     box.appendChild(b);
   }
