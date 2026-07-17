@@ -5,6 +5,8 @@ on:
   schedule:
     - cron: "30 4 * * *" # 04:30 UTC = 06:30 deutscher Sommerzeit
   workflow_dispatch: {} # erlaubt manuellen Start per Knopfdruck
+  push:
+    branches: [main] # bei Code-Änderungen sofort neu veröffentlichen
 
 permissions:
   contents: write
