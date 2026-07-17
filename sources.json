@@ -1,0 +1,85 @@
+{
+  "_hinweis": "Hier stehen alle Nachrichtenquellen. Eine Quelle entfernen = Block löschen. 'filter' bedeutet: nur Meldungen übernehmen, die mindestens eines dieser Stichworte enthalten.",
+  "sources": [
+    {
+      "id": "ec-medical-devices",
+      "name": "EU-Kommission – Medical Devices",
+      "url": "https://health.ec.europa.eu/node/12916/rss_en",
+      "category": "EU",
+      "lang": "en"
+    },
+    {
+      "id": "eurlex-oj",
+      "name": "EUR-Lex – Amtsblatt (neue Rechtsakte)",
+      "url": "https://eur-lex.europa.eu/EN/display-feed.rss?rssId=222",
+      "category": "EU",
+      "lang": "en",
+      "filter": ["2017/745", "2017/746", "medical device", "in vitro diagnostic", "medizinprodukt"]
+    },
+    {
+      "id": "ec-harmonised-standards",
+      "name": "EU – Harmonisierte Normen (Medizinprodukte)",
+      "url": "https://ec.europa.eu/newsroom/growth/feed?tpa_id=30111",
+      "category": "EU",
+      "lang": "en"
+    },
+    {
+      "id": "dg-sante",
+      "name": "EU-Kommission – DG SANTE Newsroom",
+      "url": "https://ec.europa.eu/newsroom/sante/feed",
+      "category": "EU",
+      "lang": "en",
+      "filter": ["medical device", "mdcg", "eudamed", "2017/745", "2017/746", "in vitro diagnostic", "notified bod"]
+    },
+    {
+      "id": "ema-news",
+      "name": "EMA – News",
+      "url": "https://www.ema.europa.eu/en/news.xml",
+      "category": "EU",
+      "lang": "en",
+      "filter": ["medical device", "in vitro diagnostic", "medtech", "companion diagnostic"]
+    },
+    {
+      "id": "team-nb",
+      "name": "Team-NB (Benannte Stellen)",
+      "url": "https://www.team-nb.org/feed/",
+      "category": "EU",
+      "lang": "en"
+    },
+    {
+      "id": "bfarm-medizinprodukte",
+      "name": "BfArM – Medizinprodukte",
+      "url": "https://www.bfarm.de/SiteGlobals/Functions/RSSFeed/DE/Medizinprodukte/RSSNewsfeed.xml",
+      "category": "Deutschland",
+      "lang": "de"
+    },
+    {
+      "id": "bfarm-presse",
+      "name": "BfArM – Pressemitteilungen",
+      "url": "https://www.bfarm.de/SiteGlobals/Functions/RSSFeed/DE/Pressemitteilungen/RSSNewsfeed.xml",
+      "category": "Deutschland",
+      "lang": "de"
+    },
+    {
+      "id": "bfarm-pharmakovigilanz",
+      "name": "BfArM – Pharmakovigilanz",
+      "url": "https://www.bfarm.de/SiteGlobals/Functions/RSSFeed/DE/Pharmakovigilanz/RSSNewsfeed.xml",
+      "category": "Deutschland",
+      "lang": "de"
+    },
+    {
+      "id": "johner-blog",
+      "name": "Johner Institut – Blog",
+      "url": "https://www.johner-institut.de/blog/feed/",
+      "category": "Fachmedien",
+      "lang": "de"
+    },
+    {
+      "id": "medtech-dive",
+      "name": "MedTech Dive",
+      "url": "https://www.medtechdive.com/feeds/news/",
+      "category": "Fachmedien",
+      "lang": "en"
+    }
+  ]
+}

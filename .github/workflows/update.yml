@@ -1,0 +1,52 @@
+# Läuft jeden Morgen automatisch: Feeds abrufen, Seite bauen, veröffentlichen.
+name: Nachrichten aktualisieren
+
+on:
+  schedule:
+    - cron: "30 4 * * *" # 04:30 UTC = 06:30 deutscher Sommerzeit
+  workflow_dispatch: {} # erlaubt manuellen Start per Knopfdruck
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Abhängigkeiten installieren
+        run: npm install --no-audit --no-fund
+
+      - name: Feeds abrufen und Seite bauen
+        run: node build.js
+
+      - name: Archiv zurück ins Repository speichern
+        run: |
+          git config user.name "medtech-radar-bot"
+          git config user.email "actions@github.com"
+          git add data/items.json
+          git diff --cached --quiet || git commit -m "Datenstand $(date -u +%F)"
+          git push
+
+      - name: Seite hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Auf GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
