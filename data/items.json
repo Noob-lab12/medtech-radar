@@ -1878,5 +1878,133 @@
    "published": "2026-07-17T15:17:04.000Z",
    "firstSeen": "2026-07-19T14:29:41.596Z"
   }
+ },
+ "sourceStatus": {
+  "ec-medical-devices": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 30
+  },
+  "eurlex-oj": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 100
+  },
+  "ec-harmonised-standards": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 7
+  },
+  "dg-sante": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 100
+  },
+  "ema-news": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 8
+  },
+  "team-nb": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 10
+  },
+  "bfarm-medizinprodukte": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 20
+  },
+  "bfarm-presse": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 20
+  },
+  "federal-register-fda": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 25
+  },
+  "mhra-news": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 20
+  },
+  "swissmedic-new": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 15
+  },
+  "pmda-top": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 32
+  },
+  "anvisa-noticias": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 15
+  },
+  "imdrf-documents": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": null,
+   "lastNew": null,
+   "lastError": "Request timed out after 20000ms",
+   "fetched": null
+  },
+  "imdrf-news": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": null,
+   "lastNew": null,
+   "lastError": "Request timed out after 20000ms",
+   "fetched": null
+  },
+  "raps-regulatory-focus": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 10
+  },
+  "johner-blog": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 10
+  },
+  "medtech-dive": {
+   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 10
+  }
  }
 }

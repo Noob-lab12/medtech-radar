@@ -195,6 +195,23 @@ for (const [id, item] of Object.entries(archive.items)) {
   if (!Number.isNaN(t) && t < cutoff) delete archive.items[id];
 }
 
+// Abruf-Historie pro Quelle fortschreiben (für die Quellen-Übersicht auf der Seite)
+archive.sourceStatus ||= {};
+for (const st of status) {
+  const prev = archive.sourceStatus[st.id] || {};
+  archive.sourceStatus[st.id] = {
+    lastAttempt: now,
+    lastOk: st.ok ? now : prev.lastOk || null,
+    lastNew: st.ok && st.added > 0 ? now : prev.lastNew || null,
+    lastError: st.ok ? null : st.error,
+    fetched: st.ok ? st.fetched : (prev.fetched ?? null),
+  };
+}
+const activeIds = new Set(sources.map((s) => s.id));
+for (const id of Object.keys(archive.sourceStatus)) {
+  if (!activeIds.has(id)) delete archive.sourceStatus[id];
+}
+
 fs.mkdirSync(path.dirname(DATA_FILE), { recursive: true });
 fs.writeFileSync(DATA_FILE, JSON.stringify(archive, null, 1));
 
@@ -222,6 +239,10 @@ console.log("\nDokumentarten:", Object.entries(typeCounts).map(([k, v]) => `${TY
 
 const categories = [...new Set(sources.map((s) => s.category))];
 const sourcesMeta = sources.map(({ id, name, category }) => ({ id, name, category }));
+const sourcesOverview = sources.map((s) => ({
+  id: s.id, name: s.name, category: s.category, url: s.url,
+  ...(archive.sourceStatus[s.id] || {}),
+}));
 const generatedAt = now;
 
 // ---------- Dashboard erzeugen ----------
@@ -268,13 +289,26 @@ const html = `<!doctype html>
   .more{margin-top:8px;width:100%;border:1px solid var(--border);background:var(--chip);color:var(--muted);border-radius:8px;padding:6px;font-size:.8rem;cursor:pointer}
   .empty{text-align:center;color:var(--muted);margin:40px 0}
   footer{max-width:1100px;margin:0 auto;padding:0 16px 30px;font-size:.74rem;color:var(--muted)}
-  details summary{cursor:pointer}
   .err{color:#c0392b}
+  .headrow{display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .overlay{position:fixed;inset:0;background:var(--bg);z-index:20;overflow:auto;padding:14px 16px 40px}
+  .overlay .headrow{position:sticky;top:0;background:var(--bg);padding:4px 0 10px}
+  .tablewrap{overflow-x:auto;background:var(--card);border:1px solid var(--border);border-radius:12px}
+  .overlay table{border-collapse:collapse;width:100%;font-size:.84rem;min-width:640px}
+  .overlay th,.overlay td{padding:8px 10px;border-bottom:1px solid var(--border);text-align:left;vertical-align:top}
+  .overlay th{font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+  .overlay td a{color:var(--accent);text-decoration:none}
+  .st-ok{color:var(--new);font-weight:600}
+  .st-fail{color:#c0392b;font-weight:600}
+  .overlay .cat td{background:var(--chip);font-weight:600;font-size:.76rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
 </style>
 </head>
 <body>
 <header>
-  <h1>🩺 MedTech-Radar <small>Stand: <span id="stand"></span></small></h1>
+  <div class="headrow">
+    <h1>🩺 MedTech-Radar <small>Stand: <span id="stand"></span></small></h1>
+    <button class="chip" id="srcbtn">📋 Quellen</button>
+  </div>
   <div class="controls" id="catchips"></div>
   <div class="controls" style="margin-top:6px" id="typechips"></div>
   <div class="controls" style="margin-top:6px"><input id="q" type="search" placeholder="Suchen (z. B. MDR, 13485, EUDAMED) …"></div>
@@ -283,9 +317,17 @@ const html = `<!doctype html>
   <div class="tiles" id="tiles"></div>
   <div id="sections"></div>
 </main>
-<footer>
-  <details><summary>Quellen-Status des letzten Laufs</summary><ul id="status"></ul></details>
-</footer>
+<footer>Alle Quellen und ihr Abruf-Status: Knopf „📋 Quellen" oben rechts.</footer>
+<div class="overlay" id="srcpanel" hidden>
+  <div class="headrow">
+    <h1>📋 Beobachtete Quellen</h1>
+    <button class="chip" id="srcclose">✕ Schließen</button>
+  </div>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Quelle</th><th>Status</th><th>Letzter Abruf</th><th>Letzter Erfolg</th><th>Zuletzt Neues</th><th>Einträge im Feed</th></tr></thead>
+    <tbody id="srcrows"></tbody>
+  </table></div>
+</div>
 <script>
 const ITEMS = ${JSON.stringify(itemList)};
 const SOURCES = ${JSON.stringify(sourcesMeta)};
@@ -300,13 +342,38 @@ const expanded = new Set();
 
 document.getElementById("stand").textContent = new Date(GENERATED).toLocaleString("de-DE",{dateStyle:"medium",timeStyle:"short"});
 
-const stBox = document.getElementById("status");
-STATUS.forEach(s => {
-  const li = document.createElement("li");
-  li.innerHTML = s.ok ? esc(s.name) + ": " + s.fetched + " Einträge, " + s.added + " neu"
-                      : '<span class="err">' + esc(s.name) + ": FEHLER – " + esc(s.error) + "</span>";
-  stBox.appendChild(li);
-});
+// Quellen-Übersicht (Overlay)
+const SRC_OVERVIEW = ${JSON.stringify(sourcesOverview)};
+function fmtDT(iso){
+  return iso ? new Date(iso).toLocaleString("de-DE",{dateStyle:"medium",timeStyle:"short"}) : "—";
+}
+function renderSources(){
+  const tb = document.getElementById("srcrows");
+  tb.innerHTML = "";
+  let lastCat = "";
+  for (const s of SRC_OVERVIEW){
+    if (s.category !== lastCat){
+      const tr = document.createElement("tr");
+      tr.className = "cat";
+      tr.innerHTML = '<td colspan="6">' + esc(s.category) + "</td>";
+      tb.appendChild(tr);
+      lastCat = s.category;
+    }
+    const ok = !s.lastError;
+    const tr = document.createElement("tr");
+    tr.innerHTML =
+      '<td><a href="' + s.url + '" target="_blank" rel="noopener">' + esc(s.name) + "</a></td>" +
+      '<td class="' + (ok ? "st-ok" : "st-fail") + '">' + (ok ? "✓ OK" : "✗ Fehler") +
+        (ok ? "" : '<br><span style="font-weight:400;font-size:.76rem">' + esc(s.lastError) + "</span>") + "</td>" +
+      "<td>" + fmtDT(s.lastAttempt) + "</td>" +
+      "<td>" + fmtDT(s.lastOk) + "</td>" +
+      "<td>" + fmtDT(s.lastNew) + "</td>" +
+      "<td>" + (s.fetched ?? "—") + "</td>";
+    tb.appendChild(tr);
+  }
+}
+document.getElementById("srcbtn").onclick = () => { renderSources(); document.getElementById("srcpanel").hidden = false; };
+document.getElementById("srcclose").onclick = () => { document.getElementById("srcpanel").hidden = true; };
 
 function esc(s){ const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
 function ts(it){ return Date.parse(it.published || it.firstSeen) || 0; }
