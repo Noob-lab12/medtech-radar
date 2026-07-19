@@ -1759,34 +1759,97 @@
    "link": "https://www.swissmedic.ch/swissmedic/en/home/news/mitteilungen/checkliste-fuer-eine-inspektion-der-materiovigilance-in-spitaelern.html",
    "summary": "This checklist serves as a tool for Swissmedic in the context of its inspection activities in hospitals and may be used by healthcare facilities to carry out gap analyses with regard to the requirements of the GPMV-Spital",
    "published": "2026-07-17T00:00:00.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   },
-  "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb": {
-   "id": "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb",
-   "source": "hc-device-recalls",
-   "title": "Atellica® CH Urine Albumin (UAlb)",
-   "link": "https://recalls-rappels.canada.ca/en/alert-recall/atellicar-ch-urine-albumin-ualb",
-   "summary": "Siemens Healthineers has confirmed, through the investigation of customer complaints, the potential for the following issues associated with processing Atellica CH Urine Albumin (UAlb) tests on Atellica CH and Atellica CI analyzers.• Falsely depressed Atellica CH Urea Nitrogen (UN_c) results• Falsely depressed Atellica CH Enzymatic Hemoglobin A1c (A1c_E) results• Increased rate of reaction cuvette",
+  "raps-regulatory-focus::https://www.raps.org/resource/industry-wants-more-clarity-on-ngs-for-assessing-gene-therapy-safety.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/industry-wants-more-clarity-on-ngs-for-assessing-gene-therapy-safety.html",
+   "source": "raps-regulatory-focus",
+   "title": "Industry wants more clarity on NGS for assessing gene therapy safety",
+   "link": "https://www.raps.org/resource/industry-wants-more-clarity-on-ngs-for-assessing-gene-therapy-safety.html",
+   "summary": "17 Jul 2026 Industry wants more clarity on NGS for assessing gene therapy safety The pharmaceutical industry has largely endorsed the US Food and Drug Administration's (FDA) guidance on next-generation sequencing (NGS) for assessing the safety of human gene therapy products. However, they have requested clarification on several points, including off-target data, nomination methods, and additional ",
    "published": "2026-07-17T12:00:00.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   },
-  "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source": {
-   "id": "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source",
-   "source": "hc-device-recalls",
-   "title": "ER-Spec Single-Use Vaginal Speculum with LED Light Source",
-   "link": "https://recalls-rappels.canada.ca/en/alert-recall/er-spec-single-use-vaginal-speculum-led-light-source",
-   "summary": "Units from specific lots of the ER-Spec Single-Use Vaginal Speculum with LED Light Source, X-Small, may exhibit a plastic burr on the proximal plastic blade, near the integrated light source. The burr may introduce a potentially sharp plastic edge, in a contact region for both the patient and healthcare provider.",
+  "raps-regulatory-focus::https://www.raps.org/resource/experts-ending-adequate-provision-would-shut-down-prescription-drug-ads.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/experts-ending-adequate-provision-would-shut-down-prescription-drug-ads.html",
+   "source": "raps-regulatory-focus",
+   "title": "Experts: Ending adequate provision would shut down prescription drug ads",
+   "link": "https://www.raps.org/resource/experts-ending-adequate-provision-would-shut-down-prescription-drug-ads.html",
+   "summary": "17 Jul 2026 Experts: Ending adequate provision would shut down prescription drug ads The US Food and Drug Administration’s (FDA) plans to eliminate adequate provision in direct-to-consumer (DTC) prescription drug ads could result in a de facto ban on drug advertising due to the high costs associated with fully publicizing a drug's safety profile and practical limitations of broadcast advertising, ",
    "published": "2026-07-17T12:00:00.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   },
-  "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3": {
-   "id": "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3",
-   "source": "hc-device-recalls",
-   "title": "Merge PACS",
-   "link": "https://recalls-rappels.canada.ca/en/alert-recall/merge-pacs-3",
-   "summary": "Merge PACS Dynamic Thumbnail Refresh feature may cause thumbnails from a previously opened patient study to display in the Thumbnail Bar of a different patient's study. As an immediate workaround, a configuration change disables automatic refresh of the Thumbnail Bar.",
-   "published": "2026-07-17T12:00:00.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+  "raps-regulatory-focus::https://www.raps.org/resource/drug-repurposing-stakeholders-say-fda-should-act-within-its-authority-avoid-disincentives.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/drug-repurposing-stakeholders-say-fda-should-act-within-its-authority-avoid-disincentives.html",
+   "source": "raps-regulatory-focus",
+   "title": "Drug repurposing: Stakeholders say FDA should act within its authority, avoid disincentives",
+   "link": "https://www.raps.org/resource/drug-repurposing-stakeholders-say-fda-should-act-within-its-authority-avoid-disincentives.html",
+   "summary": "16 Jul 2026 Drug repurposing: Stakeholders say FDA should act within its authority, avoid disincentives Patient and healthcare industry stakeholders told the US Food and Drug Administration (FDA) that while there are significant opportunities to repurpose existing drugs, the agency should ensure any new framework for repurposing drugs does not disincentivize investment or competition and fits with",
+   "published": "2026-07-16T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/cder-plans-new-guidance-on-ai-electronic-safety-report-submissions-and-more.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/cder-plans-new-guidance-on-ai-electronic-safety-report-submissions-and-more.html",
+   "source": "raps-regulatory-focus",
+   "title": "CDER plans new guidance on AI, electronic safety report submissions, and more",
+   "link": "https://www.raps.org/resource/cder-plans-new-guidance-on-ai-electronic-safety-report-submissions-and-more.html",
+   "summary": "16 Jul 2026 CDER plans new guidance on AI, electronic safety report submissions, and more The US Food and Drug Administration’s (FDA) Center for Drug Evaluation and Research (CDER) has updated its list of new and revised guidance documents it plans to issue this year to include four new topics since the list was last updated in February.",
+   "published": "2026-07-16T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/diamantas-backtracks-on-makary-s-policies-issued-in-journal-articles.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/diamantas-backtracks-on-makary-s-policies-issued-in-journal-articles.html",
+   "source": "raps-regulatory-focus",
+   "title": "Diamantas backtracks on Makary’s policies issued in journal articles",
+   "link": "https://www.raps.org/resource/diamantas-backtracks-on-makary-s-policies-issued-in-journal-articles.html",
+   "summary": "15 Jul 2026 Diamantas backtracks on Makary’s policies issued in journal articles The acting commissioner of the US Food and Drug Administration (FDA) has clarified that certain policies disseminated in medical journals by former FDA Commissioner Marty Makary are not official agency policy or guidance.",
+   "published": "2026-07-15T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/experts-industry-to-benefit-from-focused-follow-ups-major-deficiency-letters-in-mdufa-vi.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/experts-industry-to-benefit-from-focused-follow-ups-major-deficiency-letters-in-mdufa-vi.html",
+   "source": "raps-regulatory-focus",
+   "title": "Experts: Industry to benefit from focused follow-ups, major deficiency letters in MDUFA VI",
+   "link": "https://www.raps.org/resource/experts-industry-to-benefit-from-focused-follow-ups-major-deficiency-letters-in-mdufa-vi.html",
+   "summary": "14 Jul 2026 Experts: Industry to benefit from focused follow-ups, major deficiency letters in MDUFA VI Industry experts say the draft commitment letter for the next Medical Device User Fee Amendments (MDUFA VI) program negotiated by the US Food and Drug Administration (FDA) and the medtech industry offers improvements over the current program while addressing the agency’s resource constraints.",
+   "published": "2026-07-14T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-warns-drugmakers-over-contamination-controls-inadequate-investigations.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-warns-drugmakers-over-contamination-controls-inadequate-investigations.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA warns drugmakers over contamination controls, inadequate investigations",
+   "link": "https://www.raps.org/resource/fda-warns-drugmakers-over-contamination-controls-inadequate-investigations.html",
+   "summary": "14 Jul 2026 FDA warns drugmakers over contamination controls, inadequate investigations The US Food and Drug Administration (FDA) recently issued two warning letters to a sterile drug manufacturer and an over-the-counter (OTC) drug maker in the US for multiple violations of good manufacturing practices (GMPs). These violations included inadequate contamination controls, failure to investigate batc",
+   "published": "2026-07-14T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-finalizes-guidance-on-formal-meetings-with-otc-sponsors.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-finalizes-guidance-on-formal-meetings-with-otc-sponsors.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA finalizes guidance on formal meetings with OTC sponsors",
+   "link": "https://www.raps.org/resource/fda-finalizes-guidance-on-formal-meetings-with-otc-sponsors.html",
+   "summary": "13 Jul 2026 FDA finalizes guidance on formal meetings with OTC sponsors The US Food and Drug Administration (FDA) on Monday released final guidance detailing the procedures for holding formal meetings between sponsors of over-the-counter (OTC) monograph drugs and the agency. This update revises the criteria for the types of meetings that sponsors can request and introduces hybrid meetings as an ad",
+   "published": "2026-07-13T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/psychedelics-fda-offers-clarifications-compromises-in-final-clinical-trial-guidance.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/psychedelics-fda-offers-clarifications-compromises-in-final-clinical-trial-guidance.html",
+   "source": "raps-regulatory-focus",
+   "title": "Psychedelics: FDA offers clarifications, compromises in final clinical trial guidance",
+   "link": "https://www.raps.org/resource/psychedelics-fda-offers-clarifications-compromises-in-final-clinical-trial-guidance.html",
+   "summary": "13 Jul 2026 Psychedelics: FDA offers clarifications, compromises in final clinical trial guidance The US Food and Drug Administration (FDA) has finalized its guidance on clinical trial requirements for developing psychedelic therapies. The final version clarifies the agency's thinking, based on industry feedback, especially regarding clinical and safety considerations in the design of clinical tri",
+   "published": "2026-07-13T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-proposes-rule-to-ease-registration-for-distributed-manufacturers-require-foreign-api-sites-to-register.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-proposes-rule-to-ease-registration-for-distributed-manufacturers-require-foreign-api-sites-to-register.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA proposes rule to ease registration for distributed manufacturers, require foreign API sites to register",
+   "link": "https://www.raps.org/resource/fda-proposes-rule-to-ease-registration-for-distributed-manufacturers-require-foreign-api-sites-to-register.html",
+   "summary": "10 Jul 2026 FDA proposes rule to ease registration for distributed manufacturers, require foreign API sites to register The US Food and Drug Administration (FDA) on Friday outlined a set of proposed reforms to advance modern manufacturing methods and increase supply chain visibility. In a proposed rule, the agency said it will enable distributed manufacturers to register as a single entity under a",
+   "published": "2026-07-10T12:00:00.000Z",
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   },
   "medtech-dive::https://www.medtechdive.com/news/digital-health-funding-first-half-2026-rock-health/825414/": {
    "id": "medtech-dive::https://www.medtechdive.com/news/digital-health-funding-first-half-2026-rock-health/825414/",
@@ -1795,7 +1858,7 @@
    "link": "https://www.medtechdive.com/news/digital-health-funding-first-half-2026-rock-health/825414/",
    "summary": "Venture capital funding deals worth $100 million or more made up nearly half of all money invested so far this year, according to Rock Health.",
    "published": "2026-07-17T16:06:00.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   },
   "medtech-dive::https://www.medtechdive.com/news/medtronic-completes-spr-therapeutics-acquisition/825502/": {
    "id": "medtech-dive::https://www.medtechdive.com/news/medtronic-completes-spr-therapeutics-acquisition/825502/",
@@ -1804,7 +1867,7 @@
    "link": "https://www.medtechdive.com/news/medtronic-completes-spr-therapeutics-acquisition/825502/",
    "summary": "Medtronic bought the pain company to expand in neuromodulation, one of its areas of strategic focus and investment.",
    "published": "2026-07-17T15:54:00.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   },
   "medtech-dive::https://www.medtechdive.com/news/intuitive-ties-q2-procedure-softness-to-aca-subsidy-expirations/825548/": {
    "id": "medtech-dive::https://www.medtechdive.com/news/intuitive-ties-q2-procedure-softness-to-aca-subsidy-expirations/825548/",
@@ -1813,7 +1876,7 @@
    "link": "https://www.medtechdive.com/news/intuitive-ties-q2-procedure-softness-to-aca-subsidy-expirations/825548/",
    "summary": "Despite an unexpected slowdown in U.S. procedure growth, system placements remained healthy, and the surgical robotics company maintained its 2026 forecast for worldwide da Vinci robot procedures.",
    "published": "2026-07-17T15:17:04.000Z",
-   "firstSeen": "2026-07-18T09:53:11.836Z"
+   "firstSeen": "2026-07-19T14:29:41.596Z"
   }
  }
 }

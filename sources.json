@@ -15,7 +15,13 @@
       "url": "https://eur-lex.europa.eu/EN/display-feed.rss?rssId=222",
       "category": "EU",
       "lang": "en",
-      "filter": ["2017/745", "2017/746", "medical device", "in vitro diagnostic", "medizinprodukt"],
+      "filter": [
+        "2017/745",
+        "2017/746",
+        "medical device",
+        "in vitro diagnostic",
+        "medizinprodukt"
+      ],
       "forceType": "rechtsakt"
     },
     {
@@ -32,7 +38,15 @@
       "url": "https://ec.europa.eu/newsroom/sante/feed",
       "category": "EU",
       "lang": "en",
-      "filter": ["medical device", "mdcg", "eudamed", "2017/745", "2017/746", "in vitro diagnostic", "notified bod"],
+      "filter": [
+        "medical device",
+        "mdcg",
+        "eudamed",
+        "2017/745",
+        "2017/746",
+        "in vitro diagnostic",
+        "notified bod"
+      ],
       "defaultType": "news"
     },
     {
@@ -41,7 +55,12 @@
       "url": "https://www.ema.europa.eu/en/news.xml",
       "category": "EU",
       "lang": "en",
-      "filter": ["medical device", "in vitro diagnostic", "medtech", "companion diagnostic"],
+      "filter": [
+        "medical device",
+        "in vitro diagnostic",
+        "medtech",
+        "companion diagnostic"
+      ],
       "defaultType": "news"
     },
     {
@@ -69,23 +88,6 @@
       "defaultType": "news"
     },
     {
-      "id": "bfarm-pharmakovigilanz",
-      "name": "BfArM – Pharmakovigilanz",
-      "url": "https://www.bfarm.de/SiteGlobals/Functions/RSSFeed/DE/Pharmakovigilanz/RSSNewsfeed.xml",
-      "category": "Deutschland",
-      "lang": "de",
-      "defaultType": "sicherheit"
-    },
-    {
-      "id": "fda-device-recalls",
-      "name": "FDA – Device Recalls (openFDA)",
-      "url": "https://api.fda.gov/device/enforcement.json?sort=report_date:desc&limit=25",
-      "kind": "openfda",
-      "category": "USA",
-      "lang": "en",
-      "forceType": "sicherheit"
-    },
-    {
       "id": "federal-register-fda",
       "name": "Federal Register – FDA (Medical Devices)",
       "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=food-and-drug-administration&conditions%5Bterm%5D=%22medical%20device%22&per_page=25&order=newest",
@@ -100,17 +102,13 @@
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=medicines-and-healthcare-products-regulatory-agency",
       "category": "UK",
       "lang": "en",
-      "filter": ["device", "diagnostic", "medtech", "software"],
+      "filter": [
+        "device",
+        "diagnostic",
+        "medtech",
+        "software"
+      ],
       "defaultType": "news"
-    },
-    {
-      "id": "mhra-alerts",
-      "name": "MHRA – Device Safety Alerts",
-      "url": "https://www.gov.uk/drug-device-alerts.atom",
-      "category": "UK",
-      "lang": "en",
-      "filter": ["device", "diagnostic"],
-      "forceType": "sicherheit"
     },
     {
       "id": "swissmedic-new",
@@ -118,24 +116,13 @@
       "url": "https://fetchrss.com/feed/X-CSwP0MWGVCaG_Z2JbPgiti.rss",
       "category": "Schweiz",
       "lang": "en",
-      "filter": ["device", "medizinprodukt", "diagnostic", "medtech"],
+      "filter": [
+        "device",
+        "medizinprodukt",
+        "diagnostic",
+        "medtech"
+      ],
       "defaultType": "news"
-    },
-    {
-      "id": "hc-device-recalls",
-      "name": "Health Canada – Device Recalls & Alerts",
-      "url": "https://recalls-rappels.canada.ca/en/feed/medical-devices-alerts-recalls",
-      "category": "Kanada",
-      "lang": "en",
-      "forceType": "sicherheit"
-    },
-    {
-      "id": "tga-safety-alerts",
-      "name": "TGA – Safety Alerts",
-      "url": "https://www.tga.gov.au/feeds/alert/safety-alerts.xml",
-      "category": "Australien",
-      "lang": "en",
-      "forceType": "sicherheit"
     },
     {
       "id": "pmda-top",
@@ -143,7 +130,11 @@
       "url": "https://www.pmda.go.jp/rss_008.xml",
       "category": "Japan",
       "lang": "en",
-      "filter": ["device", "diagnostic", "medtech"],
+      "filter": [
+        "device",
+        "diagnostic",
+        "medtech"
+      ],
       "defaultType": "news"
     },
     {
@@ -152,7 +143,12 @@
       "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/RSS",
       "category": "Brasilien",
       "lang": "pt",
-      "filter": ["dispositivo", "produtos para saúde", "produto para saúde", "equipamento médico"],
+      "filter": [
+        "dispositivo",
+        "produtos para saúde",
+        "produto para saúde",
+        "equipamento médico"
+      ],
       "defaultType": "news"
     },
     {
@@ -170,6 +166,15 @@
       "category": "International",
       "lang": "en",
       "defaultType": "news"
+    },
+    {
+      "id": "raps-regulatory-focus",
+      "name": "RAPS – Regulatory Focus",
+      "url": "https://www.raps.org/resource-library-search.html?information_type=regulatory-news",
+      "kind": "raps",
+      "category": "Fachmedien",
+      "lang": "en",
+      "forceType": "fachbeitrag"
     },
     {
       "id": "johner-blog",

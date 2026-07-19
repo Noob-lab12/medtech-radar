@@ -106,9 +106,48 @@ async function fetchFederalRegister(src) {
   }));
 }
 
+// RAPS Regulatory Focus hat keinen RSS-Feed mehr — Artikel direkt aus der Übersichtsseite lesen
+async function fetchRaps(src) {
+  const res = await fetch(src.url, {
+    headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36" },
+    signal: AbortSignal.timeout(20000),
+  });
+  if (!res.ok) throw new Error(`Status code ${res.status}`);
+  const html = await res.text();
+  const items = [];
+  for (const block of html.split(/<article[^>]*article-list-item/).slice(1)) {
+    const linkM = block.match(/href="(https:\/\/www\.raps\.org\/resource\/[^"]+)"/);
+    if (!linkM) continue;
+    const link = linkM[1];
+    // Titel: der erste Anker auf die Artikel-URL, der sichtbaren Text enthält (der Bild-Link ist leer)
+    let title = "";
+    const aRe = new RegExp(`<a[^>]+href="${link.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}"[^>]*>([\\s\\S]*?)</a>`, "g");
+    let a;
+    while ((a = aRe.exec(block))) {
+      const text = stripHtml(a[1]);
+      if (text) { title = text; break; }
+    }
+    if (!title) title = decodeURIComponent(link.split("/").pop().replace(/\.html$/, "").replace(/-/g, " "));
+    const dateM = stripHtml(block).match(/\b(\d{1,2} [A-Z][a-z]{2} \d{4})\b/);
+    const pM = block.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+    const published = dateM ? new Date(dateM[1] + " 12:00 UTC") : null;
+    items.push({
+      id: `${src.id}::${link}`,
+      source: src.id,
+      title: title.slice(0, 300),
+      link,
+      summary: pM ? stripHtml(pM[1]).slice(0, 400) : "",
+      published: published && !Number.isNaN(published.getTime()) ? published.toISOString() : null,
+    });
+  }
+  if (!items.length) throw new Error("Keine Artikel gefunden — Seitenstruktur hat sich vermutlich geändert");
+  return items;
+}
+
 async function fetchSource(src) {
   if (src.kind === "openfda") return fetchOpenFda(src);
   if (src.kind === "federalregister") return fetchFederalRegister(src);
+  if (src.kind === "raps") return fetchRaps(src);
   const feed = await parser.parseURL(src.url);
   return (feed.items || []).map((it) => {
     const title = stripHtml(it.title).slice(0, 300);
