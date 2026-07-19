@@ -72,6 +72,24 @@
       "defaultType": "news"
     },
     {
+      "id": "mdcg-guidance-watch",
+      "name": "MDCG-Guidance-Seite (Überwachung)",
+      "url": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en",
+      "kind": "watch",
+      "category": "EU",
+      "lang": "en",
+      "forceType": "guidance"
+    },
+    {
+      "id": "harmonised-normen-watch",
+      "name": "Harmonisierte Normen – Amtsblatt-Liste (Überwachung)",
+      "url": "https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards/medical-devices_en",
+      "kind": "watch",
+      "category": "EU",
+      "lang": "en",
+      "forceType": "norm"
+    },
+    {
       "id": "medtech-europe",
       "name": "MedTech Europe (Branchenverband)",
       "url": "https://www.medtecheurope.org/feed/",
@@ -100,6 +118,15 @@
       "id": "bfarm-presse",
       "name": "BfArM – Pressemitteilungen",
       "url": "https://www.bfarm.de/SiteGlobals/Functions/RSSFeed/DE/Pressemitteilungen/RSSNewsfeed.xml",
+      "category": "Deutschland",
+      "lang": "de",
+      "defaultType": "news"
+    },
+    {
+      "id": "zlg-watch",
+      "name": "ZLG – Medizinprodukte Aktuelles (Überwachung)",
+      "url": "https://www.zlg.de/medizinprodukte/aktuelles",
+      "kind": "watch",
       "category": "Deutschland",
       "lang": "de",
       "defaultType": "news"
@@ -183,6 +210,26 @@
       "category": "International",
       "lang": "en",
       "defaultType": "news"
+    },
+    {
+      "id": "iso-tc210-watch",
+      "name": "ISO/TC 210 – Normenkatalog (Überwachung)",
+      "url": "https://www.iso.org/committee/54892.html",
+      "kind": "watch",
+      "category": "International",
+      "lang": "en",
+      "forceType": "norm",
+      "watchPattern": "iso\\.org/(standard|committee)"
+    },
+    {
+      "id": "emergo-news-watch",
+      "name": "Emergo by UL – News (Überwachung)",
+      "url": "https://www.emergobyul.com/news",
+      "kind": "watch",
+      "category": "Fachmedien",
+      "lang": "en",
+      "defaultType": "fachbeitrag",
+      "watchPattern": "emergobyul\\.com/(news|resources|blog)/"
     },
     {
       "id": "raps-regulatory-focus",

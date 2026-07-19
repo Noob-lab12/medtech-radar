@@ -41,11 +41,11 @@ function classify(src, title, summary, typeHint) {
 }
 
 // ---------- Feeds abrufen ----------
+const BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
 const parser = new Parser({
   timeout: 20000,
   headers: {
-    "User-Agent":
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36",
+    "User-Agent": BROWSER_UA,
     Accept: "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
   },
 });
@@ -144,6 +144,41 @@ async function fetchRaps(src) {
   return items;
 }
 
+// Seitenüberwachung für Quellen ohne Feed: Links der Seite merken,
+// neue Links beim nächsten Lauf als Meldungen ausgeben.
+function simpleHash(s) {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return (h >>> 0).toString(36);
+}
+
+async function fetchWatch(src) {
+  const res = await fetch(src.url, {
+    headers: { "User-Agent": BROWSER_UA, Accept: "text/html,application/xhtml+xml" },
+    signal: AbortSignal.timeout(25000),
+  });
+  if (!res.ok) throw new Error(`Status code ${res.status}`);
+  const html = (await res.text())
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ");
+  const links = {};
+  const re = /<a\b[^>]*?href="([^"#]+)"[^>]*>([\s\S]*?)<\/a>/gi;
+  let m;
+  while ((m = re.exec(html))) {
+    if (/^(mailto:|javascript:|tel:)/i.test(m[1])) continue;
+    let abs;
+    try { abs = new URL(m[1], src.url).href; } catch { continue; }
+    const text = stripHtml(m[2]).slice(0, 200);
+    if (!text) continue;
+    if (src.watchPattern && !new RegExp(src.watchPattern, "i").test(abs + " " + text)) continue;
+    if (!links[abs]) links[abs] = text;
+  }
+  return { links, textHash: simpleHash(stripHtml(html)) };
+}
+
 async function fetchSource(src) {
   if (src.kind === "openfda") return fetchOpenFda(src);
   if (src.kind === "federalregister") return fetchFederalRegister(src);
@@ -168,8 +203,36 @@ const now = new Date().toISOString();
 const cutoff = Date.now() - MAX_AGE_DAYS * 24 * 3600 * 1000;
 const status = [];
 
+archive.watch ||= {};
+
 for (const src of sources) {
   try {
+    if (src.kind === "watch") {
+      const { links, textHash } = await fetchWatch(src);
+      const prev = archive.watch[src.id];
+      let added = 0;
+      if (prev) {
+        const fresh = Object.entries(links).filter(([u]) => !(u in prev.links));
+        for (const [u, text] of fresh.slice(0, 25)) {
+          const id = `${src.id}::${u}`;
+          if (!archive.items[id]) {
+            archive.items[id] = { id, source: src.id, title: text, link: u, summary: `Neu verlinkt auf: ${src.name}`, published: now, firstSeen: now };
+            added++;
+          }
+        }
+        if (!fresh.length && prev.textHash !== textHash) {
+          const id = `${src.id}::change::${textHash}`;
+          if (!archive.items[id]) {
+            archive.items[id] = { id, source: src.id, title: `Seiteninhalt geändert: ${src.name}`, link: src.url, summary: "Der Text der überwachten Seite hat sich geändert (ohne neue Links).", published: now, firstSeen: now };
+            added++;
+          }
+        }
+      }
+      archive.watch[src.id] = { links, textHash };
+      status.push({ id: src.id, name: src.name, ok: true, fetched: Object.keys(links).length, added });
+      console.log(`OK   ${src.name} [Überwachung]: ${Object.keys(links).length} Links, ${added} neu${prev ? "" : " (Basislinie angelegt)"}`);
+      continue;
+    }
     const items = await fetchSource(src);
     let added = 0;
     for (const item of items) {
@@ -210,6 +273,9 @@ for (const st of status) {
 const activeIds = new Set(sources.map((s) => s.id));
 for (const id of Object.keys(archive.sourceStatus)) {
   if (!activeIds.has(id)) delete archive.sourceStatus[id];
+}
+for (const id of Object.keys(archive.watch)) {
+  if (!activeIds.has(id)) delete archive.watch[id];
 }
 
 fs.mkdirSync(path.dirname(DATA_FILE), { recursive: true });
