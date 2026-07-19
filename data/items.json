@@ -2403,200 +2403,207 @@
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 8
   },
   "team-nb": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 32
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 231
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 34
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-07-19T19:42:13.784Z",
-   "lastOk": "2026-07-19T19:42:13.784Z",
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 28
+  },
+  "din-medizinprodukte-watch": {
+   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 52
   }
  },
  "watch": {
@@ -3068,6 +3075,63 @@
     "https://www.emergobyul.com/news/first-set-eudamed-frequently-asked-questions-deadlines": "Regulatory Update Jun 2, 2026 First Set of EUDAMED Frequently Asked Questions: Deadlines During our recent EUDAMED webinar there were a tremendous number of questions about EUDAMED. For your convenien"
    },
    "textHash": "r6rs35"
+  },
+  "din-medizinprodukte-watch": {
+   "links": {
+    "https://www.dinmedia.de/de/norm-entwurf/din-6812/404068900": "DIN 6812:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-57/400253380": "DIN EN IEC 60601-2-57:2026-09; VDE 0750-2-57:2026-09",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5367-a1/404553247": "DIN EN ISO 5367/A1:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-13356/404453381": "DIN EN ISO 13356:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-5346/403861457": "DIN 5346:2026-08 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-60601-2-4-a2/403164045": "DIN EN 60601-2-4/A2:2026-08; VDE 0750-2-4/A2:2026-08 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iso-10555-1/400993386": "DIN EN ISO 10555-1:2026-08",
+    "https://www.dinmedia.de/de/norm/din-en-iso-11979-4/400877454": "DIN EN ISO 11979-4:2026-08",
+    "https://www.dinmedia.de/de/norm/din-en-iso-11979-4/154770680": "DIN EN ISO 11979-4:2013-01",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-11979-4/391473104": "DIN EN ISO 11979-4:2025-06",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-14729/404047170": "DIN EN ISO 14729:2026-08 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15002-a1/404190558": "DIN EN ISO 15002/A1:2026-08 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iso-18490/401863403": "DIN EN ISO 18490:2026-08",
+    "https://www.dinmedia.de/de/norm/din-en-iso-18490/224734853": "DIN EN ISO 18490:2015-10",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18490/390953193": "DIN EN ISO 18490:2025-06",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-19980/404419323": "DIN EN ISO 19980:2026-08 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iso-80369-2/399145532": "DIN EN ISO 80369-2:2026-08",
+    "https://www.dinmedia.de/de/norm-entwurf/din-iec-63450/403674362": "DIN IEC 63450:2026-08; VDE 0750-104:2026-08 - Entwurf",
+    "https://www.dinmedia.de/de/norm/bs-en-iso-8980-4/404583455": "BS EN ISO 8980-4:2026-07-08",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30566045-dc/404589886": "26/30566045 DC:2026-07-03 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30566046-dc/404589996": "26/30566046 DC:2026-07-03 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30566047-dc/404590045": "26/30566047 DC:2026-07-03 - Entwurf",
+    "https://www.dinmedia.de/de/norm/oenorm-en-iso-10079-1-a1/404142173": "OENORM EN ISO 10079-1/A1:2026-07-01",
+    "https://www.dinmedia.de/de/norm/oenorm-en-iso-80601-2-70/404145577": "OENORM EN ISO 80601-2-70:2026-07-01",
+    "https://www.dinmedia.de/de/norm-entwurf/ove-en-iec-62083-a1/404146775": "OVE EN IEC 62083/A1:2026-07-01 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-58299/402152008": "DIN 58299:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-58300/402869817": "DIN 58300:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iec-60601-2-44/402804946": "DIN EN IEC 60601-2-44:2026-07; VDE 0750-2-44:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iec-60601-2-92/402829507": "DIN EN IEC 60601-2-92:2026-07; VDE 0750-2-92:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iec-62127-3-a1/402527754": "DIN EN IEC 62127-3/A1:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-7198/402838387": "DIN EN ISO 7198:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iso-17510/398403711": "DIN EN ISO 17510:2026-07",
+    "https://www.dinmedia.de/de/norm/din-en-iso-23500-1-berichtigung-1/397840398": "DIN EN ISO 23500-1 Berichtigung 1:2026-07",
+    "https://www.dinmedia.de/de/norm/din-iso-8536-6/400209668": "DIN ISO 8536-6:2026-07",
+    "https://www.dinmedia.de/de/norm-entwurf/din-iso-11040-3/402153907": "DIN ISO 11040-3:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/technische-regel/vdi-5701/279023692": "VDI 5701:2026-07",
+    "https://www.dinmedia.de/de/norm/iso-5361-amd-1/404356222": "ISO 5361 AMD 1:2026-07",
+    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-5833/404466663": "ISO/FDIS 5833:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/vornorm-entwurf/iso-dts-25198/404355367": "ISO/DTS 25198:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/iec-dis-80601-2-86/404466481": "IEC/DIS 80601-2-86:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30544034-dc/404585246": "26/30544034 DC:2026-06-26 - Entwurf",
+    "https://www.dinmedia.de/de/norm/pd-cen-iso-ts-24971-2/404579790": "PD CEN ISO/TS 24971-2:2026-06-24",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30500502-dc/404581701": "26/30500502 DC:2026-06-22 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30500505-dc/404581713": "26/30500505 DC:2026-06-22 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30540584-dc/404585192": "26/30540584 DC:2026-06-22 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30540588-dc/404585209": "26/30540588 DC:2026-06-22 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30540592-dc/404585221": "26/30540592 DC:2026-06-22 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30553927-dc/404586760": "26/30553927 DC:2026-06-22 - Entwurf",
+    "https://www.dinmedia.de/de/norm/bs-iso-7554-2/404580455": "BS ISO 7554-2:2026-06-22",
+    "https://www.dinmedia.de/de/norm/bs-iso-7554-3/404580468": "BS ISO 7554-3:2026-06-22",
+    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-7198/404144323": "OENORM EN ISO 7198:2026-06-15 - Entwurf",
+    "https://www.dinmedia.de/de/norm/oenorm-en-iso-17510/404142615": "OENORM EN ISO 17510:2026-06-15"
+   },
+   "textHash": "1ukmezk"
   }
  }
 }

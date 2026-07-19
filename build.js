@@ -171,6 +171,7 @@ async function fetchWatch(src) {
     if (/^(mailto:|javascript:|tel:)/i.test(m[1])) continue;
     let abs;
     try { abs = new URL(m[1], src.url).href; } catch { continue; }
+    if (src.stripQuery) abs = abs.split("?")[0]; // Link-Varianten (?param=…) nicht doppelt zählen
     const text = stripHtml(m[2]).slice(0, 200);
     if (!text) continue;
     if (src.watchPattern && !new RegExp(src.watchPattern, "i").test(abs + " " + text)) continue;

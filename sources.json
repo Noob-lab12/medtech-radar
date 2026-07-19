@@ -132,6 +132,17 @@
       "defaultType": "news"
     },
     {
+      "id": "din-medizinprodukte-watch",
+      "name": "DIN Media – Normen Medizinprodukte (Überwachung)",
+      "url": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+      "kind": "watch",
+      "category": "Deutschland",
+      "lang": "de",
+      "forceType": "norm",
+      "stripQuery": true,
+      "watchPattern": "dinmedia\\.de/de/(norm|norm-entwurf|vornorm|technische-regel)[^ ]*/[0-9]{6,}"
+    },
+    {
       "id": "federal-register-fda",
       "name": "Federal Register – FDA (Medical Devices)",
       "url": "https://www.federalregister.gov/api/v1/documents.json?conditions%5Bagencies%5D%5B%5D=food-and-drug-administration&conditions%5Bterm%5D=%22medical%20device%22&per_page=25&order=newest",
