@@ -72,6 +72,23 @@
       "defaultType": "news"
     },
     {
+      "id": "medtech-europe",
+      "name": "MedTech Europe (Branchenverband)",
+      "url": "https://www.medtecheurope.org/feed/",
+      "category": "EU",
+      "lang": "en",
+      "defaultType": "news"
+    },
+    {
+      "id": "eu-ai-office",
+      "name": "EU – Digitalstrategie / AI Office",
+      "url": "https://ec.europa.eu/newsroom/dae/feed",
+      "category": "EU",
+      "lang": "en",
+      "filter": ["artificial intelligence", "ai act", "ai office", "medical device"],
+      "defaultType": "news"
+    },
+    {
       "id": "bfarm-medizinprodukte",
       "name": "BfArM – Medizinprodukte",
       "url": "https://www.bfarm.de/SiteGlobals/Functions/RSSFeed/DE/Medizinprodukte/RSSNewsfeed.xml",
@@ -177,6 +194,23 @@
       "forceType": "fachbeitrag"
     },
     {
+      "id": "bvmed-regulatorik",
+      "name": "BVMed – Regulatorik (MDR)",
+      "url": "https://www.bvmed.de/rss-feed.xml/_1",
+      "category": "Deutschland",
+      "lang": "de",
+      "defaultType": "news"
+    },
+    {
+      "id": "who-news",
+      "name": "WHO – News (Medizinprodukte)",
+      "url": "https://www.who.int/rss-feeds/news-english.xml",
+      "category": "International",
+      "lang": "en",
+      "filter": ["medical device", "in vitro diagnostic", "medical equipment", "diagnostics"],
+      "defaultType": "news"
+    },
+    {
       "id": "johner-blog",
       "name": "Johner Institut – Blog",
       "url": "https://www.johner-institut.de/blog/feed/",
@@ -191,6 +225,14 @@
       "category": "Fachmedien",
       "lang": "en",
       "defaultType": "news"
+    },
+    {
+      "id": "medical-design-outsourcing",
+      "name": "Medical Design & Outsourcing",
+      "url": "https://www.medicaldesignandoutsourcing.com/feed/",
+      "category": "Fachmedien",
+      "lang": "en",
+      "defaultType": "fachbeitrag"
     }
   ]
 }

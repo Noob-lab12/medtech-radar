@@ -1877,134 +1877,691 @@
    "summary": "Despite an unexpected slowdown in U.S. procedure growth, system placements remained healthy, and the surgical robotics company maintained its 2026 forecast for worldwide da Vinci robot procedures.",
    "published": "2026-07-17T15:17:04.000Z",
    "firstSeen": "2026-07-19T14:29:41.596Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/09/policy-roundtable-on-robotic-assisted-surgery/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/09/policy-roundtable-on-robotic-assisted-surgery/",
+   "source": "medtech-europe",
+   "title": "Policy roundtable on Robotic-Assisted Surgery",
+   "link": "https://www.medtecheurope.org/2026/07/09/policy-roundtable-on-robotic-assisted-surgery/",
+   "summary": "What does it take to bring robotic surgery to every patient who needs it? Funding gaps. Reimbursement barriers. Health systems unprepared to scale. The technology is ready – the policy framework isn’t. On 7 September 2026, the MedTech Europe Robotic-Assisted Surgery Sector Group, in partnership with the European Economic and Social Committee (EESC), is convening […] The post Policy roundtable on R",
+   "published": "2026-07-09T09:27:17.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/02/medtech-europe-in-the-headlines-in-june-2026/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/02/medtech-europe-in-the-headlines-in-june-2026/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe in the headlines in June 2026",
+   "link": "https://www.medtecheurope.org/2026/07/02/medtech-europe-in-the-headlines-in-june-2026/",
+   "summary": "The recent media coverage showcased key structural challenges shaping Europe’s medtech landscape, from regulation to investment to value creation. Industry urges dedicated support for Europe’s €13B IVD sector Position paper on IVDR revision welcomes many of the EU’s proposed changes, but requests tweaks to orphan diagnostics, risk classifications and health institution tests. MedTech Insight noted",
+   "published": "2026-07-02T13:34:26.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/02/proposed-us-section-301-tariff-action-implications-for-medical-technologies/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/02/proposed-us-section-301-tariff-action-implications-for-medical-technologies/",
+   "source": "medtech-europe",
+   "title": "Proposed US Section 301 tariff action: implications for medical technologies",
+   "link": "https://www.medtecheurope.org/2026/07/02/proposed-us-section-301-tariff-action-implications-for-medical-technologies/",
+   "summary": "On 2 June 2026, the Office of the United States Trade Representative published its determinations and proposed tariff action for public comment following Section 301 investigations concerning forced labour import restrictions across a number of US trading partners, including the European Union. The proposal foresees additional duties of 10% on imports from the European Union […] The post Proposed ",
+   "published": "2026-07-02T13:34:18.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/02/eu-joint-clinical-assessment-for-medical-technologies-ready-to-launch/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/02/eu-joint-clinical-assessment-for-medical-technologies-ready-to-launch/",
+   "source": "medtech-europe",
+   "title": "EU Joint Clinical Assessment for medical technologies – Ready to launch?",
+   "link": "https://www.medtecheurope.org/2026/07/02/eu-joint-clinical-assessment-for-medical-technologies-ready-to-launch/",
+   "summary": "The EU Health Technology Assessment Regulation (EU HTAR) became applicable in January 2025 and is materialising for a selection of high-risk medical devices this year. The Member State representatives (HTA Coordination Group) driving the implementation of the EU HTAR have recently agreed to select the first two cardiac implantable medical devices to undergo Joint Clinical […] The post EU Joint Cli",
+   "published": "2026-07-02T13:34:10.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/02/new-harmonised-standards-for-medical-devices-and-in-vitro-diagnostics-regulations-and-ec-eu-rep/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/02/new-harmonised-standards-for-medical-devices-and-in-vitro-diagnostics-regulations-and-ec-eu-rep/",
+   "source": "medtech-europe",
+   "title": "New harmonised standards for Medical Devices and In Vitro Diagnostics Regulations and EC-EU REP",
+   "link": "https://www.medtecheurope.org/2026/07/02/new-harmonised-standards-for-medical-devices-and-in-vitro-diagnostics-regulations-and-ec-eu-rep/",
+   "summary": "New references to harmonised standards supporting the Medical Devices Regulation (MDR) and In Vitro Diagnostics Regulation (IVDR) were published in the Official Journal of the European Union. MDR The update adds references covering, among others, biological evaluation, symbols, medical electrical equipment, transfusion equipment, ophthalmic optics, surgical implants, washer-disinfectors, prostheti",
+   "published": "2026-07-02T13:34:03.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/02/medtech-europe-responded-to-the-final-towards-the-european-health-data-space-2-tehdas2-consultation/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/02/medtech-europe-responded-to-the-final-towards-the-european-health-data-space-2-tehdas2-consultation/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe responded to the final Towards the European Health Data Space 2 (TEHDAS2) consultation",
+   "link": "https://www.medtecheurope.org/2026/07/02/medtech-europe-responded-to-the-final-towards-the-european-health-data-space-2-tehdas2-consultation/",
+   "summary": "The final public consultation under the Joint Action “Towards the European Health Data Space 2” (TEHDAS2) closed on 28 June 2026. This marks an important milestone in shaping how the European Health Data Space (EHDS) will be implemented in practice, including how companies access, use, link, and share health data across Europe. The EHDS is […] The post MedTech Europe responded to the final Towards",
+   "published": "2026-07-02T13:33:57.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/07/02/call-to-manufacturers-enabling-european-regulator-observation-of-combined-mdsap-mdr-ivdr-audits/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/07/02/call-to-manufacturers-enabling-european-regulator-observation-of-combined-mdsap-mdr-ivdr-audits/",
+   "source": "medtech-europe",
+   "title": "Call to manufacturers: Enabling European regulator observation of combined MDSAP–MDR/IVDR Audits",
+   "link": "https://www.medtecheurope.org/2026/07/02/call-to-manufacturers-enabling-european-regulator-observation-of-combined-mdsap-mdr-ivdr-audits/",
+   "summary": "The MDSAP Forum was held in Kyoto, Japan between 15 -19 June 2026. Medical Device Single Audit Program (MDSAP) is currently chaired by US FDA until 2028. Day 2 and 3 of the Forum were open to industry and other stakeholders. MedTech Europe was represented during both days. During the sessions, regulators provided several updates […] The post Call to manufacturers: Enabling European regulator obser",
+   "published": "2026-07-02T13:33:50.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/06/04/eudamed-reaches-a-major-milestone-mandatory-use-of-the-first-four-modules-begins/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/06/04/eudamed-reaches-a-major-milestone-mandatory-use-of-the-first-four-modules-begins/",
+   "source": "medtech-europe",
+   "title": "EUDAMED reaches a major milestone: mandatory use of the first four modules begins",
+   "link": "https://www.medtecheurope.org/2026/06/04/eudamed-reaches-a-major-milestone-mandatory-use-of-the-first-four-modules-begins/",
+   "summary": "28 May 2026 marks a major step forward in the EU’s regulatory framework for medical devices and in vitro diagnostic medical devices. From this date, the first four modules of EUDAMED, the European Database on Medical Devices, become mandatory for use, moving from voluntary to a legally required part of the implementation of the Medical […] The post EUDAMED reaches a major milestone: mandatory use ",
+   "published": "2026-06-04T09:28:47.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/06/04/medtech-europe-in-the-headlines-in-may-2026/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/06/04/medtech-europe-in-the-headlines-in-may-2026/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe in the headlines in May 2026",
+   "link": "https://www.medtecheurope.org/2026/06/04/medtech-europe-in-the-headlines-in-may-2026/",
+   "summary": "Could do better: MedTech Europe supports MDR/IVDR revision plan but wants more MedTech Europe published on 5 May 2026 its detailed position on the European Commission’s proposed revision of the Medical Devices Regulation (MDR) and In Vitro Diagnostics Regulation (IVDR), supporting the overall direction of the reform while calling for targeted changes to translate the framework into […] The post Me",
+   "published": "2026-06-04T09:26:55.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/06/04/medtech-europe-reaction-to-the-provisional-agreement-on-the-digital-omnibus-on-ai/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/06/04/medtech-europe-reaction-to-the-provisional-agreement-on-the-digital-omnibus-on-ai/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe reaction to the provisional agreement on the Digital Omnibus on AI",
+   "link": "https://www.medtecheurope.org/2026/06/04/medtech-europe-reaction-to-the-provisional-agreement-on-the-digital-omnibus-on-ai/",
+   "summary": "After months of discussions and engagement among stakeholders, the Digital Omnibus on AI should finally soon come to an end. The Digital Omnibus Package, presented by the European Commission on 19 November, was inscribed into the broader Union effort to streamline its rules on Artificial Intelligence (AI), cybersecurity, and data. From the very beginning, MedTech […] The post MedTech Europe reacti",
+   "published": "2026-06-04T09:25:19.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://research-innovation-community.ec.europa.eu/events/4HBxLk2CjtGDNOtgoHmlsH/overview": {
+   "id": "eu-ai-office::https://research-innovation-community.ec.europa.eu/events/4HBxLk2CjtGDNOtgoHmlsH/overview",
+   "source": "eu-ai-office",
+   "title": "Horizon Europe info days - Cluster 4: Digital, Industry and Space",
+   "link": "https://research-innovation-community.ec.europa.eu/events/4HBxLk2CjtGDNOtgoHmlsH/overview",
+   "summary": "Join the Horizon Europe Cluster 4 info days to learn more about the topics of the 2027 Work Programme, including: Key digital technologies and quantum technologies, Emerging enabling technologies, Artificial intelligence and robotics, Next generation internet, Advanced computing and big data.",
+   "published": "2026-07-16T12:19:26.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/948596": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/948596",
+   "source": "eu-ai-office",
+   "title": "United Kingdom: VodafoneThree uses video-based artificial intelligence to speed up its 5G standalone rollout",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/948596",
+   "summary": "VodafoneThree has partnered with Vyntelligence to use artificial intelligence-powered video to upgrade mobile sites faster as it builds out 5G standalone.",
+   "published": "2026-07-02T10:17:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/948444": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/948444",
+   "source": "eu-ai-office",
+   "title": "AI Office publishes frontier AI expert findings on EU competitiveness, sovereignty and security",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/948444",
+   "summary": "The AI Office has published a report that summarises findings from over 100 experts on how the European Union can enhance its competitiveness, sovereignty and security in frontier AI.",
+   "published": "2026-07-15T10:40:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947155": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947155",
+   "source": "eu-ai-office",
+   "title": "Commission Opinion on the assessment of the Code of Practice on Transparency of AI-generated content",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/947155",
+   "summary": "Commission and AI Board consider this voluntary code as an effective mean to facilitate compliance with the AI Act transparency obligations.",
+   "published": "2026-07-09T07:03:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947522": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947522",
+   "source": "eu-ai-office",
+   "title": "Japan: Samsung and KDDI complete an artificial intelligence optimisation trial on a commercial 5G standalone network",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/947522",
+   "summary": "Samsung and KDDI have completed a trial using artificial intelligence to optimise KDDI’s commercial 5G standalone network in Japan, raising downlink speeds by up to 52%.",
+   "published": "2026-06-30T10:17:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947232": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947232",
+   "source": "eu-ai-office",
+   "title": "Commission presents EU Action Plan on Cybersecurity and Artificial Intelligence",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/947232",
+   "summary": "The European Commission has presented an Action Plan for a structured response to address the risks and harness the opportunities of advanced artificial intelligence (AI) models for cybersecurity.",
+   "published": "2026-07-07T09:21:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947210": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947210",
+   "source": "eu-ai-office",
+   "title": "Factsheet - Action Plan on Cybersecurity and Artificial Intelligence",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/947210",
+   "summary": "The European Commission has presented an Action Plan for a structured response to address the risks and harness the opportunities of advanced artificial intelligence (AI) models for cybersecurity.",
+   "published": "2026-07-07T08:00:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946754": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946754",
+   "source": "eu-ai-office",
+   "title": "EU Action Plan on Cybersecurity and Artificial Intelligence",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/946754",
+   "summary": "The European Commission has presented an Action Plan on Cybersecurity and Artificial Intelligence to support the safe and responsible use of AI while strengthening Europe's cybersecurity.",
+   "published": "2026-07-07T07:56:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/942197": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/942197",
+   "source": "eu-ai-office",
+   "title": "How to sign the Code of Practice on transparency of AI-generated content",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/942197",
+   "summary": "The AI Office invites providers and deployers to sign the Code of Practice on Transparency of AI-generated content.",
+   "published": "2026-06-10T07:40:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946379": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946379",
+   "source": "eu-ai-office",
+   "title": "Sweden: Ericsson, Telia and partners open a national 5G, 6G and artificial intelligence test centre",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/946379",
+   "summary": "A new national test centre called Digital Arena Sweden will let businesses, researchers and public bodies trial 5G, 6G and artificial intelligence applications.",
+   "published": "2026-06-22T10:17:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946386": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946386",
+   "source": "eu-ai-office",
+   "title": "Germany: Telefonica and Blue Planet test artificial intelligence agents for 5G network slicing",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/946386",
+   "summary": "Telefonica Deutschland completed a proof of concept with Ciena's Blue Planet using artificial intelligence (AI) agents to speed up the design of 5G network slices.",
+   "published": "2026-06-23T10:17:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946413": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/946413",
+   "source": "eu-ai-office",
+   "title": "Japan: NTT Docomo deploys cloud-based artificial intelligence to automate 5G network optimisation",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/946413",
+   "summary": "NTT Docomo became the first operator in Japan to deploy Nokia's MantaRay AutoPilot system, running cloud-based optimisation for its 5G network.",
+   "published": "2026-06-22T10:17:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/themen/regulatorik-mdr/bvmed-zur-mdr-revision-zuegig-beraten-und-abschliessen?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/themen/regulatorik-mdr/bvmed-zur-mdr-revision-zuegig-beraten-und-abschliessen?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "BVMed zur MDR-Revision: \"Zügig beraten und abschließen\"",
+   "link": "https://www.bvmed.de/themen/regulatorik-mdr/bvmed-zur-mdr-revision-zuegig-beraten-und-abschliessen?pk_campaign=src_RSS",
+   "summary": "Der BVMed appelliert an die europäischen Gesetzgeber, den vorgelegten MDR-Revisionsvorschlag zügig zu beraten und abzuschließen, damit die dringend erforderlichen Verbesserungen zeitnah wirksam werden können. Gleichzeitig sollten im weiteren Gesetzgebungsverfahren die noch offenen und kritischen Punkte adressiert und sachgerecht gelöst werden. Aus Sicht des BVMed besteht in mehreren Bereichen weit",
+   "published": "2026-07-15T05:52:38.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/download/stellungnahme-mdr-revision?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/download/stellungnahme-mdr-revision?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "Stellungnahme: MDR-Revision",
+   "link": "https://www.bvmed.de/download/stellungnahme-mdr-revision?pk_campaign=src_RSS",
+   "summary": "Der BVMed appelliert in seiner Stellungnahme an die europäischen Gesetzgeber, den vorgelegten MDR-Revisionsvorschlag zügig zu beraten und abzuschließen, damit die dringend erforderlichen Verbesserungen zeitnah wirksam werden können. Gleichzeitig sollten im weiteren Gesetzgebungsverfahren die noch offenen und kritischen Punkte adressiert und sachgerecht gelöst werden.",
+   "published": "2026-07-15T05:46:36.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/themen/recht/bvmed-rechtssymposium-2026-am-nachmittag-mdr-digitalrecht-werberecht-und-vergaberecht-im-fokus?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/themen/recht/bvmed-rechtssymposium-2026-am-nachmittag-mdr-digitalrecht-werberecht-und-vergaberecht-im-fokus?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "BVMed-Rechtssymposium 2026: MDR, Digitalrecht, Werberecht und Vergaberecht",
+   "link": "https://www.bvmed.de/themen/recht/bvmed-rechtssymposium-2026-am-nachmittag-mdr-digitalrecht-werberecht-und-vergaberecht-im-fokus?pk_campaign=src_RSS",
+   "summary": "Am Vormittag hatte sich das 21. BVMed-Symposium zum Medizinprodukterecht in Berlin mit dem Bericht aus dem Bundesgesundheitsministerium (BMG) und dem aktuellen Stand der MDR-Revision befasst. Nach der Mittagspause widmete sich das 21. BVMed-Symposium zum Medizinprodukterecht in Berlin gleich fünf großen Themenkomplexen: der Streitbeilegung unter der MDR, den rechtlichen Anforderungen an Medizinpro",
+   "published": "2026-06-18T08:30:28.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/bmg-zu-mdr-reform-und-medtech-strategie-wir-brauchen-einen-schnelleren-zugang-zu-innovationen?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/bmg-zu-mdr-reform-und-medtech-strategie-wir-brauchen-einen-schnelleren-zugang-zu-innovationen?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "BMG auf dem BVMed-Rechtssymposium zu MDR-Reform und MedTech-Strategie: „Wir brauchen einen schnelleren Zugang zu Innovationen“",
+   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/bmg-zu-mdr-reform-und-medtech-strategie-wir-brauchen-einen-schnelleren-zugang-zu-innovationen?pk_campaign=src_RSS",
+   "summary": "Die Bundesregierung setzt sich bei der Reform der EU-Medizinprodukte-Verordnung (MDR) für einen schnelleren Zugang zu Innovationen und Medizinprodukten zur Behandlung seltener Erkrankungen ein. Das sagte Dr. Jana Knauer vom Bundesgesundheitsministerium (BMG) auf dem BVMed-Rechtssymposium in Berlin.",
+   "published": "2026-06-16T10:27:27.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/verband/veranstaltungen/2026-07-10-bvmed-mdr-seminar-ki?pk_campaign=mrk_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/veranstaltungen/2026-07-10-bvmed-mdr-seminar-ki?pk_campaign=mrk_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "MDR Online-Seminar | Kontrollierter Einsatz von KI in der Technischen Dokumentation",
+   "link": "https://www.bvmed.de/verband/veranstaltungen/2026-07-10-bvmed-mdr-seminar-ki?pk_campaign=mrk_RSS",
+   "summary": "Viele Medizinprodukte- und IVD-Hersteller prüfen derzeit, ob und wie künstliche Intelligenz kontrolliert in der Technischen Dokumentation eingesetzt werden kann. Gleichzeitig werden bereits Tools wie Copilot, ChatGPT oder spezialisierte KI-Anwendungen für Übersetzungen, Textentwürfe, Reviews...",
+   "published": "2026-05-19T11:06:34.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-revision-im-bundesrat-moeglichst-schnelle-neufassung?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-revision-im-bundesrat-moeglichst-schnelle-neufassung?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "MDR-Revision am 8. Mai im Bundesrat: „Möglichst schnelle Neufassung“",
+   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/mdr-revision-im-bundesrat-moeglichst-schnelle-neufassung?pk_campaign=src_RSS",
+   "summary": "Der BVMed unterstützt das Anliegen der Bundesrats-Ausschüsse, die Revision der EU-Medizinprodukte-Verordnung (MDR) schnell umzusetzen und insbesondere kleine und mittelständische Unternehmen (KMU) der MedTech-Branche besser zu unterstützen. Die Bundesregierung solle sich auf europäischer Ebene „für eine möglichst schnelle Neufassung“ einsetzen, heißt es in der Beschlussvorlage für die Bundesrats-S",
+   "published": "2026-05-06T05:00:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdep-angelika-niebler-beim-bvmed-wollen-mdr-im-parlament-bis-ende-des-jahres-zu-ende-beraten?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdep-angelika-niebler-beim-bvmed-wollen-mdr-im-parlament-bis-ende-des-jahres-zu-ende-beraten?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "MdEP Angelika Niebler beim BVMed: „Wollen MDR im Parlament bis Ende des Jahres zu Ende beraten“",
+   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/mdep-angelika-niebler-beim-bvmed-wollen-mdr-im-parlament-bis-ende-des-jahres-zu-ende-beraten?pk_campaign=src_RSS",
+   "summary": "Europa muss seine Wettbewerbsfähigkeit und Resilienz stärken. „Wir müssen uns auf unsere Stärken besinnen und von Abhängigkeiten befreien. Das geht nur mit hochinnovativen Technologien“, sagte die bayerische Europaabgeordnete Prof. Dr. Angelika Niebler bei einer BVMed-Diskussionsrunde. Die Medizintechnik sei eine Leitbranche. Für Investitionen in Europa müsse aber die Wettbewerbsfähigkeit gestärkt",
+   "published": "2026-04-16T07:23:41.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/themen/regulatorik-mdr/wettbewerbsfaehiges-europa-braucht-starke-medizintechnik?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/themen/regulatorik-mdr/wettbewerbsfaehiges-europa-braucht-starke-medizintechnik?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "Wettbewerbsfähiges Europa braucht starke Medizintechnik",
+   "link": "https://www.bvmed.de/themen/regulatorik-mdr/wettbewerbsfaehiges-europa-braucht-starke-medizintechnik?pk_campaign=src_RSS",
+   "summary": "Europa steht unter wachsendem Druck, seine wirtschaftliche Wettbewerbsfähigkeit zu stärken. Für eine leistungsfähige Gesundheitsversorgung spielt die Medizintechnik dabei eine Schlüsselrolle. Damit Innovationen weiterhin in Europa entwickelt und Patient:innen zugutekommen können, müssen regulatorische Hürden reduziert und Rahmenbedingungen gezielt verbessert werden. Ein Beitrag von Anja Siegemund,",
+   "published": "2026-04-06T07:48:59.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-vorrang-fuer-ki-medizinprodukte-bvmed-begruesst-zustimmung-des-eu-parlaments-als-wichtigen-schritt-gegen-doppelregulierung?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-vorrang-fuer-ki-medizinprodukte-bvmed-begruesst-zustimmung-des-eu-parlaments-als-wichtigen-schritt-gegen-doppelregulierung?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "MDR-Vorrang für KI-Medizinprodukte: BVMed begrüßt Zustimmung des EU-Parlaments als wichtigen Schritt gegen Doppelregulierung",
+   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/mdr-vorrang-fuer-ki-medizinprodukte-bvmed-begruesst-zustimmung-des-eu-parlaments-als-wichtigen-schritt-gegen-doppelregulierung?pk_campaign=src_RSS",
+   "summary": "Der Bundesverband Medizintechnologie (BVMed) begrüßt die Zustimmung des Europäischen Parlaments zu Änderungen im Rahmen des KI-Omnibus, mit denen der EU-Medizinprodukte-Verordnung (MDR) als sektoraler Regulierungsrahmen Vorrang bei KI-basierten Medizinprodukten eingeräumt wird. „Das ist ein wichtiges Signal für die MedTech-Branche. Ein MDR-Vorrang bei KI-basierten Medizinprodukten sorgt für mehr R",
+   "published": "2026-03-27T14:52:18.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/doppelregulierung-vermeiden-bvmed-unterstuetzt-mdr-vorrang-vor-der-ki-verordnung?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/doppelregulierung-vermeiden-bvmed-unterstuetzt-mdr-vorrang-vor-der-ki-verordnung?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "„Doppelregulierung vermeiden“: BVMed unterstützt MDR-Vorrang vor der KI-Verordnung",
+   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/doppelregulierung-vermeiden-bvmed-unterstuetzt-mdr-vorrang-vor-der-ki-verordnung?pk_campaign=src_RSS",
+   "summary": "Der BVMed unterstützt in einem Positionspapier zum „KI-Omnibus“ den Vorschlag der EU-Kommission, der EU-Medizinprodukte-Verordnung (MDR) als sektoralen Regulierungsrahmens den Vorrang bei KI-basierten Medizinprodukten zu geben. „Das Ziel muss es sein, Rechtssicherheit zu gewährleisten und doppelte Reglungen zu vermeiden“, so BVMed-Experte Christopher Kipp vor dem Hintergrund der anstehenden Entsch",
+   "published": "2026-03-10T06:00:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "bvmed-regulatorik::https://www.bvmed.de/themen/regulatorik-mdr/gerlach-fordert-rasches-vorankommen-bei-eu-reform-der-medizinprodukte-regeln?pk_campaign=src_RSS": {
+   "id": "bvmed-regulatorik::https://www.bvmed.de/themen/regulatorik-mdr/gerlach-fordert-rasches-vorankommen-bei-eu-reform-der-medizinprodukte-regeln?pk_campaign=src_RSS",
+   "source": "bvmed-regulatorik",
+   "title": "Gerlach fordert rasches Vorankommen bei EU-Reform der Medizinprodukte-Regeln",
+   "link": "https://www.bvmed.de/themen/regulatorik-mdr/gerlach-fordert-rasches-vorankommen-bei-eu-reform-der-medizinprodukte-regeln?pk_campaign=src_RSS",
+   "summary": "Bayerns Gesundheitsministerin Judith Gerlach fordert ein rasches Vorankommen bei der Reform der Medizinprodukte-Regeln auf EU-Ebene. „Der Medizinproduktestandort Deutschland braucht möglichst schnell Änderungen. Deshalb ist jetzt das Bundesgesundheitsministerium gefordert: Es muss sich mit Nachdruck dafür einsetzen, dass die Beratungen im Rat zügig vorangetrieben werden“, so Gerlach.",
+   "published": "2026-02-10T16:01:48.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
+   "source": "medical-design-outsourcing",
+   "title": "Why Microbot Medical thinks it can win the stroke telesurgery race",
+   "link": "https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
+   "summary": "Microbot Medical says it has what it takes to win the race to treat stroke patients with a future version of its fully disposable, single-use endovascular navigation surgical robot, Liberty. Liberty earned FDA 510(k) clearance in September 2025 for “use in the remote delivery and manipulation of guidewires and catheters, and remote manipulation of guide… The post Why Microbot Medical thinks it can",
+   "published": "2026-07-17T16:19:52.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
+   "source": "medical-design-outsourcing",
+   "title": "Prosthetics developer Metacarpal seizes on reliability",
+   "link": "https://www.medicaldesignandoutsourcing.com/metacarpal-gem-prosthetic-hand-fergal-mackie/",
+   "summary": "After developing what he describes as the first multi-articulating, body-powered prosthetic hand, Metacarpal co-founder and CEO Fergal Mackie says he wants to solve what he sees as the biggest challenge in prosthetics. “The prosthetics industry does not have a technology problem,” he said. “It has a trust problem. Users have been let down so many… The post Prosthetics developer Metacarpal seizes o",
+   "published": "2026-07-17T07:01:32.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/jnj-depuy-synthes-kincise-sensors-surgeons-fatigue/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/jnj-depuy-synthes-kincise-sensors-surgeons-fatigue/",
+   "source": "medical-design-outsourcing",
+   "title": "Sensors on surgeons helped J&J’s DePuy Synthes sell a new tool",
+   "link": "https://www.medicaldesignandoutsourcing.com/jnj-depuy-synthes-kincise-sensors-surgeons-fatigue/",
+   "summary": "It’s easy to understand how power tools make joint replacements easier for orthopedic surgeons, but how do you quantify the improvement of such an innovation with hard evidence? When Johnson & Johnson MedTech’s DePuy Synthes launched its Kincise Surgical Automated System for total hip arthroplasty (THA) in 2020, it used surface electromyography (sEMG) to measure… The post Sensors on surgeons helpe",
+   "published": "2026-07-16T17:23:56.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/identiv-expands-id-tiny-hf-tag-portfolio/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/identiv-expands-id-tiny-hf-tag-portfolio/",
+   "source": "medical-design-outsourcing",
+   "title": "Identiv expands ID-Tiny HF tag portfolio",
+   "link": "https://www.medicaldesignandoutsourcing.com/identiv-expands-id-tiny-hf-tag-portfolio/",
+   "summary": "NEWS RELEASE: Identiv expands ID-Tiny HF tag portfolio to enable secure digital intelligence for ultra-compact applications Product family brings one of the industry’s broadest selections of ultra-miniaturized HF tags and inlays to healthcare, luxury goods, electronics, and smart packaging markets. SANTA ANA, Calif. — Identiv, Inc. (NASDAQ: INVE), a global leader in RFID- and BLE-enabled Internet ",
+   "published": "2026-07-16T06:10:46.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/designing-samd-safety-risk-management-system-architecture/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/designing-samd-safety-risk-management-system-architecture/",
+   "source": "medical-design-outsourcing",
+   "title": "Designing SaMD for safety and rethinking risk management through system architecture",
+   "link": "https://www.medicaldesignandoutsourcing.com/designing-samd-safety-risk-management-system-architecture/",
+   "summary": "A workflow-centric, slice-based approach makes risk more visible, traceable, and manageable throughout the lifecycle. By Shreya Sridhar, Medtronic Standards like ISO 14971 define clear processes for identifying hazards, estimating risk and implementing controls. Organizations establish traceability between risks, requirements, and verification activities, and validation frameworks are well underst",
+   "published": "2026-07-15T21:36:08.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vermon-group-launches-strategic-milestones/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vermon-group-launches-strategic-milestones/",
+   "source": "medical-design-outsourcing",
+   "title": "Ultrasound CDMO Vermon opens new plant and buys subsystem specialist",
+   "link": "https://www.medicaldesignandoutsourcing.com/vermon-group-launches-strategic-milestones/",
+   "summary": "Tours, France-based Vermon has opened a new TransducerWorks manufacturing facility and acquired OEM ultrasound subsystem specialist Modeleus to launch the new Vermon Group platform. The new 30,000-square-foot, purpose-built TransducerWorks facility in Pennsylvania is four times the size of the previous site. It features ISO 7 and ISO 8 certified cleanrooms, an integrated machine shop and… The post",
+   "published": "2026-07-14T17:47:14.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/nitinol-supplier-fort-wayne-metals-sold-axel-johnson/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/nitinol-supplier-fort-wayne-metals-sold-axel-johnson/",
+   "source": "medical-design-outsourcing",
+   "title": "Nitinol supplier Fort Wayne Metals sold",
+   "link": "https://www.medicaldesignandoutsourcing.com/nitinol-supplier-fort-wayne-metals-sold-axel-johnson/",
+   "summary": "Axel Johnson Inc. (AJI) has acquired Fort Wayne Metals and the medtech nitinol supplier’s parent company, Fort Wayne Metals Research Products. Terms of the sale were not disclosed. Founded in 1970 by Ardelle Glaze and most recently led and owned by his son Scott Glaze, Fort Wayne Metals will remain headquartered in Fort Wayne, Indiana.… The post Nitinol supplier Fort Wayne Metals sold appeared fir",
+   "published": "2026-07-13T21:01:32.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/align-technology-ceo-pay-executive-compensation-median-employee/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/align-technology-ceo-pay-executive-compensation-median-employee/",
+   "source": "medical-design-outsourcing",
+   "title": "Executive pay decreases at Invisalign maker Align Technology",
+   "link": "https://www.medicaldesignandoutsourcing.com/align-technology-ceo-pay-executive-compensation-median-employee/",
+   "summary": "Align Technology disclosed a big pay decrease for its CEO and a sizable compensation increase for its median employee in 2025, according to a recent filing. The dental device developer was the world’s 32nd-largest medical device company on the latest Medical Design & Outsourcing Medtech Big 100 ranking by revenue. That ranking was based on… The post Executive pay decreases at Invisalign maker Alig",
+   "published": "2026-07-13T19:48:50.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/mdo-parent-company-wtwh-media-rebrands-arrowfly/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/mdo-parent-company-wtwh-media-rebrands-arrowfly/",
+   "source": "medical-design-outsourcing",
+   "title": "Medical Design & Outsourcing parent company WTWH Media rebrands as Arrowfly",
+   "link": "https://www.medicaldesignandoutsourcing.com/mdo-parent-company-wtwh-media-rebrands-arrowfly/",
+   "summary": "Medical Design & Outsourcing’s parent company, WTWH Media, today announced it has rebranded as Arrowfly. The new name and identity reflect the company’s transformation from a specialized trade publisher into an omnichannel B2B media, events, and marketing company where hard-to-reach professional decision-makers gather for trusted journalism, industry intelligence, and high-impact experiences that ",
+   "published": "2026-07-13T14:10:26.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/sentante-future-of-endovascular-surgical-robotics/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/sentante-future-of-endovascular-surgical-robotics/",
+   "source": "medical-design-outsourcing",
+   "title": "What’s next for stroke telesurgery developer Sentante and the endovascular robotics field?",
+   "link": "https://www.medicaldesignandoutsourcing.com/sentante-future-of-endovascular-surgical-robotics/",
+   "summary": "Sentante is already working on the next generation of its remote endovascular robotics system after earning a CE mark in May 2026. The stroke telesurgery platform will have applications beyond interventional neurology, Sentante co-founder and CEO Edvardas Satkauskas said in a Medical Design & Outsourcing interview while offering insight into where the endovascular robotics field is… The post What’",
+   "published": "2026-07-10T18:51:53.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/auxilium-bioprints-kidney-liver-tissue-space-first-time/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/auxilium-bioprints-kidney-liver-tissue-space-first-time/",
+   "source": "medical-design-outsourcing",
+   "title": "Auxilium bioprints kidney and liver tissues in space for the first time",
+   "link": "https://www.medicaldesignandoutsourcing.com/auxilium-bioprints-kidney-liver-tissue-space-first-time/",
+   "summary": "Auxilium Biotechnologies says it bioprinted kidney and liver tissues aboard the International Space Station in the “first demonstration of a scalable, multi-product biomanufacturing platform in space.” The San Diego-based biotech and device developer used its Auxilium Microfabrication Platform (AMP-1) 3D bioprinter for the first-of-its-kind mission, which also included orbital bioprinting of carti",
+   "published": "2026-07-09T12:00:47.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/fda-releases-draft-mdufa-vi-agreement/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/fda-releases-draft-mdufa-vi-agreement/",
+   "source": "medical-design-outsourcing",
+   "title": "FDA releases draft MDUFA VI agreement outlining proposed legislation and program changes",
+   "link": "https://www.medicaldesignandoutsourcing.com/fda-releases-draft-mdufa-vi-agreement/",
+   "summary": "A faster pre-submission track, earlier communication for de novo applicants and an “international harmonization” pilot program are among proposed improvements and changes featured in the FDA’s latest draft Medical Device User Fee Amendments (MDUFA) agreement. The agency recently released a draft commitment letter, detailing its proposed agreement with the medtech industry for MDUFA reauthorization",
+   "published": "2026-07-08T21:16:10.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-navigantis-thinks-it-can-win-stroke-telesurgery-race-vasco-robotic-system/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-navigantis-thinks-it-can-win-stroke-telesurgery-race-vasco-robotic-system/",
+   "source": "medical-design-outsourcing",
+   "title": "Why Navigantis thinks it can win the stroke telesurgery race",
+   "link": "https://www.medicaldesignandoutsourcing.com/why-navigantis-thinks-it-can-win-stroke-telesurgery-race-vasco-robotic-system/",
+   "summary": "Navigantis says it has what it takes to win the race to treat stroke patients remotely with its interventional robotic platform VASCO, which is already being used in a clinical trial for neurointerventional procedures. Stroke telesurgery is one of the biggest opportunities in medtech. Major OEMs and startups barely out of stealth mode are racing… The post Why Navigantis thinks it can win the strok",
+   "published": "2026-07-08T15:43:17.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/coopercompanies-reports-executive-compensation-median-employee-pay/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/coopercompanies-reports-executive-compensation-median-employee-pay/",
+   "source": "medical-design-outsourcing",
+   "title": "CooperCompanies reports double-digit pay increase for its median employee",
+   "link": "https://www.medicaldesignandoutsourcing.com/coopercompanies-reports-executive-compensation-median-employee-pay/",
+   "summary": "CooperCompanies reported 2025 compensation for its named executives and a big pay increase for its median employee in a recent filing. The device manufacturer was the world’s 34th-largest medical device company on our latest Medtech Big 100 ranking by revenue. That ranking was based on the company’s 2024 revenue of nearly $3.9 billion. CooperCompanies reported… The post CooperCompanies reports dou",
+   "published": "2026-07-07T15:50:38.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/researchers-say-eye-tracking-tech-can-help-improve-iv-pump-safety/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/researchers-say-eye-tracking-tech-can-help-improve-iv-pump-safety/",
+   "source": "medical-design-outsourcing",
+   "title": "Researchers say eye-tracking tech can help improve IV pump safety",
+   "link": "https://www.medicaldesignandoutsourcing.com/researchers-say-eye-tracking-tech-can-help-improve-iv-pump-safety/",
+   "summary": "Researchers at the University of Massachusetts Amherst say eye-tracking technology could enhance intravenous (IV) pump safety. The technology helps understand how nurses interact with intravenous smart pumps. It could provide a new way to identify design flaws in systems associated with more medication errors than any other route of administration. According to UMass Amherst, the… The post Researc",
+   "published": "2026-07-07T09:00:47.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/device-scan-resmed-airsense-10-autoset-lumafield/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/device-scan-resmed-airsense-10-autoset-lumafield/",
+   "source": "medical-design-outsourcing",
+   "title": "Device scan: Look inside a Resmed AirSense 10 AutoSet CPAP machine with an industrial X-ray CT scanner",
+   "link": "https://www.medicaldesignandoutsourcing.com/device-scan-resmed-airsense-10-autoset-lumafield/",
+   "summary": "By Alex Hao, Lumafield Though the Resmed AirSense 10 AutoSet was phased out in 2023 for the introduction of newer models, this unit remains one of the most prevalent continuous positive airway pressure (CPAP) machines in the world. Manufactured between 2014 and 2023, millions of people have used this device to manage their sleep apnea. With… The post Device scan: Look inside a Resmed AirSense 10 A",
+   "published": "2026-07-06T07:01:59.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/boston-scientific-farawave-ultra-pfa-catheter-next-gen/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/boston-scientific-farawave-ultra-pfa-catheter-next-gen/",
+   "source": "medical-design-outsourcing",
+   "title": "First Look: Boston Scientific’s next-gen Farawave Ultra PFA catheter",
+   "link": "https://www.medicaldesignandoutsourcing.com/boston-scientific-farawave-ultra-pfa-catheter-next-gen/",
+   "summary": "Boston Scientific‘s working on an investigational pulsed-field ablation (PFA) catheter that could expand the Farapulse system’s lead over the competition. The device developer plans to launch its third-generation Farawave Ultra PFA catheter in the first half of 2027, following up on the Farawave PFA ablation catheter that won FDA approval in January 2024 and the… The post First Look: Boston Scient",
+   "published": "2026-07-02T19:29:37.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/zimmer-biomet-is-adding-hundreds-of-tech-jobs-in-india/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/zimmer-biomet-is-adding-hundreds-of-tech-jobs-in-india/",
+   "source": "medical-design-outsourcing",
+   "title": "Zimmer Biomet is adding hundreds of tech jobs in India",
+   "link": "https://www.medicaldesignandoutsourcing.com/zimmer-biomet-is-adding-hundreds-of-tech-jobs-in-india/",
+   "summary": "Zimmer Biomet plans to hire 500 technical professionals in the next three years at its new India tech center in Bengaluru (formerly known as Bangalore). Chief Strategy, Business Development, Innovation and Transformation ​Officer Jehanzeb Noor said the jobs include software engineering, product design, R&D, quality, regulatory and ​finance roles, according to Reuters. About two-thirds of… The post",
+   "published": "2026-07-02T17:28:55.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/pediatric-device-clearance-medicaid-chip-coverage-kolaleh-eskandanian/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/pediatric-device-clearance-medicaid-chip-coverage-kolaleh-eskandanian/",
+   "source": "medical-design-outsourcing",
+   "title": "Cleared for every child, covered for none, priced for the parents who can pay",
+   "link": "https://www.medicaldesignandoutsourcing.com/pediatric-device-clearance-medicaid-chip-coverage-kolaleh-eskandanian/",
+   "summary": "A clearance is a safety finding, not an access plan. By Kolaleh Eskandanian My continuous glucose monitor once showed me that oatmeal spikes my blood sugar higher than ice cream does. I have worn one since January 2025, and that’s a disclosure, not an endorsement. What follows is not about whether the device works. When… The post Cleared for every child, covered for none, priced for the parents wh",
+   "published": "2026-07-02T16:35:30.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vahaticor-coronary-microvascular-dysfunction-aflux/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vahaticor-coronary-microvascular-dysfunction-aflux/",
+   "source": "medical-design-outsourcing",
+   "title": "After selling Endotronix to Edwards, this CEO sees an ‘eye-popping’ cardiac opportunity",
+   "link": "https://www.medicaldesignandoutsourcing.com/vahaticor-coronary-microvascular-dysfunction-aflux/",
+   "summary": "VahatiCor CEO Harry Rowland sees “eye-popping” potential for innovating the treatment of patients with chest pain from coronary microvascular dysfunction (CMD). Medication is currently the standard of care for CMD, but VahatiCor designed the A-Flux reducer system for patients “who are suffering without a treatment option available to them,” Rowland said in a Medical Design… The post After selling ",
+   "published": "2026-07-01T21:02:46.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/fda-medical-device-approval-times-analysis/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/fda-medical-device-approval-times-analysis/",
+   "source": "medical-design-outsourcing",
+   "title": "FDA device decision timelines get longer as approvals climb, report finds",
+   "link": "https://www.medicaldesignandoutsourcing.com/fda-medical-device-approval-times-analysis/",
+   "summary": "The FDA has approved more medical devices in the first half of 2026 than the same period a year ago despite “substantially longer” approval timelines, according to a recent BTIG analysis. BTIG analyst Ryan Zimmerman said while the increase in approvals is promising, longer decision times may have financial implications for medical device developers. “Overall,… The post FDA device decision timeline",
+   "published": "2026-07-01T19:28:17.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/sovato-brian-miller-robotics-medtech-career-advice-intuitive/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/sovato-brian-miller-robotics-medtech-career-advice-intuitive/",
+   "source": "medical-design-outsourcing",
+   "title": "Advice from a surgical robotics veteran on building a medtech career",
+   "link": "https://www.medicaldesignandoutsourcing.com/sovato-brian-miller-robotics-medtech-career-advice-intuitive/",
+   "summary": "Brian Miller sure picked a good time to get into robotics. After studying electrical and computer engineering in his undergrad years at Iowa State University and then earning advanced degrees in robotics from Northwestern University, he joined Computer Motion in 2000 as a software engineer. A few years later the startup was purchased by Intuitive,… The post Advice from a surgical robotics veteran ",
+   "published": "2026-06-30T16:32:00.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/july-2026-issue-robotic-stroke-telesurgery-time-is-now/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/july-2026-issue-robotic-stroke-telesurgery-time-is-now/",
+   "source": "medical-design-outsourcing",
+   "title": "July 2026 issue: Robotic stroke telesurgery’s time is now",
+   "link": "https://www.medicaldesignandoutsourcing.com/july-2026-issue-robotic-stroke-telesurgery-time-is-now/",
+   "summary": "An incredible era has begun as neurosurgical devices, robotics and connectivity come together to expand access to life-saving stroke care. The FDA approved the first clot-busting stroke drug in 1996 and only recently approved the second. In those three decades, medtech developers have created first-of-their-kind thrombectomy devices for faster and safer clot removal. But… The post July 2026 issue:",
+   "published": "2026-06-29T23:18:03.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/manufacturing-quality-automation-engineering-expertise/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/manufacturing-quality-automation-engineering-expertise/",
+   "source": "medical-design-outsourcing",
+   "title": "A cautionary tale of quality automation and engineering expertise from the auto industry",
+   "link": "https://www.medicaldesignandoutsourcing.com/manufacturing-quality-automation-engineering-expertise/",
+   "summary": "If you drive a Ford, you may have been spending more time than most car owners at the dealership getting repairs on the automaker’s dime. And there’s a reason that can help prevent manufacturing problems in our own highly regulated industry where defects can be a matter of life or death. So far in 2026,… The post A cautionary tale of quality automation and engineering expertise from the auto indus",
+   "published": "2026-06-29T23:06:16.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/stainless-steel-tubing-supplier-mm-international-buys-kc-tech/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/stainless-steel-tubing-supplier-mm-international-buys-kc-tech/",
+   "source": "medical-design-outsourcing",
+   "title": "High-precision stainless steel tubing supplier M&M International buys KC Tech",
+   "link": "https://www.medicaldesignandoutsourcing.com/stainless-steel-tubing-supplier-mm-international-buys-kc-tech/",
+   "summary": "M&M International has purchased KC Tech in a deal that combines two suppliers of high-precision stainless steel tubing for the medical device industry. Founded in 1993, Edison, New Jersey-based M&M produces 304, 316-grade and 17-7 stainless steel small-diameter tubing for high-precision applications including medical devices. The company operates manufacturing facilities in South Korea. M&M said… ",
+   "published": "2026-06-29T17:49:36.000Z",
+   "firstSeen": "2026-07-19T15:27:10.268Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 8
   },
   "team-nb": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 32
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-19T15:12:57.301Z",
-   "lastOk": "2026-07-19T15:12:57.301Z",
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
+  },
+  "medtech-europe": {
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
+   "lastNew": "2026-07-19T15:27:10.268Z",
+   "lastError": null,
+   "fetched": 10
+  },
+  "eu-ai-office": {
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
+   "lastNew": "2026-07-19T15:27:10.268Z",
+   "lastError": null,
+   "fetched": 100
+  },
+  "bvmed-regulatorik": {
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
+   "lastNew": "2026-07-19T15:27:10.268Z",
+   "lastError": null,
+   "fetched": 30
+  },
+  "who-news": {
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
+   "lastNew": null,
+   "lastError": null,
+   "fetched": 25
+  },
+  "medical-design-outsourcing": {
+   "lastAttempt": "2026-07-19T15:27:10.268Z",
+   "lastOk": "2026-07-19T15:27:10.268Z",
+   "lastNew": "2026-07-19T15:27:10.268Z",
+   "lastError": null,
+   "fetched": 25
   }
  }
 }
