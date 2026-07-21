@@ -2399,211 +2399,310 @@
    "summary": "M&M International has purchased KC Tech in a deal that combines two suppliers of high-precision stainless steel tubing for the medical device industry. Founded in 1993, Edison, New Jersey-based M&M produces 304, 316-grade and 17-7 stainless steel small-diameter tubing for high-precision applications including medical devices. The company operates manufacturing facilities in South Korea. M&M said… ",
    "published": "2026-06-29T17:49:36.000Z",
    "firstSeen": "2026-07-19T15:27:10.268Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/medical-devices-topics-interest/notified-bodies-medical-devices/member-states-summaries-annual-reports-2025_en": {
+   "id": "dg-sante::https://health.ec.europa.eu/medical-devices-topics-interest/notified-bodies-medical-devices/member-states-summaries-annual-reports-2025_en",
+   "source": "dg-sante",
+   "title": "Monitoring of Notified Bodies: new MDR and IVDR reports",
+   "link": "https://health.ec.europa.eu/medical-devices-topics-interest/notified-bodies-medical-devices/member-states-summaries-annual-reports-2025_en",
+   "summary": "Member States summaries of the annual reports on the monitoring and on-site assessment of notified bodies in 2025, now available",
+   "published": "2026-07-20T10:55:04.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947965": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/947965",
+   "source": "eu-ai-office",
+   "title": "Commission publishes guidelines on transparency obligations for providers and deployers of certain AI systems",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/947965",
+   "summary": "Today, the European Commission published guidelines to assist providers and deployers of artificial intelligence (AI) systems in meeting the AI Act's transparency obligations, which start to apply on 2 August 2026.",
+   "published": "2026-07-20T07:08:00.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/948152": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/948152",
+   "source": "eu-ai-office",
+   "title": "Guidelines on transparency obligations for providers and deployers of AI systems",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/948152",
+   "summary": "These guidelines define the scope of transparency obligations for providers and deployers of AI systems under article 50 of the AI Act.",
+   "published": "2026-07-20T06:58:00.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 9360-1:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-07-21T11:26:09.300Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 9360-2:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-07-21T11:26:09.300Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-16034-1/404694201": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-16034-1/404694201",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO/DIS 16034-1:2026-07 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/iso-dis-16034-1/404694201",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-07-21T11:26:09.300Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "swissmedic-new::https://www.swissmedic.ch/swissmedic/en/home/about-us/jobs/leiterin-leiter-medizinprodukte-und-mitglied-der-geschaeftsleitung.html": {
+   "id": "swissmedic-new::https://www.swissmedic.ch/swissmedic/en/home/about-us/jobs/leiterin-leiter-medizinprodukte-und-mitglied-der-geschaeftsleitung.html",
+   "source": "swissmedic-new",
+   "title": "Leiterin / Leiter Medizinprodukte und Mitglied der Geschäftsleitung",
+   "link": "https://www.swissmedic.ch/swissmedic/en/home/about-us/jobs/leiterin-leiter-medizinprodukte-und-mitglied-der-geschaeftsleitung.html",
+   "summary": "Stellenausschreibung | Medizinprodukte",
+   "published": "2026-07-20T00:00:00.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/mhra-touts-uptick-in-approvals-in-2025-2026-annual-report.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/mhra-touts-uptick-in-approvals-in-2025-2026-annual-report.html",
+   "source": "raps-regulatory-focus",
+   "title": "MHRA touts uptick in approvals in 2025-2026 annual report",
+   "link": "https://www.raps.org/resource/mhra-touts-uptick-in-approvals-in-2025-2026-annual-report.html",
+   "summary": "20 Jul 2026 MHRA touts uptick in approvals in 2025-2026 annual report The UK's Medicines and Healthcare products Regulatory Agency (MHRA) touted its achievements over the last year its 2025-2026 annual report to Parliament, which includes approving more new drugs than the prior year, removing a record number of illegal drugs from circulation, and taking steps to advance the regulation of artificia",
+   "published": "2026-07-20T12:00:00.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/study-china-outpaces-the-us-in-cancer-approvals-lags-behind-on-first-approvals.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/study-china-outpaces-the-us-in-cancer-approvals-lags-behind-on-first-approvals.html",
+   "source": "raps-regulatory-focus",
+   "title": "Study: China outpaces the US in cancer approvals, lags behind on first approvals",
+   "link": "https://www.raps.org/resource/study-china-outpaces-the-us-in-cancer-approvals-lags-behind-on-first-approvals.html",
+   "summary": "20 Jul 2026 Study: China outpaces the US in cancer approvals, lags behind on first approvals While China's National Medical Products Administration (NMPA) approved more oncology drugs compared to the US Food and Drug Administration (FDA) from 2020 to 2025, the US regulator approved more first-in-class drugs and tended to approved products faster and earlier than China, according to a recent study ",
+   "published": "2026-07-20T12:00:00.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825684/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825684/",
+   "source": "medtech-dive",
+   "title": "Tempus to buy cancer test-maker Personalis for $1.5B",
+   "link": "https://www.medtechdive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825684/",
+   "summary": "Tempus AI’s planned acquisition follows recent interest in blood-based cancer tests across the medtech industry.",
+   "published": "2026-07-20T18:38:34.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/resmed-ventilator-safety-issue-linked-to-5-serious-injuries/825620/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/resmed-ventilator-safety-issue-linked-to-5-serious-injuries/825620/",
+   "source": "medtech-dive",
+   "title": "Resmed ventilator safety issue linked to 5 serious injuries",
+   "link": "https://www.medtechdive.com/news/resmed-ventilator-safety-issue-linked-to-5-serious-injuries/825620/",
+   "summary": "The supply of the circuit boards needed to fix the devices is significantly constrained, preventing the company from immediately correcting all affected ventilators.",
+   "published": "2026-07-20T10:48:56.000Z",
+   "firstSeen": "2026-07-21T11:26:09.300Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 8
+   "fetched": 7
   },
   "team-nb": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 32
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
-   "lastNew": "2026-07-19T15:27:10.268Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 231
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 34
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-07-19T20:07:34.958Z",
-   "lastOk": "2026-07-19T20:07:34.958Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
-   "fetched": 52
+   "fetched": 53
   }
  },
  "watch": {
@@ -3081,6 +3180,8 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-6812/404068900": "DIN 6812:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-57/400253380": "DIN EN IEC 60601-2-57:2026-09; VDE 0750-2-57:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5367-a1/404553247": "DIN EN ISO 5367/A1:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229": "DIN EN ISO 9360-1:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": "DIN EN ISO 9360-2:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-13356/404453381": "DIN EN ISO 13356:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-5346/403861457": "DIN 5346:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-60601-2-4-a2/403164045": "DIN EN 60601-2-4/A2:2026-08; VDE 0750-2-4/A2:2026-08 - Entwurf",
@@ -3116,6 +3217,7 @@
     "https://www.dinmedia.de/de/technische-regel/vdi-5701/279023692": "VDI 5701:2026-07",
     "https://www.dinmedia.de/de/norm/iso-5361-amd-1/404356222": "ISO 5361 AMD 1:2026-07",
     "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-5833/404466663": "ISO/FDIS 5833:2026-07 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-16034-1/404694201": "ISO/DIS 16034-1:2026-07 - Entwurf",
     "https://www.dinmedia.de/de/vornorm-entwurf/iso-dts-25198/404355367": "ISO/DTS 25198:2026-07 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/iec-dis-80601-2-86/404466481": "IEC/DIS 80601-2-86:2026-07 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/26-30544034-dc/404585246": "26/30544034 DC:2026-06-26 - Entwurf",
@@ -3127,11 +3229,9 @@
     "https://www.dinmedia.de/de/norm-entwurf/26-30540592-dc/404585221": "26/30540592 DC:2026-06-22 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/26-30553927-dc/404586760": "26/30553927 DC:2026-06-22 - Entwurf",
     "https://www.dinmedia.de/de/norm/bs-iso-7554-2/404580455": "BS ISO 7554-2:2026-06-22",
-    "https://www.dinmedia.de/de/norm/bs-iso-7554-3/404580468": "BS ISO 7554-3:2026-06-22",
-    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-7198/404144323": "OENORM EN ISO 7198:2026-06-15 - Entwurf",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-17510/404142615": "OENORM EN ISO 17510:2026-06-15"
+    "https://www.dinmedia.de/de/norm/bs-iso-7554-3/404580468": "BS ISO 7554-3:2026-06-22"
    },
-   "textHash": "1ukmezk"
+   "textHash": "1f87g1h"
   }
  }
 }
