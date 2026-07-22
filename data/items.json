@@ -2498,209 +2498,389 @@
    "summary": "The supply of the circuit boards needed to fix the devices is significantly constrained, preventing the company from immediately correcting all affected ventilators.",
    "published": "2026-07-20T10:48:56.000Z",
    "firstSeen": "2026-07-21T11:26:09.300Z"
+  },
+  "ec-medical-devices::https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18": {
+   "id": "ec-medical-devices::https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18",
+   "source": "ec-medical-devices",
+   "title": "New MDCG Position Paper: UDI assignment between manufacturers and distributors",
+   "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec18",
+   "summary": "New MDCG Position Paper: UDI assignment between manufacturers and distributors",
+   "published": "2026-07-22T08:43:43.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/latest-updates/new-mdcg-position-paper-udi-assignment-between-manufacturers-and-distributors-2026-07-22_en": {
+   "id": "dg-sante::https://health.ec.europa.eu/latest-updates/new-mdcg-position-paper-udi-assignment-between-manufacturers-and-distributors-2026-07-22_en",
+   "source": "dg-sante",
+   "title": "Medical devices",
+   "link": "https://health.ec.europa.eu/latest-updates/new-mdcg-position-paper-udi-assignment-between-manufacturers-and-distributors-2026-07-22_en",
+   "summary": "New MDCG Position Paper: UDI assignment between manufacturers and distributors",
+   "published": "2026-07-22T09:46:35.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "mdcg-guidance-watch::https://health.ec.europa.eu/document/download/f34c1afd-8d01-44cc-bf94-33e4bcac0ef2_en?filename=mdcg_2026-5_en.pdf": {
+   "id": "mdcg-guidance-watch::https://health.ec.europa.eu/document/download/f34c1afd-8d01-44cc-bf94-33e4bcac0ef2_en?filename=mdcg_2026-5_en.pdf",
+   "source": "mdcg-guidance-watch",
+   "title": "MDCG 2026-5",
+   "link": "https://health.ec.europa.eu/document/download/f34c1afd-8d01-44cc-bf94-33e4bcac0ef2_en?filename=mdcg_2026-5_en.pdf",
+   "summary": "Neu verlinkt auf: MDCG-Guidance-Seite (Überwachung)",
+   "published": "2026-07-22T11:27:32.985Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "din-medizinprodukte-watch::change::1bbpijw": {
+   "id": "din-medizinprodukte-watch::change::1bbpijw",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-07-22T11:27:32.985Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/22/2026-14707/agency-information-collection-activities-submission-for-office-of-management-and-budget-review": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/22/2026-14707/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+   "source": "federal-register-fda",
+   "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Premarket Notifications Submission",
+   "link": "https://www.federalregister.gov/documents/2026/07/22/2026-14707/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+   "summary": "The Food and Drug Administration (FDA) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
+   "published": "2026-07-22",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/european-commission-publishes-guideline-on-transparency-obligations-under-ai-act.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/european-commission-publishes-guideline-on-transparency-obligations-under-ai-act.html",
+   "source": "raps-regulatory-focus",
+   "title": "European Commission publishes guideline on transparency obligations under AI Act",
+   "link": "https://www.raps.org/resource/european-commission-publishes-guideline-on-transparency-obligations-under-ai-act.html",
+   "summary": "21 Jul 2026 European Commission publishes guideline on transparency obligations under AI Act The European Commission on Monday published new guidelines to assist providers and deployers of artificial intelligence (AI) systems in fulfilling transparency obligations under the EU’s AI Act, including examples of exceptions to these requirements. While not specific to healthcare products, companies dev",
+   "published": "2026-07-21T12:00:00.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-cites-companies-for-cgmp-violations-informed-consent-failure.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-cites-companies-for-cgmp-violations-informed-consent-failure.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA cites companies for CGMP violations, informed consent failure",
+   "link": "https://www.raps.org/resource/fda-cites-companies-for-cgmp-violations-informed-consent-failure.html",
+   "summary": "21 Jul 2026 FDA cites companies for CGMP violations, informed consent failure The US Food and Drug Administration has issued warning letters to several drug makers for failing to meet its current good manufacturing practices (CGMP) requirements and a company for failing to sufficiently inform subjects about the clinical trial they were participating in.",
+   "published": "2026-07-21T12:00:00.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/philips-wins-fda-clearance-for-new-pulse-oximeter/825848/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/philips-wins-fda-clearance-for-new-pulse-oximeter/825848/",
+   "source": "medtech-dive",
+   "title": "Philips wins FDA clearance for new pulse oximeter",
+   "link": "https://www.medtechdive.com/news/philips-wins-fda-clearance-for-new-pulse-oximeter/825848/",
+   "summary": "Philips said its updated device provides accurate readings across a range of skin tones, following concerns that pulse oximeters can be less accurate in people with darker skin pigmentation.",
+   "published": "2026-07-21T20:30:57.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/medtronic-adds-real-time-ai-to-hugo-robot/825793/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/medtronic-adds-real-time-ai-to-hugo-robot/825793/",
+   "source": "medtech-dive",
+   "title": "Medtronic adds real-time AI to Hugo robot",
+   "link": "https://www.medtechdive.com/news/medtronic-adds-real-time-ai-to-hugo-robot/825793/",
+   "summary": "The computing platform will make its debut at the Society of Robotic Surgery meeting this week, as Medtronic challenges Intuitive in the U.S. robotic soft tissue market.",
+   "published": "2026-07-21T15:11:07.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ge-healthcare-inks-10-year-500m-alliance-with-catholic-health/825740/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ge-healthcare-inks-10-year-500m-alliance-with-catholic-health/825740/",
+   "source": "medtech-dive",
+   "title": "GE HealthCare inks 10-year, $500M alliance with Catholic Health",
+   "link": "https://www.medtechdive.com/news/ge-healthcare-inks-10-year-500m-alliance-with-catholic-health/825740/",
+   "summary": "The deal is the latest in a series of pacts that GE HealthCare has made with health systems, including with Sutter Health and UC San Diego.",
+   "published": "2026-07-21T07:43:24.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ai-is-moving-inside-the-device-who-owns-the-clinical-risk/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ai-is-moving-inside-the-device-who-owns-the-clinical-risk/",
+   "source": "medical-design-outsourcing",
+   "title": "AI is moving inside the device. Who owns the clinical risk?",
+   "link": "https://www.medicaldesignandoutsourcing.com/ai-is-moving-inside-the-device-who-owns-the-clinical-risk/",
+   "summary": "Tips to mitigate the risk that medtech teams keep leaving unowned as artificial intelligence moves into Class II and III medical devices. By Dr. Sarah Matt, Vital Werks By the time a clinician trusts a wrong output from your artificial-intelligence-powered device, every decision that made the trust possible was made years earlier. How many decisions… The post AI is moving inside the device. Who ow",
+   "published": "2026-07-21T18:36:10.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/aptyx-promotes-david-price-ceo/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/aptyx-promotes-david-price-ceo/",
+   "source": "medical-design-outsourcing",
+   "title": "Medtech CDMO Aptyx names new CEO",
+   "link": "https://www.medicaldesignandoutsourcing.com/aptyx-promotes-david-price-ceo/",
+   "summary": "Aptyx has promoted CFO David Price to the role of CEO effective immediately, succeeding former Aptyx CEO Gregg Tobin. Price joined the Tempe, Arizona-based medical device contract development and manufacturing organization as CFO in 2025 and is “the right leader to build on Aptyx’s strong foundation and accelerate the company’s continued growth,” said John Pless,… The post Medtech CDMO Aptyx names",
+   "published": "2026-07-21T16:19:21.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/how-to-secure-a-medical-device-you-cant-patch/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/how-to-secure-a-medical-device-you-cant-patch/",
+   "source": "medical-design-outsourcing",
+   "title": "How to Secure a Medical Device You Can’t Patch",
+   "link": "https://www.medicaldesignandoutsourcing.com/how-to-secure-a-medical-device-you-cant-patch/",
+   "summary": "By Joseph M. Saunders, Founder and CEO, RunSafe Security A medical device cleared today may stay in clinical service for 15 years or more, but the software inside it does not always age well. New vulnerabilities get discovered, open source components fall out of date, and attack techniques keep improving. Frontier AI tools now make… The post How to Secure a Medical Device You Can’t Patch appeared ",
+   "published": "2026-07-21T13:38:42.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/enable-injections-enfuse-on-body-injector/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/enable-injections-enfuse-on-body-injector/",
+   "source": "medical-design-outsourcing",
+   "title": "Inside the first-of-its-kind Enable Injections enFuse drug delivery wearable",
+   "link": "https://www.medicaldesignandoutsourcing.com/enable-injections-enfuse-on-body-injector/",
+   "summary": "When Sanofi won FDA approval in July 2026 for the first anticancer treatment administered with an on-body injector (OBI), the Enable Injections enFuse platform made it possible. The enFuse OBI secured its initial combination product FDA approval in 2023 for adults with paroxysmal nocturnal hemoglobinuria, a rare blood disorder. That milestone made enFuse the “first… The post Inside the first-of-it",
+   "published": "2026-07-21T07:01:18.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medline-open-new-distribution-facility-california/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medline-open-new-distribution-facility-california/",
+   "source": "medical-design-outsourcing",
+   "title": "Medline to open new distribution facility in California",
+   "link": "https://www.medicaldesignandoutsourcing.com/medline-open-new-distribution-facility-california/",
+   "summary": "Medline (Nasdaq:MDLN) announced today that it plans to open a new distribution facility in Perris, California. The approximately 1-million-square-foot facility marks the latest expansion to the company’s distribution network, following a buildout in Texas earlier this year. Northfield, Illinois-based Medline says it adds capacity and operational flexibility to support healthcare providers across t",
+   "published": "2026-07-20T19:02:50.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vahaticor-aflux-nitinol-implant-coronary-microvascular-dysfunction-cmd/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vahaticor-aflux-nitinol-implant-coronary-microvascular-dysfunction-cmd/",
+   "source": "medical-design-outsourcing",
+   "title": "How VahatiCor’s A-Flux nitinol implant is designed to treat coronary microvascular dysfunction (CMD)",
+   "link": "https://www.medicaldesignandoutsourcing.com/vahaticor-aflux-nitinol-implant-coronary-microvascular-dysfunction-cmd/",
+   "summary": "VahatiCor developed its investigational nitinol A-Flux implant for patients with chest pain caused by coronary microvascular dysfunction (CMD). CMD is when coronary arteries fail to dilate properly and blood flow to the heart is restricted, causing symptoms like chest pain, shortness of breath and fatigue without major blockages in the arteries. Despite millions of CMD… The post How VahatiCor’s A-",
+   "published": "2026-07-20T07:05:51.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ptc-introduces-onshape-labs-for-ai-driven-product-development/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ptc-introduces-onshape-labs-for-ai-driven-product-development/",
+   "source": "medical-design-outsourcing",
+   "title": "PTC introduces Onshape Labs for AI-driven product development",
+   "link": "https://www.medicaldesignandoutsourcing.com/ptc-introduces-onshape-labs-for-ai-driven-product-development/",
+   "summary": "NEWS RELEASE: PTC Introduces Onshape Labs to Accelerate AI Inside the Product Development Process Launches early-access program, with broader availability expected later this summer via opt-in access Enables participating customers to evaluate emerging Onshape capabilities earlier in the development cycle Applies advanced technologies within engineering workflows, using real-time product data to p",
+   "published": "2026-07-20T06:53:41.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/hiarc-to-showcase-ctrl-platform-at-adlm-2026/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/hiarc-to-showcase-ctrl-platform-at-adlm-2026/",
+   "source": "medical-design-outsourcing",
+   "title": "HiArc to showcase Ctrl platform at ADLM 2026",
+   "link": "https://www.medicaldesignandoutsourcing.com/hiarc-to-showcase-ctrl-platform-at-adlm-2026/",
+   "summary": "NEWS RELEASE: HiArc to showcase integrated control system HiArc Ctrl at ADLM 2026 ADLM 2026, July 26–30, Anaheim Convention Center, Anaheim, CA, USA, booth 3555 MedTech innovator HiArc will exhibit at ADLM 2026, showcasing HiArc Ctrl, its integrated hardware and software platform designed to accelerate the development of medical devices and diagnostic systems. Built on… The post HiArc to showcase ",
+   "published": "2026-07-20T06:09:59.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/what-is-nitinol-and-where-is-it-used/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/what-is-nitinol-and-where-is-it-used/",
+   "source": "medical-design-outsourcing",
+   "title": "What is nitinol and where is it used?",
+   "link": "https://www.medicaldesignandoutsourcing.com/what-is-nitinol-and-where-is-it-used/",
+   "summary": "Nitinol is a nearly equiatomic metal alloy of nickel and titanium with unique properties, including superelasticity (also called pseudoelasticity) and shape memory. Superelasticity/pseudoelasticity means medical-grade nitinol shows great flexibility and elasticity under stress and can snap back to its original shape when pressure is released. Nitinol’s superelastic properties allow minimally invas",
+   "published": "2026-07-19T05:40:02.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/bayesian-noninvasive-sepsis-samd-johns-hopkins-offers-early-warnings/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/bayesian-noninvasive-sepsis-samd-johns-hopkins-offers-early-warnings/",
+   "source": "medical-design-outsourcing",
+   "title": "Noninvasive sepsis SaMD developed at Johns Hopkins offers early warnings",
+   "link": "https://www.medicaldesignandoutsourcing.com/bayesian-noninvasive-sepsis-samd-johns-hopkins-offers-early-warnings/",
+   "summary": "An early warning system for sepsis developed by Johns Hopkins University researchers was commercialized by Bayesian Health and cleared by the FDA. The software as a medical device (SaMD) is the first continuous artificial intelligence/machine learning-based sepsis monitoring system to earn FDA clearance. The system detects sepsis hours faster than doctors and has reduced deaths… The post Noninvasi",
+   "published": "2026-07-17T19:46:38.000Z",
+   "firstSeen": "2026-07-22T11:27:32.985Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "team-nb": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 32
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": "2026-07-19T15:27:10.268Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
-   "fetched": 231
+   "fetched": 232
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 34
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-07-21T11:26:09.300Z",
-   "lastOk": "2026-07-21T11:26:09.300Z",
-   "lastNew": "2026-07-21T11:26:09.300Z",
+   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 53
   }
@@ -2888,6 +3068,7 @@
     "https://health.ec.europa.eu/document/download/59ac4cb0-f187-4ca2-814d-82c42cde5408_en?filename=md_mdcg_2021_5_en.pdf": "MDCG 2021-5 rev.1",
     "https://health.ec.europa.eu/document/download/e10f7694-67b4-4093-a969-6f7e43747c44_en?filename=md_mdcg_2021_5_appendix_en.pdf": "MDCG 2021-5 rev.1 - Appendix",
     "https://webgate.ec.europa.eu/udi-helpdesk/?lang=en": "UDI Helpdesk",
+    "https://health.ec.europa.eu/document/download/f34c1afd-8d01-44cc-bf94-33e4bcac0ef2_en?filename=mdcg_2026-5_en.pdf": "MDCG 2026-5",
     "https://health.ec.europa.eu/document/download/f026ed58-060d-49b1-b660-914838670a20_en?filename=mdcg_2025-8_en.pdf": "MDCG 2025-8 - rev.1",
     "https://health.ec.europa.eu/document/download/ad6ae143-baa2-451a-8c5e-0c5d22983e88_en?filename=mdcg_2025-7_en.pdf": "MDCG 2025-7",
     "https://health.ec.europa.eu/document/download/c8c6cca5-460e-410e-a325-be08bfc7dea6_en?filename=mdcg_2024-14_en.pdf": "MDCG 2024-14 - rev.1",
@@ -2940,7 +3121,7 @@
     "https://commission.europa.eu/legal-notice_en": "Legal notice",
     "https://health.ec.europa.eu/accessibility-statement_en": "Accessibility"
    },
-   "textHash": "1u1i7en"
+   "textHash": "1fc85mp"
   },
   "harmonised-normen-watch": {
    "links": {
@@ -3231,7 +3412,7 @@
     "https://www.dinmedia.de/de/norm/bs-iso-7554-2/404580455": "BS ISO 7554-2:2026-06-22",
     "https://www.dinmedia.de/de/norm/bs-iso-7554-3/404580468": "BS ISO 7554-3:2026-06-22"
    },
-   "textHash": "1f87g1h"
+   "textHash": "1bbpijw"
   }
  }
 }
