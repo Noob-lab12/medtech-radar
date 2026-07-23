@@ -2678,209 +2678,317 @@
    "summary": "An early warning system for sepsis developed by Johns Hopkins University researchers was commercialized by Bayesian Health and cleared by the FDA. The software as a medical device (SaMD) is the first continuous artificial intelligence/machine learning-based sepsis monitoring system to earn FDA clearance. The system detects sepsis hours faster than doctors and has reduced deaths… The post Noninvasi",
    "published": "2026-07-17T19:46:38.000Z",
    "firstSeen": "2026-07-22T11:27:32.985Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-81060-2/404747301": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-81060-2/404747301",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 81060-2:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-81060-2/404747301",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-07-23T11:29:13.023Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/23/2026-14829/advisory-committee-peripheral-and-central-nervous-system-drugs-advisory-committee-termination-and": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/23/2026-14829/advisory-committee-peripheral-and-central-nervous-system-drugs-advisory-committee-termination-and",
+   "source": "federal-register-fda",
+   "title": "Advisory Committee; Peripheral and Central Nervous System Drugs Advisory Committee; Termination and Reestablishment",
+   "link": "https://www.federalregister.gov/documents/2026/07/23/2026-14829/advisory-committee-peripheral-and-central-nervous-system-drugs-advisory-committee-termination-and",
+   "summary": "The Food and Drug Administration (FDA) is announcing the termination and reestablishment of the Peripheral and Central Nervous System Drugs Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Peripheral and Central Nervous System Drugs Advisory Committee was terminated on June 4, 2026, because its charter was not renewed on or before that expiration date. The Commissio",
+   "published": "2026-07-23",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/taiwan-market-update-electronic-submissions-ai-guidance-fee-revisions": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/taiwan-market-update-electronic-submissions-ai-guidance-fee-revisions",
+   "source": "emergo-news-watch",
+   "title": "new Regulatory Update Jul 22, 2026 Taiwan Market Update: Electronic Submissions, AI Guidance, Fee Revisions Taiwanese regulators are now accepting electronic submissions for low-risk medical device ma",
+   "link": "https://www.emergobyul.com/news/taiwan-market-update-electronic-submissions-ai-guidance-fee-revisions",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-07-23T11:29:13.023Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-issues-untitled-letters-to-sanofi-and-viatris-for-false-advertising.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-issues-untitled-letters-to-sanofi-and-viatris-for-false-advertising.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA issues untitled letters to Sanofi and Viatris for false advertising",
+   "link": "https://www.raps.org/resource/fda-issues-untitled-letters-to-sanofi-and-viatris-for-false-advertising.html",
+   "summary": "22 Jul 2026 FDA issues untitled letters to Sanofi and Viatris for false advertising The FDA’s Office of Prescription Drug Promotion recently reprimanded Sanofi and Viatris for making misleading claims about their products in emails and a television advertisement.",
+   "published": "2026-07-22T12:00:00.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/mdcg-only-manufacturers-should-assign-udi-dis.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/mdcg-only-manufacturers-should-assign-udi-dis.html",
+   "source": "raps-regulatory-focus",
+   "title": "MDCG: Only manufacturers should assign UDI-DIs",
+   "link": "https://www.raps.org/resource/mdcg-only-manufacturers-should-assign-udi-dis.html",
+   "summary": "22 Jul 2026 MDCG: Only manufacturers should assign UDI-DIs The European Commission's Medical Device Coordination Group (MDCG) says unique device identifiers and device identifiers (UDI-DI) codes used between manufacturers and distributors need to be better standardized as they are added to Europe's new clinical trial database the European Database on Medical Devices (Eudamed).",
+   "published": "2026-07-22T12:00:00.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/aim-medical-robotics-names-new-cfo/825861/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/aim-medical-robotics-names-new-cfo/825861/",
+   "source": "medtech-dive",
+   "title": "AiM Medical Robotics names new CFO",
+   "link": "https://www.medtechdive.com/news/aim-medical-robotics-names-new-cfo/825861/",
+   "summary": "Andrew Aberdale will help expand AiM’s strategic partnership ecosystem, including its recent collaboration with Siemens Healthineers, the company said.",
+   "published": "2026-07-22T19:58:00.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/whoop-hires-fda-digital-health-committee-chair-as-chief-medical-officer/825949/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/whoop-hires-fda-digital-health-committee-chair-as-chief-medical-officer/825949/",
+   "source": "medtech-dive",
+   "title": "Whoop hires FDA digital health committee chair as chief medical officer",
+   "link": "https://www.medtechdive.com/news/whoop-hires-fda-digital-health-committee-chair-as-chief-medical-officer/825949/",
+   "summary": "Ami Bhatt is joining the company as it makes a broader push into health.",
+   "published": "2026-07-22T19:23:04.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/",
+   "source": "medtech-dive",
+   "title": "J&J gets FDA authorization for Ottava robot, teeing up competition with Intuitive",
+   "link": "https://www.medtechdive.com/news/jj-gets-fda-authorization-for-ottava-robot-teeing-up-competition-with-int/825905/",
+   "summary": "While Johnson & Johnson will go head to head with Intuitive in the U.S., analysts questioned whether its robotic surgery system will take meaningful share from the market leader.",
+   "published": "2026-07-22T14:53:06.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/cardinal-buys-diabetes-business-strive-medical-360-million/825798/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/cardinal-buys-diabetes-business-strive-medical-360-million/825798/",
+   "source": "medtech-dive",
+   "title": "Cardinal inks 2 acquisitions in bid to expand at-home services",
+   "link": "https://www.medtechdive.com/news/cardinal-buys-diabetes-business-strive-medical-360-million/825798/",
+   "summary": "The company agreed to buy a diabetes health business and medical supplier Strive Medical to boost its growing in-home solutions unit.",
+   "published": "2026-07-22T13:20:00.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/arterex-tecate-opens-iso-class-8-clean-room-facility/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/arterex-tecate-opens-iso-class-8-clean-room-facility/",
+   "source": "medical-design-outsourcing",
+   "title": "Arterex Tecate opens ISO Class 8 clean room facility",
+   "link": "https://www.medicaldesignandoutsourcing.com/arterex-tecate-opens-iso-class-8-clean-room-facility/",
+   "summary": "NEWS RELEASE: Arterex Tecate announces opening of 9,000 sq. ft. ISO Class 8 clean room facility New clean room expands medical device manufacturing capacity and reinforces Arterex Tecate’s commitment to quality, compliance, and customer success. Arterex, a leading global medical device developer and contract manufacturer, proudly announces the opening of its new 9,000-square-foot ISO Class 8… The ",
+   "published": "2026-07-22T15:35:41.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/formacoat-names-coatings-vice-president-for-growth-role/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/formacoat-names-coatings-vice-president-for-growth-role/",
+   "source": "medical-design-outsourcing",
+   "title": "Formacoat names coatings vice president for growth role",
+   "link": "https://www.medicaldesignandoutsourcing.com/formacoat-names-coatings-vice-president-for-growth-role/",
+   "summary": "NEWS RELEASE: Formacoat strengthens commercial leadership and appoints Dhruv Patel as vice president of coatings to accelerate expansion of HydroMark hydrophilic coating platform Industry expert joins Formacoat as the company expands its proprietary coating portfolio, providing OEMs and CMOs with an independent alternative in a rapidly consolidating hydrophilic coatings market. CHASKA, Minn. — For",
+   "published": "2026-07-22T15:16:22.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/nelipak-reports-progress-on-healthcare-packaging-sustainability/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/nelipak-reports-progress-on-healthcare-packaging-sustainability/",
+   "source": "medical-design-outsourcing",
+   "title": "Nelipak reports progress on healthcare packaging sustainability",
+   "link": "https://www.medicaldesignandoutsourcing.com/nelipak-reports-progress-on-healthcare-packaging-sustainability/",
+   "summary": "NEWS RELEASE: Nelipak releases 2025 sustainability report Highlights achievements aligned to sustainability vision to “help healthcare be sustainable.” Cranston, RI — Nelipak Corporation (“Nelipak”), a leading global provider of healthcare packaging solutions, announced the release of its 2025 Sustainability Report, showcasing significant progress toward meeting its long-term sustainability goals ",
+   "published": "2026-07-22T09:39:07.000Z",
+   "firstSeen": "2026-07-23T11:29:13.023Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "team-nb": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
-   "lastNew": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
+   "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 32
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
-   "lastNew": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
+   "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
-   "lastNew": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
+   "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
-   "lastNew": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
+   "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 232
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 34
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
+   "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-07-22T11:27:32.985Z",
-   "lastOk": "2026-07-22T11:27:32.985Z",
-   "lastNew": "2026-07-22T11:27:32.985Z",
+   "lastAttempt": "2026-07-23T11:29:13.023Z",
+   "lastOk": "2026-07-23T11:29:13.023Z",
+   "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 53
   }
@@ -3341,6 +3449,7 @@
     "https://www.emergobyul.com/resources/ivdr-resource-center": "IVDR Resource Center",
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
+    "https://www.emergobyul.com/news/taiwan-market-update-electronic-submissions-ai-guidance-fee-revisions": "new Regulatory Update Jul 22, 2026 Taiwan Market Update: Electronic Submissions, AI Guidance, Fee Revisions Taiwanese regulators are now accepting electronic submissions for low-risk medical device ma",
     "https://www.emergobyul.com/news/using-your-urra-develop-evaluation-activities-your-hf-validation-test-protocol": "new Insights Jul 17, 2026 Using Your URRA to Develop Evaluation Activities for Your HF Validation Test Protocol Emergo by UL Human Factors Specialists discuss how to use your use-related risk analysis",
     "https://www.emergobyul.com/news/global-medical-device-udi-update-progress-australia-and-brazil": "Regulatory Update Jul 8, 2026 Global Medical Device UDI Update: Progress in Australia and Brazil Regulators in Australia and Brazil have advanced phased implementations of Unique Device Identification",
     "https://www.emergobyul.com/news/brazil-anvisas-new-e-notivisa-system-major-shift-medical-device-vigilance": "new Regulatory Update Jul 1, 2026 Brazil ANVISA’s New e-Notivisa System: A major shift in medical device vigilance Brazil has overhauled its post-market surveillance framework to improve consistency a",
@@ -3351,10 +3460,9 @@
     "https://www.emergobyul.com/news/tips-designing-medical-devices-4-common-impairments": "Insights Jun 18, 2026 Tips for Designing Medical Devices for 4 Common Impairments Emergo by UL human factors specialists share considerations for designing medical devices for users with common...",
     "https://www.emergobyul.com/news/update-japan-cabinet-order-no-362-and-mhlw-notification-no-0331-20-and-us-fda-authorized": "Regulatory Update Jun 11, 2026 Update on Japan Cabinet Order No. 362 and MHLW Notification No. 0331-20 and US FDA Authorized Devices as Equivalent Emergo by UL experts provide an update on Japan Cabin",
     "https://www.emergobyul.com/news/second-set-frequently-asked-questions-about-eudamed-scope": "Regulatory Update Jun 3, 2026 Second Set of Frequently Asked Questions about EUDAMED: Scope During our recent EUDAMED webinar there were a tremendous number of questions. For your convenience, we’ve c",
-    "https://www.emergobyul.com/news/us-fda-updates-estar-version-70-and-prestar-version-30": "Regulatory Update Jun 3, 2026 US FDA Updates to eSTAR (version 7.0) and preSTAR (version 3.0) On June 1, 2026, the FDA released new major version for both eSTAR templates (version 7.0) and the PreSTAR",
-    "https://www.emergobyul.com/news/first-set-eudamed-frequently-asked-questions-deadlines": "Regulatory Update Jun 2, 2026 First Set of EUDAMED Frequently Asked Questions: Deadlines During our recent EUDAMED webinar there were a tremendous number of questions about EUDAMED. For your convenien"
+    "https://www.emergobyul.com/news/us-fda-updates-estar-version-70-and-prestar-version-30": "Regulatory Update Jun 3, 2026 US FDA Updates to eSTAR (version 7.0) and preSTAR (version 3.0) On June 1, 2026, the FDA released new major version for both eSTAR templates (version 7.0) and the PreSTAR"
    },
-   "textHash": "r6rs35"
+   "textHash": "lfb1vc"
   },
   "din-medizinprodukte-watch": {
    "links": {
@@ -3364,6 +3472,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229": "DIN EN ISO 9360-1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": "DIN EN ISO 9360-2:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-13356/404453381": "DIN EN ISO 13356:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-81060-2/404747301": "DIN EN ISO 81060-2:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-5346/403861457": "DIN 5346:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-60601-2-4-a2/403164045": "DIN EN 60601-2-4/A2:2026-08; VDE 0750-2-4/A2:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-10555-1/400993386": "DIN EN ISO 10555-1:2026-08",
@@ -3409,10 +3518,9 @@
     "https://www.dinmedia.de/de/norm-entwurf/26-30540588-dc/404585209": "26/30540588 DC:2026-06-22 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/26-30540592-dc/404585221": "26/30540592 DC:2026-06-22 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/26-30553927-dc/404586760": "26/30553927 DC:2026-06-22 - Entwurf",
-    "https://www.dinmedia.de/de/norm/bs-iso-7554-2/404580455": "BS ISO 7554-2:2026-06-22",
-    "https://www.dinmedia.de/de/norm/bs-iso-7554-3/404580468": "BS ISO 7554-3:2026-06-22"
+    "https://www.dinmedia.de/de/norm/bs-iso-7554-2/404580455": "BS ISO 7554-2:2026-06-22"
    },
-   "textHash": "1bbpijw"
+   "textHash": "fp7kg6"
   }
  }
 }
