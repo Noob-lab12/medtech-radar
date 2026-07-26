@@ -2889,209 +2889,283 @@
    "summary": "Shareholders approved a plan to dissolve the robot developer, at one time a well-financed contender to challenge surgical robotics leader Intuitive, and liquidate its assets.",
    "published": "2026-07-22T19:21:54.000Z",
    "firstSeen": "2026-07-24T11:17:02.667Z"
+  },
+  "din-medizinprodukte-watch::change::yra911": {
+   "id": "din-medizinprodukte-watch::change::yra911",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-07-26T10:24:27.165Z",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/27/2026-15075/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-active-noise": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/27/2026-15075/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-active-noise",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; General Hospital and Personal Use Devices; Classification of the Active Noise Attenuation System for Infant Incubators",
+   "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15075/medical-devices-general-hospital-and-personal-use-devices-classification-of-the-active-noise",
+   "summary": "The Food and Drug Administration (FDA) is classifying the active noise attenuation system for infant incubators into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the active noise attenuation system for infant incubators. We are taking this action because we have determine",
+   "published": "2026-07-27",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/07/27/2026-15074/medical-devices-gastroenterology-urology-devices-classification-of-the-non-medicated-topical": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/07/27/2026-15074/medical-devices-gastroenterology-urology-devices-classification-of-the-non-medicated-topical",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Non-Medicated Topical Formulation for Treatment of Erectile Dysfunction",
+   "link": "https://www.federalregister.gov/documents/2026/07/27/2026-15074/medical-devices-gastroenterology-urology-devices-classification-of-the-non-medicated-topical",
+   "summary": "The Food and Drug Administration (FDA) is classifying the non- medicated topical formulation for treatment of erectile dysfunction into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the non-medicated topical formulation for treatment of erectile dysfunction. We are taking ",
+   "published": "2026-07-27",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "iso-tc210-watch::https://www.iso.org/standards-catalogue/browse-by-tc.html": {
+   "id": "iso-tc210-watch::https://www.iso.org/standards-catalogue/browse-by-tc.html",
+   "source": "iso-tc210-watch",
+   "title": "TC",
+   "link": "https://www.iso.org/standards-catalogue/browse-by-tc.html",
+   "summary": "Neu verlinkt auf: ISO/TC 210 – Normenkatalog (Überwachung)",
+   "published": "2026-07-26T10:24:27.165Z",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-advisory-committee-backs-two-more-peptides-rejects-one-for-compounding-list.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-advisory-committee-backs-two-more-peptides-rejects-one-for-compounding-list.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA advisory committee backs two more peptides, rejects one for compounding list",
+   "link": "https://www.raps.org/resource/fda-advisory-committee-backs-two-more-peptides-rejects-one-for-compounding-list.html",
+   "summary": "24 Jul 2026 FDA advisory committee backs two more peptides, rejects one for compounding list By the end of a two-day meeting that concluded Friday afternoon, an advisory committee to the US Food and Drug Administration (FDA) voted in favor of adding six of the seven peptides it was tasked to review to the list of bulk drug substances that can be used in pharmacy compounding.",
+   "published": "2026-07-24T12:00:00.000Z",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/why-the-fdas-top-spot-could-sit-empty-for-months-ahead-of-midterms/825913/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/why-the-fdas-top-spot-could-sit-empty-for-months-ahead-of-midterms/825913/",
+   "source": "medtech-dive",
+   "title": "Why the FDA’s top spot could sit empty for months",
+   "link": "https://www.medtechdive.com/news/why-the-fdas-top-spot-could-sit-empty-for-months-ahead-of-midterms/825913/",
+   "summary": "Multiple factors could get in the way of confirming a new commissioner before the midterm elections, experts said, leaving the agency’s long-term initiatives in limbo.",
+   "published": "2026-07-24T17:31:00.000Z",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ge-healthcare-cfo-jay-saccaro-steps-down/826153/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ge-healthcare-cfo-jay-saccaro-steps-down/826153/",
+   "source": "medtech-dive",
+   "title": "GE HealthCare CFO Jay Saccaro steps down",
+   "link": "https://www.medtechdive.com/news/ge-healthcare-cfo-jay-saccaro-steps-down/826153/",
+   "summary": "An analyst said Saccaro’s decision was “surprising,” adding that investors were not calling for his departure.",
+   "published": "2026-07-24T15:26:44.000Z",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/edwards-posts-strong-tavr-sales-ahead-of-potential-medicare-coverage-expans/826160/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/edwards-posts-strong-tavr-sales-ahead-of-potential-medicare-coverage-expans/826160/",
+   "source": "medtech-dive",
+   "title": "Edwards posts strong TAVR sales ahead of potential Medicare coverage expansion",
+   "link": "https://www.medtechdive.com/news/edwards-posts-strong-tavr-sales-ahead-of-potential-medicare-coverage-expans/826160/",
+   "summary": "An upcoming Medicare coverage decision for transcatheter aortic valve replacement devices and study readout for patients with moderate disease are expected to help the company maintain its momentum.",
+   "published": "2026-07-24T15:26:32.000Z",
+   "firstSeen": "2026-07-26T10:24:27.165Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 8
   },
   "team-nb": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
    "lastOk": "2026-07-24T11:17:02.667Z",
    "lastNew": null,
-   "lastError": null,
+   "lastError": "read ECONNRESET",
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
-   "lastNew": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
+   "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-24T11:17:02.667Z",
    "lastError": null,
    "fetched": 36
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
-   "lastNew": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
+   "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
-   "lastNew": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
+   "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-23T11:29:13.023Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 232
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
-   "lastNew": null,
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
+   "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": null,
-   "fetched": 34
+   "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-24T11:17:02.667Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-07-24T11:17:02.667Z",
-   "lastOk": "2026-07-24T11:17:02.667Z",
-   "lastNew": "2026-07-24T11:17:02.667Z",
+   "lastAttempt": "2026-07-26T10:24:27.165Z",
+   "lastOk": "2026-07-26T10:24:27.165Z",
+   "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": null,
    "fetched": 53
   }
@@ -3530,9 +3604,10 @@
     "https://www.iso.org/committee/52700.html": "ISO/TC 145/SC 3",
     "https://www.iso.org/committee/53122.html": "ISO/TC 150/SC 6",
     "https://www.iso.org/committee/53888.html": "ISO/TC 176/SC 1",
-    "https://www.iso.org/committee/54960.html": "ISO/TC 215"
+    "https://www.iso.org/committee/54960.html": "ISO/TC 215",
+    "https://www.iso.org/standards-catalogue/browse-by-tc.html": "TC"
    },
-   "textHash": "ytba6t"
+   "textHash": "ojxucq"
   },
   "emergo-news-watch": {
    "links": {
@@ -3623,7 +3698,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/26-30553927-dc/404586760": "26/30553927 DC:2026-06-22 - Entwurf",
     "https://www.dinmedia.de/de/norm/bs-iso-7554-2/404580455": "BS ISO 7554-2:2026-06-22"
    },
-   "textHash": "11ynzfn"
+   "textHash": "yra911"
   }
  }
 }
