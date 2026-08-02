@@ -204,30 +204,6 @@
    "published": "2026-03-13T13:37:27.000Z",
    "firstSeen": "2026-07-17T09:07:35.353Z"
   },
-  "ec-medical-devices::https://ec.europa.eu/newsroom/sante/newsletter-archives/71729": {
-   "id": "ec-medical-devices::https://ec.europa.eu/newsroom/sante/newsletter-archives/71729",
-   "source": "ec-medical-devices",
-   "sourceName": "EU-Kommission – Medical Devices",
-   "category": "EU",
-   "lang": "en",
-   "title": "Medical Devices: Register now for high-level conference on 16 March 2026",
-   "link": "https://ec.europa.eu/newsroom/sante/newsletter-archives/71729",
-   "summary": "Medical Devices: Register now for high-level conference on 16 March 2026",
-   "published": "2026-02-03T08:36:46.000Z",
-   "firstSeen": "2026-07-17T09:07:35.353Z"
-  },
-  "ec-medical-devices::https://health.ec.europa.eu/events/high-level-conference-medical-devices-innovation-and-patient-safety-16-march-2026-brussels-belgium-2026-03-16_en": {
-   "id": "ec-medical-devices::https://health.ec.europa.eu/events/high-level-conference-medical-devices-innovation-and-patient-safety-16-march-2026-brussels-belgium-2026-03-16_en",
-   "source": "ec-medical-devices",
-   "sourceName": "EU-Kommission – Medical Devices",
-   "category": "EU",
-   "lang": "en",
-   "title": "Registration - High-level Conference on Medical Devices: Innovation and Patient Safety - 16 March 2026, 9.00 - 17.00 CET",
-   "link": "https://health.ec.europa.eu/events/high-level-conference-medical-devices-innovation-and-patient-safety-16-march-2026-brussels-belgium-2026-03-16_en",
-   "summary": "Registration - High-level Conference on Medical Devices: Innovation and Patient Safety - 16 March 2026, 9.00 - 17.00 CET",
-   "published": "2026-02-02T14:17:03.000Z",
-   "firstSeen": "2026-07-17T09:07:35.353Z"
-  },
   "ec-harmonised-standards::https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj": {
    "id": "ec-harmonised-standards::https://eur-lex.europa.eu/eli/dec_impl/2026/1231/oj",
    "source": "ec-harmonised-standards",
@@ -3240,211 +3216,499 @@
    "summary": "Aidoc is bringing a system that can interpret images and make draft reports for radiologists to the FDA as the medtech industry awaits clarity on regulation of generative AI. Ensuring safety is paramount, said CEO Elad Walach.",
    "published": "2026-07-27T14:54:45.000Z",
    "firstSeen": "2026-07-30T11:32:25.701Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/950814": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/950814",
+   "source": "eu-ai-office",
+   "title": "Complaints channel for downstream providers using general-purpose AI models",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/950814",
+   "summary": "Downstream providers have a possibility to lodge a complaint about alleged infringement of AI Act’s rules for general-purpose AI (GPAI) models.",
+   "published": "2026-07-31T09:28:21.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/950779": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/950779",
+   "source": "eu-ai-office",
+   "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/950779",
+   "summary": "From 2 August 2026, the European Commission’s AI Office, together with national authorities, will begin enforcing the Artificial Intelligence (AI) Act.",
+   "published": "2026-07-31T07:00:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-6853-2/399116670": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-6853-2/399116670",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN 6853-2:2026-09",
+   "link": "https://www.dinmedia.de/de/norm/din-6853-2/399116670",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-02T10:21:23.335Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-10079-1/401507463": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-10079-1/401507463",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 10079-1:2026-09",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-10079-1/401507463",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-02T10:21:23.335Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-17256/401892004": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-17256/401892004",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 17256:2026-09",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-17256/401892004",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-02T10:21:23.335Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/digital-k-gmp-audits-under-dmpa-key-considerations": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/digital-k-gmp-audits-under-dmpa-key-considerations",
+   "source": "emergo-news-watch",
+   "title": "new Insights Jul 31, 2026 Digital K-GMP Audits Under the DMPA: Key Considerations Emergo by UL shares practical experience with Digital K-GMP audits under South Korea&#039;s DMPA, covering gap analysi",
+   "link": "https://www.emergobyul.com/news/digital-k-gmp-audits-under-dmpa-key-considerations",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-08-02T10:21:23.335Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/digital-k-gmp-compliance-south-korea": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/digital-k-gmp-compliance-south-korea",
+   "source": "emergo-news-watch",
+   "title": "new Insights Jul 31, 2026 Digital K-GMP Compliance in South Korea Learn how Digital K-GMP applies to digital medical devices in South Korea, including audit types, change audits and...",
+   "link": "https://www.emergobyul.com/news/digital-k-gmp-compliance-south-korea",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-08-02T10:21:23.335Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/india-cdsco-finalizes-guidance-medical-device-software": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/india-cdsco-finalizes-guidance-medical-device-software",
+   "source": "emergo-news-watch",
+   "title": "new Regulatory Update Jul 30, 2026 India CDSCO Finalizes Guidance on Medical Device Software Final guidance establishes a clear regulatory framework for medical software market applicants in India.",
+   "link": "https://www.emergobyul.com/news/india-cdsco-finalizes-guidance-medical-device-software",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-08-02T10:21:23.335Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-drafts-guidance-on-container-closure-systems-device-constituents-for-biosimilars.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-drafts-guidance-on-container-closure-systems-device-constituents-for-biosimilars.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA drafts guidance on container closure systems, device constituents for biosimilars",
+   "link": "https://www.raps.org/resource/fda-drafts-guidance-on-container-closure-systems-device-constituents-for-biosimilars.html",
+   "summary": "31 Jul 2026 FDA drafts guidance on container closure systems, device constituents for biosimilars The US Food and Drug Administration (FDA) on Friday issued draft guidance to assist sponsors in providing necessary information for developing container closure systems and device constituent parts for biosimilar and interchangeable biosimilar combination products, such as prefilled syringes and autoi",
+   "published": "2026-07-31T12:00:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-unveils-fy-2027-user-fee-rates.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-unveils-fy-2027-user-fee-rates.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA unveils FY 2027 user fee rates",
+   "link": "https://www.raps.org/resource/fda-unveils-fy-2027-user-fee-rates.html",
+   "summary": "30 Jul 2026 FDA unveils FY 2027 user fee rates The US Food and Drug Administration (FDA) has published its user fee rates for FY 2027 across its prescription drug, generic drug, biosimilar, medical device, and over-the-counter drug programs. The rates are calculated by factoring in the agency’s resources against the number of applications it expects to receive over the next fiscal cycle based on h",
+   "published": "2026-07-30T12:00:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/researchers-concerned-by-underutilization-of-accelerated-approval-in-oncology.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/researchers-concerned-by-underutilization-of-accelerated-approval-in-oncology.html",
+   "source": "raps-regulatory-focus",
+   "title": "Researchers concerned by underutilization of accelerated approval in oncology",
+   "link": "https://www.raps.org/resource/researchers-concerned-by-underutilization-of-accelerated-approval-in-oncology.html",
+   "summary": "30 Jul 2026 Researchers concerned by underutilization of accelerated approval in oncology Most adult cancer drugs approved by the US Food and Drug Administration (FDA) over the past two decades were regular approvals for expanded indications based on surrogate endpoints, rather than accelerated approvals, according to a study published in JAMA on Thursday.",
+   "published": "2026-07-30T12:00:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-updates-product-specific-guidelines-for-injectable-peptides.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-updates-product-specific-guidelines-for-injectable-peptides.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA updates product-specific guidelines for injectable peptides",
+   "link": "https://www.raps.org/resource/fda-updates-product-specific-guidelines-for-injectable-peptides.html",
+   "summary": "30 Jul 2026 FDA updates product-specific guidelines for injectable peptides The US Food and Drug Administration (FDA) has updated 17 draft product-specific guidances (PSGs) to assist sponsors in submitting abbreviated new drug applications (ANDAs) for injectable peptide products. These PSGs focus on peptide drugs used to treat conditions such as obesity, type 2 diabetes, osteoporosis, and macular ",
+   "published": "2026-07-30T12:00:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/stryker-catching-up-on-orders-manufacturing-after-cyberattack/826725/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/stryker-catching-up-on-orders-manufacturing-after-cyberattack/826725/",
+   "source": "medtech-dive",
+   "title": "Stryker catching up on orders, manufacturing after cyberattack",
+   "link": "https://www.medtechdive.com/news/stryker-catching-up-on-orders-manufacturing-after-cyberattack/826725/",
+   "summary": "CEO Kevin Lobo said the company is working through a backlog of orders and grappling with a supply disruption related to Inari Medical.",
+   "published": "2026-07-31T15:53:20.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/mmi-to-expand-study-of-robotic-microsurgery-for-alzheimers/826709/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/mmi-to-expand-study-of-robotic-microsurgery-for-alzheimers/826709/",
+   "source": "medtech-dive",
+   "title": "MMI to expand study of robotic microsurgery for Alzheimer’s",
+   "link": "https://www.medtechdive.com/news/mmi-to-expand-study-of-robotic-microsurgery-for-alzheimers/826709/",
+   "summary": "The FDA is allowing MMI to enroll more patients in a feasibility trial studying use of the Symani robot for microsurgery to restore drainage paths in the lymph nodes of Alzheimer's patients.",
+   "published": "2026-07-31T14:35:15.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/siemens-healthineers-cleveland-clinic-form-10-year-alliance/826682/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/siemens-healthineers-cleveland-clinic-form-10-year-alliance/826682/",
+   "source": "medtech-dive",
+   "title": "Siemens Healthineers, Cleveland Clinic form 10-year alliance",
+   "link": "https://www.medtechdive.com/news/siemens-healthineers-cleveland-clinic-form-10-year-alliance/826682/",
+   "summary": "The deal to provide a range of imaging and therapeutic technologies to Cleveland Clinic extends the partners’ longtime relationship and follows a recent 10-year pact between Siemens Healthineers and Mayo Clinic.",
+   "published": "2026-07-31T14:32:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ftc-sues-hims-hers-alleged-privacy-violations-deceptive-billing/826608/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ftc-sues-hims-hers-alleged-privacy-violations-deceptive-billing/826608/",
+   "source": "medtech-dive",
+   "title": "FTC sues Hims & Hers over alleged privacy violations, deceptive billing practices",
+   "link": "https://www.medtechdive.com/news/ftc-sues-hims-hers-alleged-privacy-violations-deceptive-billing/826608/",
+   "summary": "Regulators say the telehealth company illegally shared patient health data with advertisers and misled its customers. Hims & Hers hit back, calling the claims “baseless.”",
+   "published": "2026-07-30T15:52:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/what-jjs-ottava-robot-brings-to-the-surgical-table/826536/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/what-jjs-ottava-robot-brings-to-the-surgical-table/826536/",
+   "source": "medtech-dive",
+   "title": "What J&J’s Ottava robot brings to the surgical table",
+   "link": "https://www.medtechdive.com/news/what-jjs-ottava-robot-brings-to-the-surgical-table/826536/",
+   "summary": "Rocco De Bernardis, global president for Ottava, gets into the details of what makes the new robotic surgery system different from the competition and how the healthcare giant plans to roll it out.",
+   "published": "2026-07-30T12:00:00.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/medtronic-leads-37m-investment-in-ablation-mapping-startup-coremap/826550/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/medtronic-leads-37m-investment-in-ablation-mapping-startup-coremap/826550/",
+   "source": "medtech-dive",
+   "title": "Medtronic leads $37M investment in ablation mapping startup CoreMap",
+   "link": "https://www.medtechdive.com/news/medtronic-leads-37m-investment-in-ablation-mapping-startup-coremap/826550/",
+   "summary": "Medtronic has backed CoreMap to address a critical unmet need in atrial fibrillation treatment.",
+   "published": "2026-07-30T11:01:01.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/quasar-medical-buys-medres-nitinol-design-and-development-center/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/quasar-medical-buys-medres-nitinol-design-and-development-center/",
+   "source": "medical-design-outsourcing",
+   "title": "Quasar Medical buys Medres Nitinol Design and Development Center",
+   "link": "https://www.medicaldesignandoutsourcing.com/quasar-medical-buys-medres-nitinol-design-and-development-center/",
+   "summary": "Quasar Medical said it has purchased the Medres Nitinol Design and Development Center near San Diego, California. Medres established the 10,000-square-foot Carlsbad site in 2024 and expanded it in 2025. It has dedicated nitinol operations, engineering talent and manufacturing capabilities. Quasar Medical is a contract development and manufacturing organization (CDMO) that specializes in minimally ",
+   "published": "2026-07-31T17:49:38.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/jnj-robotics-rd-ottava-folding-arms-soothing-sounds-and-haptics-capability/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/jnj-robotics-rd-ottava-folding-arms-soothing-sounds-and-haptics-capability/",
+   "source": "medical-design-outsourcing",
+   "title": "J&J’s robotics R&D head discusses Ottava’s folding arms, soothing sounds and haptics capability",
+   "link": "https://www.medicaldesignandoutsourcing.com/jnj-robotics-rd-ottava-folding-arms-soothing-sounds-and-haptics-capability/",
+   "summary": "Johnson & Johnson MedTech unveiled its Ottava surgical robotics system at the July 2026 Society of Robotic Surgery (SRS) annual meeting after winning FDA de novo authorization. “These teams have built a category-defining, soft-tissue surgical robot, and our regulatory pathway is a testament to that. There is no precedent here,” J&J MedTech Global Head of… The post J&J’s robotics R&D head discusses",
+   "published": "2026-07-31T16:07:44.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/bd-noninvasive-continuous-patient-monitoring-advances/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/bd-noninvasive-continuous-patient-monitoring-advances/",
+   "source": "medical-design-outsourcing",
+   "title": "How BD wants to advance noninvasive continuous patient monitoring",
+   "link": "https://www.medicaldesignandoutsourcing.com/bd-noninvasive-continuous-patient-monitoring-advances/",
+   "summary": "Tim Patz envisions a future where continuous monitoring follows the patient “from admission or the point of surgery, all the way to discharge.” Becton, Dickinson and Co. (BD), where Patz is worldwide president of the Advanced Patient Monitoring business, is one step closer to that future after developing a platform enabling noninvasive continuous blood pressure… The post How BD wants to advance no",
+   "published": "2026-07-30T17:11:07.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/umass-amherst-researchers-ablation-bladder-cancer-device/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/umass-amherst-researchers-ablation-bladder-cancer-device/",
+   "source": "medical-design-outsourcing",
+   "title": "Researchers are reworking an ablation technique to develop a novel cancer treatment",
+   "link": "https://www.medicaldesignandoutsourcing.com/umass-amherst-researchers-ablation-bladder-cancer-device/",
+   "summary": "A research team led by the University of Massachusetts Amherst is reworking a proven treatment to develop a new way to prevent bladder cancer recurrence without removing the organ or aggressive repeat treatments. The National Institutes of Health recently awarded the team a five-year grant of up to $3.45 million to develop the novel ablation… The post Researchers are reworking an ablation techniqu",
+   "published": "2026-07-29T22:29:14.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/zeus-pfas-free-pfx-flex-catheter-liners-certification/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/zeus-pfas-free-pfx-flex-catheter-liners-certification/",
+   "source": "medical-design-outsourcing",
+   "title": "Zeus wins PFAS-free certification for PFX Flex catheter liners",
+   "link": "https://www.medicaldesignandoutsourcing.com/zeus-pfas-free-pfx-flex-catheter-liners-certification/",
+   "summary": "Zeus PFX Flex Sub-Lite-Wall catheter liners are now the first medical device components to be certified by Intertek as free of per- and polyfluoroalkyl substances (PFAS). The news comes as medical device developers look to reduce their use of these “forever chemicals” in their products due to increasing scrutiny from regulators and customers. While the… The post Zeus wins PFAS-free certification f",
+   "published": "2026-07-28T21:34:36.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/2026-mdo-min-vasive-medtech-webinar-series/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/2026-mdo-min-vasive-medtech-webinar-series/",
+   "source": "medical-design-outsourcing",
+   "title": "We’ve got a medtech legend for the 2026 MDO Min-Vasive Medtech webinar series",
+   "link": "https://www.medicaldesignandoutsourcing.com/2026-mdo-min-vasive-medtech-webinar-series/",
+   "summary": "The MDO Min-Vasive Medtech webinar series returns Aug. 18-20, 2026, and we’re kicking things off with medical device industry legend Manny Villafaña as our first guest. Registration is free and open now here for all three sessions, including two more speakers we’ll announce very soon. Villafaña founded several device developers that were acquired by major… The post We’ve got a medtech legend for t",
+   "published": "2026-07-28T17:03:18.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/the-engineers-guide-to-luer-connector-selection/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/the-engineers-guide-to-luer-connector-selection/",
+   "source": "medical-design-outsourcing",
+   "title": "The Engineer’s Guide to Luer connector selection",
+   "link": "https://www.medicaldesignandoutsourcing.com/the-engineers-guide-to-luer-connector-selection/",
+   "summary": "This article is part of Qosina’s “The Engineer’s Guide” recurring series covering practical component selection guidance for medical device design engineers. By Stephanie Alwais, Qosina A design engineer working on a wearable drug delivery device recently told me she had been speccing the same Luer lock configuration her team had used for five years, assuming… The post The Engineer’s Guide to Luer",
+   "published": "2026-07-28T16:00:26.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/te-connectivity-adds-3d-printing-for-catheter-shafts/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/te-connectivity-adds-3d-printing-for-catheter-shafts/",
+   "source": "medical-design-outsourcing",
+   "title": "TE Connectivity adds 3D printing for catheter shafts",
+   "link": "https://www.medicaldesignandoutsourcing.com/te-connectivity-adds-3d-printing-for-catheter-shafts/",
+   "summary": "NEWS RELEASE: TE Connectivity introduces 3D printing process to streamline catheter manufacturing GALWAY, Ireland — TE Connectivity, a world leader in connectors and sensors, has introduced a new automated 3D printing process to manufacture the catheter shafts it supplies to medical device manufacturers. It will replace a higher-cost, predominately manual assembly process commonly used across the…",
+   "published": "2026-07-28T07:52:46.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vagus-nerve-research-advance-neuromodulation-therapy-feinstein-institutes/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/vagus-nerve-research-advance-neuromodulation-therapy-feinstein-institutes/",
+   "source": "medical-design-outsourcing",
+   "title": "Researchers complete first-of-its-kind vagus nerve anatomical map",
+   "link": "https://www.medicaldesignandoutsourcing.com/vagus-nerve-research-advance-neuromodulation-therapy-feinstein-institutes/",
+   "summary": "Researchers at Northwell Health’s Feinstein Institutes for Medical Research have completed a first-of-its-kind comprehensive human vagus nerve anatomical map, a development that could accelerate next-generation bioelectronic medicine and neuromodulation therapy innovation. “This dataset represents a major step forward in bioelectronic medicine, offering the most detailed anatomical reconstruction ",
+   "published": "2026-07-27T21:15:01.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/electroninks-and-siix-expand-additive-emi-shielding-work/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/electroninks-and-siix-expand-additive-emi-shielding-work/",
+   "source": "medical-design-outsourcing",
+   "title": "Electroninks and SIIX expand additive EMI shielding work",
+   "link": "https://www.medicaldesignandoutsourcing.com/electroninks-and-siix-expand-additive-emi-shielding-work/",
+   "summary": "NEWS RELEASE: Electroninks and SIIX expand collaboration to advance additive EMI shielding SIIX’s new spray coating environment supports prototype trials across a wide range of products as partners work with customers to establish coating processes AUSTIN, Texas — Electroninks, the leader in metal complex inks for additive manufacturing and advanced semiconductor packaging, today announced an expa",
+   "published": "2026-07-27T17:11:55.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/dopl-remote-ultrasound-robotics-minimally-invasive/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/dopl-remote-ultrasound-robotics-minimally-invasive/",
+   "source": "medical-design-outsourcing",
+   "title": "Dopl is developing robotics for remote ultrasounds (and one day, much more)",
+   "link": "https://www.medicaldesignandoutsourcing.com/dopl-remote-ultrasound-robotics-minimally-invasive/",
+   "summary": "Dopl Technologies is developing an ultrasound robotics platform for patient imaging by remote sonographers. But the Bothell, Washington-based startup plans to eventually return to its minimally invasive roots for an even bigger impact on patients. We spoke with Dopl Technologies co-founder and CEO Ryan James, a former Nvidia medical AI engineer, about the technology ahead… The post Dopl is develop",
+   "published": "2026-07-27T13:00:51.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/iten-advances-solid-state-batteries-for-class-iii-implants/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/iten-advances-solid-state-batteries-for-class-iii-implants/",
+   "source": "medical-design-outsourcing",
+   "title": "ITEN advances solid-state batteries for Class III implants",
+   "link": "https://www.medicaldesignandoutsourcing.com/iten-advances-solid-state-batteries-for-class-iii-implants/",
+   "summary": "NEWS RELEASE: ITEN develops breakthrough solid-state batteries for next-generation implantable medical devices New high-capacity solid-state technology targets the critical safety, energy density, fast-charging, reliability and miniaturization requirements of Class III medical devices Dardilly (Lyon), France — ITEN, leader in the development and high-volume manufacturing of solid-state energy stor",
+   "published": "2026-07-27T02:11:55.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/advanced-sterilization-products-vp-rd-richard-kelly/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/advanced-sterilization-products-vp-rd-richard-kelly/",
+   "source": "medical-design-outsourcing",
+   "title": "Advanced Sterilization Products has a new VP of R&D",
+   "link": "https://www.medicaldesignandoutsourcing.com/advanced-sterilization-products-vp-rd-richard-kelly/",
+   "summary": "Advanced Sterilization Products has hired Richard Kelly as VP of R&D. Kelly joins the sterilization equipment manufacturer from Fujifilm Sonosite, where he spent the last four years as VP of R&D, according to his LinkedIn page. Prior to Fujifilm, he spent nearly five years as senior director of R&D at Philips, which followed a six-year… The post Advanced Sterilization Products has a new VP of R&D ",
+   "published": "2026-07-24T16:50:15.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/first-look-jj-medtech-ottava-surgical-robotics-system/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/first-look-jj-medtech-ottava-surgical-robotics-system/",
+   "source": "medical-design-outsourcing",
+   "title": "First Look: J&J unveils its Ottava surgical robotics system",
+   "link": "https://www.medicaldesignandoutsourcing.com/first-look-jj-medtech-ottava-surgical-robotics-system/",
+   "summary": "Johnson & Johnson MedTech unveiled its long-awaited Ottava surgical robot today after winning FDA de novo authorization. It’s the world’s first table-integrated soft-tissue robotics system. That robot-in-table design is meant to save space in the operating room, with J&J saying its novel architecture takes up 30% to 50% less space than boom-and-cart systems. Free download:… The post First Look: J&",
+   "published": "2026-07-22T21:54:30.000Z",
+   "firstSeen": "2026-08-02T10:21:23.335Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 8
   },
   "team-nb": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 36
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
-   "lastNew": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
+   "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
-   "lastNew": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
+   "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
-   "lastNew": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
+   "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
-   "lastNew": "2026-07-23T11:29:13.023Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
+   "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 232
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
-   "lastNew": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
+   "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-07-30T11:32:25.701Z",
-   "lastOk": "2026-07-30T11:32:25.701Z",
-   "lastNew": "2026-07-30T11:32:25.701Z",
+   "lastAttempt": "2026-08-02T10:21:23.335Z",
+   "lastOk": "2026-08-02T10:21:23.335Z",
+   "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
-   "fetched": 53
+   "fetched": 49
   }
  },
  "watch": {
@@ -3904,6 +4168,9 @@
     "https://www.emergobyul.com/resources/ivdr-resource-center": "IVDR Resource Center",
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
+    "https://www.emergobyul.com/news/digital-k-gmp-audits-under-dmpa-key-considerations": "new Insights Jul 31, 2026 Digital K-GMP Audits Under the DMPA: Key Considerations Emergo by UL shares practical experience with Digital K-GMP audits under South Korea&#039;s DMPA, covering gap analysi",
+    "https://www.emergobyul.com/news/digital-k-gmp-compliance-south-korea": "new Insights Jul 31, 2026 Digital K-GMP Compliance in South Korea Learn how Digital K-GMP applies to digital medical devices in South Korea, including audit types, change audits and...",
+    "https://www.emergobyul.com/news/india-cdsco-finalizes-guidance-medical-device-software": "new Regulatory Update Jul 30, 2026 India CDSCO Finalizes Guidance on Medical Device Software Final guidance establishes a clear regulatory framework for medical software market applicants in India.",
     "https://www.emergobyul.com/news/taiwan-market-update-electronic-submissions-ai-guidance-fee-revisions": "Regulatory Update Jul 22, 2026 Taiwan Market Update: Electronic Submissions, AI Guidance, Fee Revisions Taiwanese regulators are now accepting electronic submissions for low-risk medical device market",
     "https://www.emergobyul.com/news/using-your-urra-develop-evaluation-activities-your-hf-validation-test-protocol": "Insights Jul 17, 2026 Using Your URRA to Develop Evaluation Activities for Your HF Validation Test Protocol Emergo by UL Human Factors Specialists discuss how to use your use-related risk analysis to ",
     "https://www.emergobyul.com/news/global-medical-device-udi-update-progress-australia-and-brazil": "Regulatory Update Jul 8, 2026 Global Medical Device UDI Update: Progress in Australia and Brazil Regulators in Australia and Brazil have advanced phased implementations of Unique Device Identification",
@@ -3912,23 +4179,23 @@
     "https://www.emergobyul.com/news/malaysia-mda-announces-second-phase-joint-evaluation-between-malaysia-and-china": "Regulatory Update Jun 29, 2026 Malaysia MDA Announces Second Phase Joint Evaluation Between Malaysia and China A second agreement facilitates access for medical device manufacturers in Malaysia to Chi",
     "https://www.emergobyul.com/news/health-canada-update-phase-2-modernize-medical-device-establishment-licensing-mdel": "Regulatory Update Jun 24, 2026 Health Canada: Update on Phase 2 to Modernize Medical Device Establishment Licensing (MDEL) In November 2025, Health Canada published in the Canada Gazette, Part I, Volu",
     "https://www.emergobyul.com/news/regulatory-reliance-authorizations-brazils-revised-anvisa-process-june-2026": "Regulatory Update Jun 18, 2026 Regulatory Reliance Authorizations: Brazil’s Revised ANVISA Process June 2026 Emergo by UL experts highlight recent regulatory reliance authorizations under IN 290/2024,",
-    "https://www.emergobyul.com/news/tips-designing-medical-devices-4-common-impairments": "Insights Jun 18, 2026 Tips for Designing Medical Devices for 4 Common Impairments Emergo by UL human factors specialists share considerations for designing medical devices for users with common...",
-    "https://www.emergobyul.com/news/update-japan-cabinet-order-no-362-and-mhlw-notification-no-0331-20-and-us-fda-authorized": "Regulatory Update Jun 11, 2026 Update on Japan Cabinet Order No. 362 and MHLW Notification No. 0331-20 and US FDA Authorized Devices as Equivalent Emergo by UL experts provide an update on Japan Cabin",
-    "https://www.emergobyul.com/news/second-set-frequently-asked-questions-about-eudamed-scope": "Regulatory Update Jun 3, 2026 Second Set of Frequently Asked Questions about EUDAMED: Scope During our recent EUDAMED webinar there were a tremendous number of questions. For your convenience, we’ve c",
-    "https://www.emergobyul.com/news/us-fda-updates-estar-version-70-and-prestar-version-30": "Regulatory Update Jun 3, 2026 US FDA Updates to eSTAR (version 7.0) and preSTAR (version 3.0) On June 1, 2026, the FDA released new major version for both eSTAR templates (version 7.0) and the PreSTAR"
+    "https://www.emergobyul.com/news/tips-designing-medical-devices-4-common-impairments": "Insights Jun 18, 2026 Tips for Designing Medical Devices for 4 Common Impairments Emergo by UL human factors specialists share considerations for designing medical devices for users with common..."
    },
-   "textHash": "1aryaly"
+   "textHash": "1428lu0"
   },
   "din-medizinprodukte-watch": {
    "links": {
     "https://www.dinmedia.de/de/norm-entwurf/din-6812/404068900": "DIN 6812:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-6853-2/399116670": "DIN 6853-2:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-6855-104/404223171": "DIN 6855-104:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-57/400253380": "DIN EN IEC 60601-2-57:2026-09; VDE 0750-2-57:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5367-a1/404553247": "DIN EN ISO 5367/A1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229": "DIN EN ISO 9360-1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": "DIN EN ISO 9360-2:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iso-10079-1/401507463": "DIN EN ISO 10079-1:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-13356/404453381": "DIN EN ISO 13356:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-15223-1/396847503": "DIN EN ISO 15223-1:2026-09",
+    "https://www.dinmedia.de/de/norm/din-en-iso-17256/401892004": "DIN EN ISO 17256:2026-09",
     "https://www.dinmedia.de/de/norm/din-en-iso-18777-1/400875435": "DIN EN ISO 18777-1:2026-09",
     "https://www.dinmedia.de/de/norm/din-en-iso-18777-2/397894442": "DIN EN ISO 18777-2:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-81060-2/404747301": "DIN EN ISO 81060-2:2026-09 - Entwurf",
@@ -3938,13 +4205,9 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-en-60601-2-4-a2/403164045": "DIN EN 60601-2-4/A2:2026-08; VDE 0750-2-4/A2:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-10555-1/400993386": "DIN EN ISO 10555-1:2026-08",
     "https://www.dinmedia.de/de/norm/din-en-iso-11979-4/400877454": "DIN EN ISO 11979-4:2026-08",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11979-4/154770680": "DIN EN ISO 11979-4:2013-01",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-11979-4/391473104": "DIN EN ISO 11979-4:2025-06",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-14729/404047170": "DIN EN ISO 14729:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15002-a1/404190558": "DIN EN ISO 15002/A1:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-18490/401863403": "DIN EN ISO 18490:2026-08",
-    "https://www.dinmedia.de/de/norm/din-en-iso-18490/224734853": "DIN EN ISO 18490:2015-10",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18490/390953193": "DIN EN ISO 18490:2025-06",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-19980/404419323": "DIN EN ISO 19980:2026-08 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-80369-2/399145532": "DIN EN ISO 80369-2:2026-08",
     "https://www.dinmedia.de/de/norm-entwurf/din-iec-63450/403674362": "DIN IEC 63450:2026-08; VDE 0750-104:2026-08 - Entwurf",
@@ -3970,12 +4233,9 @@
     "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-5833/404466663": "ISO/FDIS 5833:2026-07 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-11197/404885080": "ISO/FDIS 11197:2026-07 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/iso-dis-16034-1/404694201": "ISO/DIS 16034-1:2026-07 - Entwurf",
-    "https://www.dinmedia.de/de/vornorm-entwurf/iso-dts-25198/404355367": "ISO/DTS 25198:2026-07 - Entwurf",
-    "https://www.dinmedia.de/de/norm/iso-27186/404885400": "ISO 27186:2026-07",
-    "https://www.dinmedia.de/de/norm-entwurf/iec-dis-80601-2-86/404466481": "IEC/DIS 80601-2-86:2026-07 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30544034-dc/404585246": "26/30544034 DC:2026-06-26 - Entwurf"
+    "https://www.dinmedia.de/de/vornorm-entwurf/iso-dts-25198/404355367": "ISO/DTS 25198:2026-07 - Entwurf"
    },
-   "textHash": "1kt6ipv"
+   "textHash": "1xouya"
   }
  }
 }
