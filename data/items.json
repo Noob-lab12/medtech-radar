@@ -3856,211 +3856,292 @@
    "summary": "The executive has led Danaher’s diagnostics business, where she helped triple operating profit during her tenure and oversaw the recent acquisition of Masimo.",
    "published": "2026-08-04T14:56:21.000Z",
    "firstSeen": "2026-08-06T12:20:43.994Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15223-1-a1/380031774": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15223-1-a1/380031774",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 15223-1/ A1:2024-06",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15223-1-a1/380031774",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-07T08:33:21.578Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-15223-1/337409967": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-15223-1/337409967",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 15223-1:2022-02",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-15223-1/337409967",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-07T08:33:21.578Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-1/387067421": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-1/387067421",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 18777-1:2025-02",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-1/387067421",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-07T08:33:21.578Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-18777/116825083": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-18777/116825083",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 18777:2009-07",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-18777/116825083",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-07T08:33:21.578Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-2/387045990": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-2/387045990",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 18777-2:2025-02",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-2/387045990",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-08-07T08:33:21.578Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/south-koreas-digital-medical-product-classification-and-registration-0": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/south-koreas-digital-medical-product-classification-and-registration-0",
+   "source": "emergo-news-watch",
+   "title": "new Regulatory Update Aug 6, 2026 South Korea’s Digital Medical Product Classification and Registration Learn more about the classifications of Digital Medical Products supporting the Digital K-GMP.",
+   "link": "https://www.emergobyul.com/news/south-koreas-digital-medical-product-classification-and-registration-0",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-08-07T08:33:21.578Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/mdufa-vi-deal-promises-to-boost-domestic-priorities-review-consistency.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/mdufa-vi-deal-promises-to-boost-domestic-priorities-review-consistency.html",
+   "source": "raps-regulatory-focus",
+   "title": "MDUFA VI deal promises to boost domestic priorities, review consistency",
+   "link": "https://www.raps.org/resource/mdufa-vi-deal-promises-to-boost-domestic-priorities-review-consistency.html",
+   "summary": "06 Aug 2026 MDUFA VI deal promises to boost domestic priorities, review consistency US Food and Drug Administration (FDA) officials said the next iteration of the Medical Device User Fee Amendments (MDUFA VI) will focus on improvements in consistency during the review process and promoting domestic priorities, rather than pursuing shorter review timelines compared to MDUFA V.",
+   "published": "2026-08-06T12:00:00.000Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/zimmer-biomet-sales-force-revamp-going-better-than-expected-ceo-says/827202/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/zimmer-biomet-sales-force-revamp-going-better-than-expected-ceo-says/827202/",
+   "source": "medtech-dive",
+   "title": "Zimmer Biomet sales force revamp going better than expected, CEO says",
+   "link": "https://www.medtechdive.com/news/zimmer-biomet-sales-force-revamp-going-better-than-expected-ceo-says/827202/",
+   "summary": "The restructuring, intended to give Zimmer Biomet a fully dedicated sales force, is expected to be complete by the end of 2027.",
+   "published": "2026-08-06T14:13:06.000Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/solventum-plans-software-separation-to-become-true-medtech-company/827177/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/solventum-plans-software-separation-to-become-true-medtech-company/827177/",
+   "source": "medtech-dive",
+   "title": "Solventum plans software separation to become ‘true medtech company’",
+   "link": "https://www.medtechdive.com/news/solventum-plans-software-separation-to-become-true-medtech-company/827177/",
+   "summary": "The software business needs “a different investment level” to quickly realize its potential, Solventum’s CEO said.",
+   "published": "2026-08-06T14:00:00.000Z",
+   "firstSeen": "2026-08-07T08:33:21.578Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
    "lastOk": "2026-08-06T12:20:43.994Z",
    "lastNew": null,
-   "lastError": null,
+   "lastError": "Unable to parse XML.",
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-08-04T12:20:06.880Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 7
+   "fetched": 6
   },
   "team-nb": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-08-06T12:20:43.994Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-08-06T12:20:43.994Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-07-21T11:26:09.300Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 38
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "AggregateError",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
-   "lastNew": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
+   "lastNew": "2026-08-07T08:33:21.578Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
-   "lastNew": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
+   "lastNew": "2026-08-07T08:33:21.578Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-07-19T15:27:10.268Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-08-06T12:20:43.994Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-08-04T12:20:06.880Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-08-02T10:21:23.335Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": "2026-07-22T11:27:32.985Z",
    "lastError": null,
    "fetched": 232
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
-   "lastNew": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
+   "lastNew": "2026-08-07T08:33:21.578Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-08-06T12:20:43.994Z",
-   "lastOk": "2026-08-06T12:20:43.994Z",
-   "lastNew": "2026-08-06T12:20:43.994Z",
+   "lastAttempt": "2026-08-07T08:33:21.578Z",
+   "lastOk": "2026-08-07T08:33:21.578Z",
+   "lastNew": "2026-08-07T08:33:21.578Z",
    "lastError": null,
-   "fetched": 50
+   "fetched": 55
   }
  },
  "watch": {
@@ -4520,6 +4601,7 @@
     "https://www.emergobyul.com/resources/ivdr-resource-center": "IVDR Resource Center",
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
+    "https://www.emergobyul.com/news/south-koreas-digital-medical-product-classification-and-registration-0": "new Regulatory Update Aug 6, 2026 South Korea’s Digital Medical Product Classification and Registration Learn more about the classifications of Digital Medical Products supporting the Digital K-GMP.",
     "https://www.emergobyul.com/news/fda-updates-landmark-human-factors-guidance-medical-devices": "new Insights Aug 5, 2026 FDA Updates Landmark Human Factors Guidance for Medical Devices FDA updates its human factors guidance to align terminology and definitions with current quality management sys",
     "https://www.emergobyul.com/news/south-koreas-digital-medical-product-classification-and-registration": "new Regulatory Update Aug 4, 2026 South Korea’s Digital Medical Product Classification and Registration Learn how to identify product codes and classifications for digital medical products under South",
     "https://www.emergobyul.com/news/digital-k-gmp-audits-under-dmpa-key-considerations": "new Regulatory Update Jul 31, 2026 Digital K-GMP Audits Under the DMPA: Key Considerations Emergo by UL shares practical experience with Digital K-GMP audits under South Korea&#039;s DMPA, covering ga",
@@ -4530,10 +4612,9 @@
     "https://www.emergobyul.com/news/global-medical-device-udi-update-progress-australia-and-brazil": "Regulatory Update Jul 8, 2026 Global Medical Device UDI Update: Progress in Australia and Brazil Regulators in Australia and Brazil have advanced phased implementations of Unique Device Identification",
     "https://www.emergobyul.com/news/brazil-anvisas-new-e-notivisa-system-major-shift-medical-device-vigilance": "Regulatory Update Jul 1, 2026 Brazil ANVISA’s New e-Notivisa System: A major shift in medical device vigilance Brazil has overhauled its post-market surveillance framework to improve consistency and t",
     "https://www.emergobyul.com/news/common-qa-emergos-human-factors-webinar-fdas-2025-ai-draft-guidance": "Insights Jun 30, 2026 Common Q&amp;A from Emergo’s Human Factors webinar on FDA’s 2025 AI Draft Guidance Emergo by UL Human Factors Specialists share answers to common questions about how the draft 20",
-    "https://www.emergobyul.com/news/malaysia-mda-announces-second-phase-joint-evaluation-between-malaysia-and-china": "Regulatory Update Jun 29, 2026 Malaysia MDA Announces Second Phase Joint Evaluation Between Malaysia and China A second agreement facilitates access for medical device manufacturers in Malaysia to Chi",
-    "https://www.emergobyul.com/news/health-canada-update-phase-2-modernize-medical-device-establishment-licensing-mdel": "Regulatory Update Jun 24, 2026 Health Canada: Update on Phase 2 to Modernize Medical Device Establishment Licensing (MDEL) In November 2025, Health Canada published in the Canada Gazette, Part I, Volu"
+    "https://www.emergobyul.com/news/malaysia-mda-announces-second-phase-joint-evaluation-between-malaysia-and-china": "Regulatory Update Jun 29, 2026 Malaysia MDA Announces Second Phase Joint Evaluation Between Malaysia and China A second agreement facilitates access for medical device manufacturers in Malaysia to Chi"
    },
-   "textHash": "d96gxq"
+   "textHash": "t4k2yu"
   },
   "din-medizinprodukte-watch": {
    "links": {
@@ -4548,9 +4629,14 @@
     "https://www.dinmedia.de/de/norm/din-en-iso-10079-1/401507463": "DIN EN ISO 10079-1:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-13356/404453381": "DIN EN ISO 13356:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-15223-1/396847503": "DIN EN ISO 15223-1:2026-09",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15223-1-a1/380031774": "DIN EN ISO 15223-1/ A1:2024-06",
+    "https://www.dinmedia.de/de/norm/din-en-iso-15223-1/337409967": "DIN EN ISO 15223-1:2022-02",
     "https://www.dinmedia.de/de/norm/din-en-iso-17256/401892004": "DIN EN ISO 17256:2026-09",
     "https://www.dinmedia.de/de/norm/din-en-iso-18777-1/400875435": "DIN EN ISO 18777-1:2026-09",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-1/387067421": "DIN EN ISO 18777-1:2025-02",
+    "https://www.dinmedia.de/de/norm/din-en-iso-18777/116825083": "DIN EN ISO 18777:2009-07",
     "https://www.dinmedia.de/de/norm/din-en-iso-18777-2/397894442": "DIN EN ISO 18777-2:2026-09",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18777-2/387045990": "DIN EN ISO 18777-2:2025-02",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-81060-2/404747301": "DIN EN ISO 81060-2:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-iso-5834-1/404222048": "DIN ISO 5834-1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-iso-5834-2/404225562": "DIN ISO 5834-2:2026-09 - Entwurf",
@@ -4588,7 +4674,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-58299/402152008": "DIN 58299:2026-07 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-58300/402869817": "DIN 58300:2026-07 - Entwurf"
    },
-   "textHash": "1bbo8pm"
+   "textHash": "jb04r8"
   }
  }
 }
