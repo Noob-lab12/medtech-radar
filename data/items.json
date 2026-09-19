@@ -5032,209 +5032,416 @@
    "summary": "Regulatory pressure, rising hospital expectations and outdated hardware are converging into a challenge manufacturers can no longer postpone. By John O’Gorman, S3 Connected Health A growing number of medical device manufacturers are under pressure to add IoT connectivity to devices that were never designed for it. Many were built 5, 10, or 15 years ago… The post The hardware gap is why legacy medi",
    "published": "2026-08-13T16:24:59.000Z",
    "firstSeen": "2026-09-18T09:06:16.902Z"
+  },
+  "din-medizinprodukte-watch::change::10gt8oo": {
+   "id": "din-medizinprodukte-watch::change::10gt8oo",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-09-19T08:53:36.199Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/yale-wearable-sensors-versus-motion-capture-gait-tracking-knee-osteoarthritis/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/yale-wearable-sensors-versus-motion-capture-gait-tracking-knee-osteoarthritis/",
+   "source": "medical-design-outsourcing",
+   "title": "Yale-led study finds wearable sensors match motion capture for gait tracking in knee osteoarthritis",
+   "link": "https://www.medicaldesignandoutsourcing.com/yale-wearable-sensors-versus-motion-capture-gait-tracking-knee-osteoarthritis/",
+   "summary": "A group of international researchers found that foot-mounted wearable sensors could provide lab-quality gait data from patients with knee osteoarthritis without the use of sophisticated motion-capture cameras. Led by researchers at Yale University, the paper published in JMIR Formative Research found that wearable tech was nearly perfect in matching readings of a person’s walking speed,… The post ",
+   "published": "2026-09-17T18:15:17.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medtech-mergers-trends-private-equity-data-breaches/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medtech-mergers-trends-private-equity-data-breaches/",
+   "source": "medical-design-outsourcing",
+   "title": "Data breaches are killing more deals than anything else, these M&A lawyers say",
+   "link": "https://www.medicaldesignandoutsourcing.com/medtech-mergers-trends-private-equity-data-breaches/",
+   "summary": "Acquisitions and divestitures drove most of the big changes on Medical Design & Outsourcing‘s 2026 Medtech Big 100 ranking of the world’s largest device companies, and many of those moves involved private equity. In the latest post from our interview with two lawyers who work with medical device OEMs, their outsourcing partners and PE firms,… The post Data breaches are killing more deals than anyt",
+   "published": "2026-09-17T15:52:10.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ultimaker-and-bioactivx-advance-on-demand-3d-printed-wound-care/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ultimaker-and-bioactivx-advance-on-demand-3d-printed-wound-care/",
+   "source": "medical-design-outsourcing",
+   "title": "UltiMaker and Bioactivx advance on-demand 3D-printed wound care",
+   "link": "https://www.medicaldesignandoutsourcing.com/ultimaker-and-bioactivx-advance-on-demand-3d-printed-wound-care/",
+   "summary": "NEWS RELEASE: UltiMaker partners with Bioactivx to advance on-demand 3D-printed wound care, as Singapore medtech startup achieves HSA approval for end-use medical implants SINGAPORE — UltiMaker, a global leader in professional 3D printing solutions, today announced a Memorandum of Understanding (MOU) with Bioactivx, a Singapore-based MedTech startup, to co-develop a scalable, on-demand medical pri",
+   "published": "2026-09-17T05:36:13.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/the-reanimation-of-full-life-patrick-eichers-book/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/the-reanimation-of-full-life-patrick-eichers-book/",
+   "source": "medical-design-outsourcing",
+   "title": "A former Medtronic and J&J engineer shares his mission-driven purpose",
+   "link": "https://www.medicaldesignandoutsourcing.com/the-reanimation-of-full-life-patrick-eichers-book/",
+   "summary": "By Patrick Eichers I’ll be the first to admit that an engineering memoir may not sound like a page-turning thriller, but there’s an adage in the medical device industry: “Not documented, not done.” With that in mind, I did not want many of the remarkable events I witnessed to fade into oblivion. My new memoir,… The post A former Medtronic and J&J engineer shares his mission-driven purpose appeared",
+   "published": "2026-09-16T20:44:03.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medtronic-taps-zimmer-biomet-executive-as-its-new-supply-chain-vp/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medtronic-taps-zimmer-biomet-executive-as-its-new-supply-chain-vp/",
+   "source": "medical-design-outsourcing",
+   "title": "Medtronic taps Zimmer Biomet executive as its new supply chain VP",
+   "link": "https://www.medicaldesignandoutsourcing.com/medtronic-taps-zimmer-biomet-executive-as-its-new-supply-chain-vp/",
+   "summary": "Medtronic has hired an experienced operations and finance executive from orthopedic device giant Zimmer Biomet as its new VP and CFO of global operations and supply chain. Joerg Schmidt announced his move to Medtronic in a LinkedIn post yesterday: “I am very much looking forward to this new chapter, partnering with teams across Medtronic, and… The post Medtronic taps Zimmer Biomet executive as its",
+   "published": "2026-09-16T14:25:57.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/promex-automates-3d-inspection-for-rigid-and-flexible-pcbs/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/promex-automates-3d-inspection-for-rigid-and-flexible-pcbs/",
+   "source": "medical-design-outsourcing",
+   "title": "Promex automates 3D inspection for rigid and flexible PCBs",
+   "link": "https://www.medicaldesignandoutsourcing.com/promex-automates-3d-inspection-for-rigid-and-flexible-pcbs/",
+   "summary": "NEWS RELEASE: Promex moves to 100% automated PCB inspection to accommodate the smallest, most complex medical electronics New automated 3D inspection technology provides 100% inspection of rigid and flexible PCB assemblies for medical and other high-reliability applications Detects manufacturing variation as component density rises and tolerances tighten SANTA CLARA, Calif. — Promex Industries Inc",
+   "published": "2026-09-16T06:07:17.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/mit-research-pink-noise-csf-flow-during-sleep/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/mit-research-pink-noise-csf-flow-during-sleep/",
+   "source": "medical-design-outsourcing",
+   "title": "MIT researchers find pink noise can encourage CSF flow during sleep",
+   "link": "https://www.medicaldesignandoutsourcing.com/mit-research-pink-noise-csf-flow-during-sleep/",
+   "summary": "Researchers at MIT have found that listening to certain sounds during parts of the sleep cycle can stimulate the flow of cerebrospinal fluid (CSF), helping the brain to clear out cellular debris. That includes waste products like lactic acid and potentially harmful proteins such as amyloid beta and tau, which are linked to Alzheimer’s disease… The post MIT researchers find pink noise can encourage",
+   "published": "2026-09-15T16:35:57.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/epicenter-zeroto510-accelerator-medtech-startups/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/epicenter-zeroto510-accelerator-medtech-startups/",
+   "source": "medical-design-outsourcing",
+   "title": "Epicenter’s ZeroTo510 Accelerator selects five medtech startups",
+   "link": "https://www.medicaldesignandoutsourcing.com/epicenter-zeroto510-accelerator-medtech-startups/",
+   "summary": "Epicenter has selected five medtech startups to participate in its ZeroTo510 Accelerator, which supports early-stage medtech founders accelerating toward commercialization. Epicenter is a Memphis-based nonprofit that helps startups grow their ventures. Its ZeroTo510 Accelerator is a 13-week program designed to support medtech startups through essential development stages. Participating companies r",
+   "published": "2026-09-15T10:00:27.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/three-tests-decide-whether-cleared-device-gets-used/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/three-tests-decide-whether-cleared-device-gets-used/",
+   "source": "medical-design-outsourcing",
+   "title": "The three tests that decide whether a cleared device gets used",
+   "link": "https://www.medicaldesignandoutsourcing.com/three-tests-decide-whether-cleared-device-gets-used/",
+   "summary": "While every medical device company celebrates clearances, some cleared devices never get used. Clearance guarantees nothing about whether a device ever reaches a patient, a surgeon schedules the case or a hospital covers the cost. The world’s largest medical device company puts field and clinical teams inside the operating room so “we don’t drop something… The post The three tests that decide whet",
+   "published": "2026-09-14T23:17:46.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/meet-conor-hale-medical-design-outsourcings-new-senior-editor/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/meet-conor-hale-medical-design-outsourcings-new-senior-editor/",
+   "source": "medical-design-outsourcing",
+   "title": "Meet Conor Hale, Medical Design & Outsourcing’s new senior editor",
+   "link": "https://www.medicaldesignandoutsourcing.com/meet-conor-hale-medical-design-outsourcings-new-senior-editor/",
+   "summary": "My name is Conor Hale, and I’m happy to introduce myself as Medical Design & Outsourcing and MassDevice‘s new senior editor. I’ve had the pleasure of covering medical technology and the life sciences for the past 15 years at outlets including the Cancer Letter and FDAnews from my home in the Washington, D.C. area. Most recently,… The post Meet Conor Hale, Medical Design & Outsourcing’s new senior ",
+   "published": "2026-09-14T19:27:03.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/velosity-acquires-lucid-to-expand-medtech-engineering-capabilities/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/velosity-acquires-lucid-to-expand-medtech-engineering-capabilities/",
+   "source": "medical-design-outsourcing",
+   "title": "Velosity acquires Lucid to expand medtech engineering capabilities",
+   "link": "https://www.medicaldesignandoutsourcing.com/velosity-acquires-lucid-to-expand-medtech-engineering-capabilities/",
+   "summary": "NEWS RELEASE: A Lucid acquisition: Velosity expands engineering and innovation capabilities Acquisition enhances Velosity’s ability to serve MedTech customers from concept development through full-scale production Philadelphia, PA — Graham Partners (“Graham”), a private investment firm targeting advanced manufacturing and technology-enabled services businesses, today announced that its portfolio c",
+   "published": "2026-09-11T06:21:08.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/oura-ceo-pay-executive-compensation-ipo/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/oura-ceo-pay-executive-compensation-ipo/",
+   "source": "medical-design-outsourcing",
+   "title": "Oura discloses pay packages for top executives ahead of IPO",
+   "link": "https://www.medicaldesignandoutsourcing.com/oura-ceo-pay-executive-compensation-ipo/",
+   "summary": "Oura has disclosed pay packages for its top executives for the first time as the smart ring company prepares to go public under the stock symbol OURA. While Oura’s wearable devices are mostly intended and sold as general wellness products, some of its products and features are marketed as medical devices subject to regulation by… The post Oura discloses pay packages for top executives ahead of IPO",
+   "published": "2026-09-10T19:07:14.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/conexeu-sciences-claudia-chavez-munoz-cxu-breast-implant/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/conexeu-sciences-claudia-chavez-munoz-cxu-breast-implant/",
+   "source": "medical-design-outsourcing",
+   "title": "This tissue engineering scientist is bioprinting next-gen absorbable implants",
+   "link": "https://www.medicaldesignandoutsourcing.com/conexeu-sciences-claudia-chavez-munoz-cxu-breast-implant/",
+   "summary": "Conexeu Sciences co-founder and Chief Scientific Officer Dr. Claudia Chavez-Munoz co-invented and developed a regenerative, bioabsorbable extracellular matrix (ECM) platform for personalized breast implants, wound care for burns and other trauma, and tissue restoration for glucagon-like peptide-1 (GLP-1) patients. As a surgeon working with burn cases, she created the technology after seeing inadeq",
+   "published": "2026-09-10T17:43:12.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/how-aerotechs-new-cylinder-lasering-machine-speeds-medical-device-production/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/how-aerotechs-new-cylinder-lasering-machine-speeds-medical-device-production/",
+   "source": "medical-design-outsourcing",
+   "title": "How Aerotech’s new cylinder-lasering machine speeds medical device production",
+   "link": "https://www.medicaldesignandoutsourcing.com/how-aerotechs-new-cylinder-lasering-machine-speeds-medical-device-production/",
+   "summary": "Laser-cut cylindrical components find copious use in medical devices — in coronary and neurovascular stents, structural heart components, peripheral vascular implants, and instruments for minimally invasive procedures. The new Aerotech LaserTurn280 is a motion platform for high-volume laser machining of these cylindrical medical-device components. Previously displayed in prototype form at medical-",
+   "published": "2026-09-10T14:45:08.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medtronic-has-a-new-global-contract-manufacturing-vp/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/medtronic-has-a-new-global-contract-manufacturing-vp/",
+   "source": "medical-design-outsourcing",
+   "title": "Medtronic has a new global contract manufacturing VP",
+   "link": "https://www.medicaldesignandoutsourcing.com/medtronic-has-a-new-global-contract-manufacturing-vp/",
+   "summary": "Medtronic has moved an executive from its Cardiac Ablation Solutions business to a new role as VP of global contract manufacturing. Derek Minnock, based in Ireland, announced the appointment on LinkedIn earlier this week. Minnock has Medtronic (and before that Covidien, which Medtronic bought in 2015) for 34 years, moving up through manufacturing and supply… The post Medtronic has a new global con",
+   "published": "2026-09-10T14:21:49.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ensurge-relocates-san-jose-operations-to-advance-microbattery-development/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/ensurge-relocates-san-jose-operations-to-advance-microbattery-development/",
+   "source": "medical-design-outsourcing",
+   "title": "Ensurge relocates San Jose operations to advance microbattery development",
+   "link": "https://www.medicaldesignandoutsourcing.com/ensurge-relocates-san-jose-operations-to-advance-microbattery-development/",
+   "summary": "NEWS RELEASE: Ensurge Micropower relocates to new San Jose facility to advance solid-state microbattery development New building will accelerate pilot-line capabilities and customer engagement while reducing facility overhead from 30% to 10% of monthly operating expenses SAN JOSE, Calif. — Ensurge Micropower ASA (OSE: ENSU), a pioneer in solid-state lithium microbatteries, today announced it is re",
+   "published": "2026-09-10T06:17:21.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/september-2026-medtech-big-100-largest-device-companies/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/september-2026-medtech-big-100-largest-device-companies/",
+   "source": "medical-design-outsourcing",
+   "title": "September 2026 issue: The MDO Medtech Big 100 breaks $500 billion",
+   "link": "https://www.medicaldesignandoutsourcing.com/september-2026-medtech-big-100-largest-device-companies/",
+   "summary": "The Medtech Big 100 is bigger than ever Medical Design & Outsourcing’s Medtech Big 100 is the authoritative ranking of the world’s largest medical device companies, and after many months of work we proudly present you with our 2026 edition. Total revenue has broken the half-trillion-dollar mark for the first time as R&D spending… The post September 2026 issue: The MDO Medtech Big 100 breaks $500 b",
+   "published": "2026-09-09T18:00:47.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/petal-surgical-prash-chopra-advice-device-developers/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/petal-surgical-prash-chopra-advice-device-developers/",
+   "source": "medical-design-outsourcing",
+   "title": "Petal Surgical CEO Prash Chopra offers advice for device developers",
+   "link": "https://www.medicaldesignandoutsourcing.com/petal-surgical-prash-chopra-advice-device-developers/",
+   "summary": "Incisionless surgery is “around the corner,” Petal Surgical co-founder and CEO Prash Chopra said as he offered a first glimpse of his startup’s system ahead of a first-in-human procedure expected soon. The company’s technology combines noninvasive histotripsy ablation, robotics and artificial intelligence for what Chopra describes as “predictable, repeatable, millimeter-scale complete destruction ",
+   "published": "2026-09-09T13:00:20.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/nphase-launches-ai-native-clinical-data-management-platform/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/nphase-launches-ai-native-clinical-data-management-platform/",
+   "source": "medical-design-outsourcing",
+   "title": "nPhase launches AI-native clinical data management platform",
+   "link": "https://www.medicaldesignandoutsourcing.com/nphase-launches-ai-native-clinical-data-management-platform/",
+   "summary": "NEWS RELEASE: nPhase launches industry’s first AI-native enterprise platform for end-to-end clinical data management: nPhase.AI nPhase.ai also introduces its agentic statistical computing environment (SCE) to reduce the time from raw study data to submission-ready outputs by 75% with 80% fewer resources ATLANTIC BEACH, Fla. — nPhase, Inc., the clinical research technology company known for REDCap…",
+   "published": "2026-09-09T06:42:30.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/intracranial-sensor-maker-says-automated-testing-slashed-firmware-development-time/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/intracranial-sensor-maker-says-automated-testing-slashed-firmware-development-time/",
+   "source": "medical-design-outsourcing",
+   "title": "Intracranial sensor maker says automated testing slashed firmware development time",
+   "link": "https://www.medicaldesignandoutsourcing.com/intracranial-sensor-maker-says-automated-testing-slashed-firmware-development-time/",
+   "summary": "NEWS RELEASE: Parasoft’s automated testing helps verify safety-critical firmware for Kitea Health’s investigational ICP sensor Testing verified the code running inside a new sensor for hydrocephalus MONROVIA, Calif. — Parasoft, a global leader in automated software testing solutions, is helping New Zealand-based medical technology company Kitea Health verify the safety-critical firmware behind the",
+   "published": "2026-09-09T06:13:51.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/claria-medical-minimally-invasive-hysterectomy-safer/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/claria-medical-minimally-invasive-hysterectomy-safer/",
+   "source": "medical-design-outsourcing",
+   "title": "This de novo minimally invasive system was designed for safer hysterectomies",
+   "link": "https://www.medicaldesignandoutsourcing.com/claria-medical-minimally-invasive-hysterectomy-safer/",
+   "summary": "Claria Medical won FDA de novo classification in July 2026 for its minimally invasive system for hysterectomy. Hysterectomies are among the most common surgeries for women, but “many current approaches fall short,” the Mountain View, California-based company says at its website. “High container breach rates risk hidden cancer spread or bowel injury,” the company said.… The post This de novo minima",
+   "published": "2026-09-08T16:26:14.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
+  },
+  "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/capstan-maggie-nixon-career-advice-travel-tips-day-in-the-life/": {
+   "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/capstan-maggie-nixon-career-advice-travel-tips-day-in-the-life/",
+   "source": "medical-design-outsourcing",
+   "title": "Capstan Medical CEO Maggie Nixon’s career advice, travel tips and how she starts her day",
+   "link": "https://www.medicaldesignandoutsourcing.com/capstan-maggie-nixon-career-advice-travel-tips-day-in-the-life/",
+   "summary": "Engineer-turned-executive Maggie Nixon is leading one of the most exciting startups in medtech. She’s the CEO of Intuitive-backed heart valve implant and robotics developer Capstan Medical and has spoken often with Medical Design & Outsourcing to offer updates on the technology and advice for other device developers. For the first interview in our new MDO Medtech Career… The post Capstan Medical C",
+   "published": "2026-09-04T19:15:40.000Z",
+   "firstSeen": "2026-09-19T08:53:36.199Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 4
+   "fetched": 5
   },
   "team-nb": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 38
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
    "lastOk": "2026-09-18T09:06:16.902Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
-   "lastError": null,
+   "lastError": "read ECONNRESET",
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
+   "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-09-18T09:06:16.902Z",
-   "lastOk": "2026-09-18T09:06:16.902Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-19T08:53:36.199Z",
+   "lastOk": "2026-09-19T08:53:36.199Z",
+   "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 58
   }
@@ -5773,7 +5980,7 @@
     "https://www.dinmedia.de/de/norm/bs-iso-16436-1/406398963": "BS ISO 16436-1:2026-08-27",
     "https://www.dinmedia.de/de/norm-entwurf/26-30562412-dc/406406560": "26/30562412 DC:2026-08-26 - Entwurf"
    },
-   "textHash": "11nx9ti"
+   "textHash": "10gt8oo"
   }
  }
 }
