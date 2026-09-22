@@ -5281,209 +5281,310 @@
    "summary": "Number of notified bodies will speak at the next major Edvance MedTech event regarding Clinical Evaluations Conference. It will focus on clinical evaluation throughout the medical device lifecycle, with dedicated tracks for low/medium-risk devices and high-risk/implantable devices. L’article Edvance Clinical Evaluation Conference February 9-10 in Berlin est apparu en premier sur team-nb.",
    "published": "2026-09-21T07:00:20.000Z",
    "firstSeen": "2026-09-21T10:06:56.442Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/952007": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/952007",
+   "source": "eu-ai-office",
+   "title": "Catholijn Jonker",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/952007",
+   "summary": "Professor of Artificial Intelligence at TU Delft, University Leiden, and VU Amsterdam",
+   "published": "2026-08-27T09:58:00.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-80601-2-78/406282392": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-80601-2-78/406282392",
+   "source": "din-medizinprodukte-watch",
+   "title": "PR NF EN IEC 80601-2-78:2026-08-24 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-80601-2-78/406282392",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-22T09:24:18.997Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/26-30553560-dc/406405523": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/26-30553560-dc/406405523",
+   "source": "din-medizinprodukte-watch",
+   "title": "26/30553560 DC:2026-08-21 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/26-30553560-dc/406405523",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-22T09:24:18.997Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/09/22/2026-19350/nonclinical-testing-terminology": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/09/22/2026-19350/nonclinical-testing-terminology",
+   "source": "federal-register-fda",
+   "title": "Nonclinical Testing Terminology",
+   "link": "https://www.federalregister.gov/documents/2026/09/22/2026-19350/nonclinical-testing-terminology",
+   "summary": "The Food and Drug Administration (FDA, Agency, or we) is issuing a direct final rule that substitutes references to \"animal\" tests or studies with \"nonclinical\" tests or studies, adds a definition of the terms \"nonclinical test\" and \"nonclinical study,\" and makes other comparable or conforming amendments in certain safety and reporting sections of its regulations. The direct final rule also substi",
+   "published": "2026-09-22",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/09/22/2026-19349/nonclinical-testing-terminology": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/09/22/2026-19349/nonclinical-testing-terminology",
+   "source": "federal-register-fda",
+   "title": "Nonclinical Testing Terminology",
+   "link": "https://www.federalregister.gov/documents/2026/09/22/2026-19349/nonclinical-testing-terminology",
+   "summary": "The Food and Drug Administration (FDA, Agency, or we) is proposing to substitute references to \"animal\" tests or studies with \"nonclinical\" tests or studies, add a definition of the terms \"nonclinical test\" and \"nonclinical study,\" and make other comparable or conforming amendments in certain safety and reporting sections of its regulations. The proposed rule would also substitute \"nonclinical\" fo",
+   "published": "2026-09-22",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/convergence-regulators-emphasize-need-for-harmonized-approach-to-ai.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/convergence-regulators-emphasize-need-for-harmonized-approach-to-ai.html",
+   "source": "raps-regulatory-focus",
+   "title": "Convergence: Regulators emphasize need for harmonized approach to AI",
+   "link": "https://www.raps.org/resource/convergence-regulators-emphasize-need-for-harmonized-approach-to-ai.html",
+   "summary": "21 Sep 2026 Convergence: Regulators emphasize need for harmonized approach to AI CHARLOTTE, NC — Regulators and industry experts stressed the need for regulatory harmonization around artificial intelligence (AI) to ensure the technology is used responsibly in drug development during a panel discussion at RAPS Convergence 2026.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-to-remove-animal-testing-terminology-from-its-regulations.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-to-remove-animal-testing-terminology-from-its-regulations.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA to remove ‘animal testing’ terminology from its regulations",
+   "link": "https://www.raps.org/resource/fda-to-remove-animal-testing-terminology-from-its-regulations.html",
+   "summary": "21 Sep 2026 FDA to remove ‘animal testing’ terminology from its regulations The US Food and Drug Administration (FDA) plans to replace terminology related to animal testing with broader terms, such as “nonclinical tests” and “nonclinical studies” throughout its regulations to facilitate the use of nonanimal methods in drug development.",
+   "published": "2026-09-21T12:00:00.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/oura-seeks-to-raise-up-to-22b-in-ipo/830954/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/oura-seeks-to-raise-up-to-22b-in-ipo/830954/",
+   "source": "medtech-dive",
+   "title": "Oura seeks to raise up to $2.2B in IPO",
+   "link": "https://www.medtechdive.com/news/oura-seeks-to-raise-up-to-22b-in-ipo/830954/",
+   "summary": "The smart ring maker is filing to go public as wearables firms work to incorporate more health features into their devices.",
+   "published": "2026-09-21T20:30:32.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/spons/agentic-ai-in-medtech-driving-efficiency-and-care-outcomes/829246/": {
+   "id": "medtech-dive::https://www.medtechdive.com/spons/agentic-ai-in-medtech-driving-efficiency-and-care-outcomes/829246/",
+   "source": "medtech-dive",
+   "title": "Agentic AI in MedTech: Driving efficiency and care outcomes",
+   "link": "https://www.medtechdive.com/spons/agentic-ai-in-medtech-driving-efficiency-and-care-outcomes/829246/",
+   "summary": "Agentic AI moves healthcare beyond reactive tools to orchestrate entire clinical workflows—improving efficiency and patient outcomes.",
+   "published": "2026-09-21T20:00:00.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/activist-investor-urges-cooper-companies-to-replace-ceo-sell-some-assets/830910/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/activist-investor-urges-cooper-companies-to-replace-ceo-sell-some-assets/830910/",
+   "source": "medtech-dive",
+   "title": "Activist investor urges Cooper Companies to replace CEO, sell some assets",
+   "link": "https://www.medtechdive.com/news/activist-investor-urges-cooper-companies-to-replace-ceo-sell-some-assets/830910/",
+   "summary": "Citing “chronic underperformance,” Jana Partners is calling for new leadership and for the company to evaluate the sale of its fertility and medical device assets.",
+   "published": "2026-09-21T15:47:54.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/mayo-clinic-thermo-fisher-partner-to-create-precure/830858/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/mayo-clinic-thermo-fisher-partner-to-create-precure/830858/",
+   "source": "medtech-dive",
+   "title": "Mayo Clinic, Thermo Fisher partner to create Precure",
+   "link": "https://www.medtechdive.com/news/mayo-clinic-thermo-fisher-partner-to-create-precure/830858/",
+   "summary": "The company will generate population-scale molecular data to inform development of diagnostics, therapies and other healthcare products.",
+   "published": "2026-09-21T15:00:00.000Z",
+   "firstSeen": "2026-09-22T09:24:18.997Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 5
   },
   "team-nb": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-21T10:06:56.442Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-20T09:23:03.537Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
-   "lastError": "read ECONNRESET",
+   "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastNew": "2026-09-22T09:24:18.997Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 38
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastNew": "2026-09-22T09:24:18.997Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
-   "lastNew": "2026-09-20T09:23:03.537Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastNew": "2026-09-22T09:24:18.997Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastNew": "2026-09-22T09:24:18.997Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
    "lastNew": "2026-09-20T09:23:03.537Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-09-21T10:06:56.442Z",
-   "lastOk": "2026-09-21T10:06:56.442Z",
-   "lastNew": "2026-09-20T09:23:03.537Z",
+   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastNew": "2026-09-22T09:24:18.997Z",
    "lastError": null,
    "fetched": 58
   }
@@ -5965,8 +6066,6 @@
    "links": {
     "https://www.dinmedia.de/de/norm-entwurf/din-13068/406157796": "DIN 13068:2026-11 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-ieee-11073-10441/406352403": "DIN EN ISO/IEEE 11073-10441:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11608-1/402651434": "DIN EN ISO 11608-1:2026-11",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11608-3/402424352": "DIN EN ISO 11608-3:2026-11",
     "https://www.dinmedia.de/de/norm/din-en-iso-16571/402770108": "DIN EN ISO 16571:2026-11",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5359/406117894": "DIN EN ISO 5359:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-5361/404474255": "DIN EN ISO 5361:2026-10",
@@ -6020,9 +6119,11 @@
     "https://www.dinmedia.de/de/norm-entwurf/26-30570381-dc/406409340": "26/30570381 DC:2026-08-28 - Entwurf",
     "https://www.dinmedia.de/de/norm/bs-iso-13926-1/406401282": "BS ISO 13926-1:2026-08-28",
     "https://www.dinmedia.de/de/norm/bs-iso-16436-1/406398963": "BS ISO 16436-1:2026-08-27",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30562412-dc/406406560": "26/30562412 DC:2026-08-26 - Entwurf"
+    "https://www.dinmedia.de/de/norm-entwurf/26-30562412-dc/406406560": "26/30562412 DC:2026-08-26 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-80601-2-78/406282392": "PR NF EN IEC 80601-2-78:2026-08-24 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/26-30553560-dc/406405523": "26/30553560 DC:2026-08-21 - Entwurf"
    },
-   "textHash": "1mjxqtz"
+   "textHash": "11xvkwf"
   }
  }
 }
