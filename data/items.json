@@ -2040,15 +2040,6 @@
    "published": "2026-04-06T07:48:59.000Z",
    "firstSeen": "2026-07-19T15:27:10.268Z"
   },
-  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-vorrang-fuer-ki-medizinprodukte-bvmed-begruesst-zustimmung-des-eu-parlaments-als-wichtigen-schritt-gegen-doppelregulierung?pk_campaign=src_RSS": {
-   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-vorrang-fuer-ki-medizinprodukte-bvmed-begruesst-zustimmung-des-eu-parlaments-als-wichtigen-schritt-gegen-doppelregulierung?pk_campaign=src_RSS",
-   "source": "bvmed-regulatorik",
-   "title": "MDR-Vorrang für KI-Medizinprodukte: BVMed begrüßt Zustimmung des EU-Parlaments als wichtigen Schritt gegen Doppelregulierung",
-   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/mdr-vorrang-fuer-ki-medizinprodukte-bvmed-begruesst-zustimmung-des-eu-parlaments-als-wichtigen-schritt-gegen-doppelregulierung?pk_campaign=src_RSS",
-   "summary": "Der Bundesverband Medizintechnologie (BVMed) begrüßt die Zustimmung des Europäischen Parlaments zu Änderungen im Rahmen des KI-Omnibus, mit denen der EU-Medizinprodukte-Verordnung (MDR) als sektoraler Regulierungsrahmen Vorrang bei KI-basierten Medizinprodukten eingeräumt wird. „Das ist ein wichtiges Signal für die MedTech-Branche. Ein MDR-Vorrang bei KI-basierten Medizinprodukten sorgt für mehr R",
-   "published": "2026-03-27T14:52:18.000Z",
-   "firstSeen": "2026-07-19T15:27:10.268Z"
-  },
   "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/": {
    "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
    "source": "medical-design-outsourcing",
@@ -5382,211 +5373,481 @@
    "summary": "The company will generate population-scale molecular data to inform development of diagnostics, therapies and other healthcare products.",
    "published": "2026-09-21T15:00:00.000Z",
    "firstSeen": "2026-09-22T09:24:18.997Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000335537-orthopaedics-traumatology-rehabilitation-2026-09-22_en": {
+   "id": "dg-sante::https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000335537-orthopaedics-traumatology-rehabilitation-2026-09-22_en",
+   "source": "dg-sante",
+   "title": "Medical devices",
+   "link": "https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000335537-orthopaedics-traumatology-rehabilitation-2026-09-22_en",
+   "summary": "Expert decision and opinion (CECP-EMA/EX/0000335537) - Orthopaedics, traumatology, rehabilitation, rheumatology",
+   "published": "2026-09-22T15:07:04.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/956706": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/956706",
+   "source": "eu-ai-office",
+   "title": "United Kingdom: Airspan wins government funding for an artificial intelligence-enabled digital twin of stratospheric communication platforms",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/956706",
+   "summary": "Airspan has received GBP 2.3 million in UK government funding to develop an artificial intelligence (AI)-enabled digital twin for designing and optimising High Altitude Platform Station networks.",
+   "published": "2026-09-15T10:17:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/956393": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/956393",
+   "source": "eu-ai-office",
+   "title": "Two Commission reports show impact of artificial intelligence and digital technologies on teaching and learning in Europe",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/956393",
+   "summary": "The European Commission published two new reports exploring the implications of generative artificial intelligence (AI) for education stakeholders and practitioners, as well as looking into how European education systems are responding to the digital transformation.",
+   "published": "2026-09-22T14:38:35.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "bfarm-medizinprodukte::https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/Medtronic_Micra_Leadless_Pacemaker.html": {
+   "id": "bfarm-medizinprodukte::https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/Medtronic_Micra_Leadless_Pacemaker.html",
+   "source": "bfarm-medizinprodukte",
+   "title": "Risiko eines vorübergehenden Geräte-Lock-outs bei fehlerhaft initialisierter Echtzeituhr (RTC)",
+   "link": "https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/Medtronic_Micra_Leadless_Pacemaker.html",
+   "summary": "Das BfArM informiert über eine fehlerhafte Initialisierung der Echtzeituhr (Real-Time Clock, RTC) bei bestimmten sondenlosen Herzschrittmachern vom Typ Micra™ und über die daraus resultierende Möglichkeit eines vorübergehenden Geräte-Lock-outs.",
+   "published": "2026-09-25T11:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-16571-a1/391998271": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-16571-a1/391998271",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 16571/A1:2025-06",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-16571-a1/391998271",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-16571/380130721": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-16571/380130721",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 16571:2024-09",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-16571/380130721",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-14708-1/406650738": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-14708-1/406650738",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO/DIS 14708-1:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/iso-dis-14708-1/406650738",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/iso-18615-1/406651495": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/iso-18615-1/406651495",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO 18615-1:2026-09",
+   "link": "https://www.dinmedia.de/de/norm/iso-18615-1/406651495",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-19213/406650782": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-19213/406650782",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO/DIS 19213:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/iso-dis-19213/406650782",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-fdis-19611/406650937": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-fdis-19611/406650937",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO/FDIS 19611:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-19611/406650937",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/iso-24996/406651399": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/iso-24996/406651399",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO 24996:2026-09",
+   "link": "https://www.dinmedia.de/de/norm/iso-24996/406651399",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-ieee-fdis-11073-10441/406651250": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-ieee-fdis-11073-10441/406651250",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO/IEEE FDIS 11073-10441:2026-09 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/iso-ieee-fdis-11073-10441/406651250",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-09-27T10:07:16.559Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/09/25/2026-19704/robotically-assisted-surgical-devices-premarket-submissions-draft-guidance-for-industry-and-food-and": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/09/25/2026-19704/robotically-assisted-surgical-devices-premarket-submissions-draft-guidance-for-industry-and-food-and",
+   "source": "federal-register-fda",
+   "title": "Robotically-Assisted Surgical Devices-Premarket Submissions; Draft Guidance for Industry and Food and Drug Administration Staff; Availability",
+   "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19704/robotically-assisted-surgical-devices-premarket-submissions-draft-guidance-for-industry-and-food-and",
+   "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of the draft guidance titled \"Robotically-Assisted Surgical Devices--Premarket Submissions.\" This draft guidance provides draft recommendations for premarket submissions for robotically- assisted surgical devices (RASDs). This draft guidance is not final nor is it for implementation at this time.",
+   "published": "2026-09-25",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "mhra-news::https://www.gov.uk/government/news/mhra-welcomes-sentencing-after-fraud-convictions-over-falsely-certified-medical-devices": {
+   "id": "mhra-news::https://www.gov.uk/government/news/mhra-welcomes-sentencing-after-fraud-convictions-over-falsely-certified-medical-devices",
+   "source": "mhra-news",
+   "title": "MHRA welcomes sentencing after fraud convictions over falsely certified medical devices",
+   "link": "https://www.gov.uk/government/news/mhra-welcomes-sentencing-after-fraud-convictions-over-falsely-certified-medical-devices",
+   "summary": "Following convictions related to falsely certified medical devices, the MHRA has welcomed the sentencing in a long-running enforcement investigation.",
+   "published": "2026-09-24T11:32:46.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/convergence-thinking-past-gcp-compliance-for-regulatory-acceptability-of-foreign-trial-dat.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/convergence-thinking-past-gcp-compliance-for-regulatory-acceptability-of-foreign-trial-dat.html",
+   "source": "raps-regulatory-focus",
+   "title": "Convergence: Thinking past GCP compliance for regulatory acceptability of foreign trial data",
+   "link": "https://www.raps.org/resource/convergence-thinking-past-gcp-compliance-for-regulatory-acceptability-of-foreign-trial-dat.html",
+   "summary": "24 Sep 2026 Convergence: Thinking past GCP compliance for regulatory acceptability of foreign trial data CHARLOTTE, NC — Whether the US Food and Drug Administration (FDA) will accept clinical evidence from outside the United States (OUS) depends on if the investigations followed good clinical practice (CGP) regulations, but the data should also be applicable for regulatory purposes.",
+   "published": "2026-09-24T12:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-nominee-overton-faces-grilling-in-senate-confirmation-hearing.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-nominee-overton-faces-grilling-in-senate-confirmation-hearing.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA nominee Overton faces grilling in Senate confirmation hearing",
+   "link": "https://www.raps.org/resource/fda-nominee-overton-faces-grilling-in-senate-confirmation-hearing.html",
+   "summary": "24 Sep 2026 FDA nominee Overton faces grilling in Senate confirmation hearing Heidi Overton, President Donald Trump’s nominee to lead the US Food and Drug Administration (FDA), faced questions from both sides of the political aisle about her views on hot-button issues facing the agency during a Senate confirmation hearing on Thursday.",
+   "published": "2026-09-24T12:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/distributed-manufacturing-industry-groups-weigh-in-on-fda-s-proposed-rule.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/distributed-manufacturing-industry-groups-weigh-in-on-fda-s-proposed-rule.html",
+   "source": "raps-regulatory-focus",
+   "title": "Distributed manufacturing: Industry groups weigh in on FDA’s proposed rule",
+   "link": "https://www.raps.org/resource/distributed-manufacturing-industry-groups-weigh-in-on-fda-s-proposed-rule.html",
+   "summary": "23 Sep 2026 Distributed manufacturing: Industry groups weigh in on FDA’s proposed rule Pharmaceutical industry groups largely support the US Food and Drug Administration’s (FDA) proposed rule on distributed manufacturing but are seeking clarification on how the proposed model would function and specific changes they say would make it easier to implement distributed manufacturing models.",
+   "published": "2026-09-23T12:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/convergence-global-acceptance-of-nams-concerns-sponsors-who-want-to-use-them.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/convergence-global-acceptance-of-nams-concerns-sponsors-who-want-to-use-them.html",
+   "source": "raps-regulatory-focus",
+   "title": "Convergence: Global acceptance of NAMs concerns sponsors who want to use them",
+   "link": "https://www.raps.org/resource/convergence-global-acceptance-of-nams-concerns-sponsors-who-want-to-use-them.html",
+   "summary": "22 Sep 2026 Convergence: Global acceptance of NAMs concerns sponsors who want to use them CHARLOTTE, NC — While new approach methodologies (NAM) offer a path to reduced reliance on animal testing, experts say global regulators need to agree on their use to give sponsors predictability and regulatory assurance.",
+   "published": "2026-09-22T12:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/convergence-regulators-offer-tips-for-successful-meetings.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/convergence-regulators-offer-tips-for-successful-meetings.html",
+   "source": "raps-regulatory-focus",
+   "title": "Convergence: Regulators offer tips for successful meetings",
+   "link": "https://www.raps.org/resource/convergence-regulators-offer-tips-for-successful-meetings.html",
+   "summary": "22 Sep 2026 Convergence: Regulators offer tips for successful meetings CHARLOTTE, NC — Officials from the US Food and Drug Administration (FDA), UK Medicines and Healthcare products Regulatory Agency (MHRA), and other European regulators said that successful meetings with sponsor involved transparency, open collaboration, listening, early communication, and having sufficient data to answer questio",
+   "published": "2026-09-22T12:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/gdufa-iv-groups-urge-fda-to-take-steps-to-boost-confidence-in-generic-drugs.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/gdufa-iv-groups-urge-fda-to-take-steps-to-boost-confidence-in-generic-drugs.html",
+   "source": "raps-regulatory-focus",
+   "title": "GDUFA IV: Groups urge FDA to take steps to boost confidence in generic drugs",
+   "link": "https://www.raps.org/resource/gdufa-iv-groups-urge-fda-to-take-steps-to-boost-confidence-in-generic-drugs.html",
+   "summary": "22 Sep 2026 GDUFA IV: Groups urge FDA to take steps to boost confidence in generic drugs Consumer health groups urged the US Food and Drug Administration (FDA) to allocate more resources for testing generic drugs and to implement stricter metrics for postmarket safety reporting at a public meeting on Thursday discussing the reauthorization of the Generic Drug User Fee Amendments (GDUFA IV).",
+   "published": "2026-09-22T12:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/intuitive-expands-push-into-cardiac-market-with-ce-mark/831420/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/intuitive-expands-push-into-cardiac-market-with-ce-mark/831420/",
+   "source": "medtech-dive",
+   "title": "Intuitive expands push into cardiac market with CE mark",
+   "link": "https://www.medtechdive.com/news/intuitive-expands-push-into-cardiac-market-with-ce-mark/831420/",
+   "summary": "After de-emphasizing heart surgery for decades due to limits with its earlier platforms, the surgical robot maker is eyeing the large market in cardiovascular disease treatment.",
+   "published": "2026-09-25T18:34:06.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/",
+   "source": "medtech-dive",
+   "title": "Lab test providers want Medicare payment reform. Will Congress pass it?",
+   "link": "https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/",
+   "summary": "Facing maximum Medicare payment cuts, test providers Quest Diagnostics and Labcorp are urging lawmakers to revamp the rate-setting process, but getting a bill through Congress this year will be a challenge.",
+   "published": "2026-09-25T15:07:20.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
+   "source": "medtech-dive",
+   "title": "Precision Neuroscience raises $250M for brain-computer interface work",
+   "link": "https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
+   "summary": "The Series D round is part of a surge in investment into BCI startups and brings Precision Neuroscience’s total funding to $430 million.",
+   "published": "2026-09-25T14:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/overton-senate-hearing-fda-vaccines-abortion-china/831334/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/overton-senate-hearing-fda-vaccines-abortion-china/831334/",
+   "source": "medtech-dive",
+   "title": "FDA nominee Overton parries vaccine questions at Senate hearing",
+   "link": "https://www.medtechdive.com/news/overton-senate-hearing-fda-vaccines-abortion-china/831334/",
+   "summary": "Pressed by lawmakers on Thursday, Trump’s pick as the next FDA chief said she’d “follow the law” on key decisions and work to speed early drug research.",
+   "published": "2026-09-24T20:46:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
+   "source": "medtech-dive",
+   "title": "AI will inflate healthcare costs before lowering them, Oz says",
+   "link": "https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
+   "summary": "AI will “turbocharge” medical billing and drive up costs in the short term, CMS Administrator Dr. Mehmet Oz warned Wednesday. But he says the pain is worth it for long-term savings.",
+   "published": "2026-09-24T16:00:27.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/grail-multicancer-detection-test-wins-fda-advisers-backing/831264/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/grail-multicancer-detection-test-wins-fda-advisers-backing/831264/",
+   "source": "medtech-dive",
+   "title": "Grail multicancer detection test wins FDA advisers’ backing",
+   "link": "https://www.medtechdive.com/news/grail-multicancer-detection-test-wins-fda-advisers-backing/831264/",
+   "summary": "Members of the molecular and clinical genetics panel said the first-of-a-kind blood test should not be used to replace medical guideline-recommended cancer screenings.",
+   "published": "2026-09-24T15:11:30.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/bd-hires-arthur-hu-as-chief-information-and-digital-officer/831226/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/bd-hires-arthur-hu-as-chief-information-and-digital-officer/831226/",
+   "source": "medtech-dive",
+   "title": "BD hires Arthur Hu as chief information and digital officer",
+   "link": "https://www.medtechdive.com/news/bd-hires-arthur-hu-as-chief-information-and-digital-officer/831226/",
+   "summary": "BD predicted that Hu’s experience at Lenovo will be an important advantage as technology becomes increasingly central to how leading medtech companies operate.",
+   "published": "2026-09-24T07:19:38.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/cvrx-names-john-landry-as-cfo/831104/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/cvrx-names-john-landry-as-cfo/831104/",
+   "source": "medtech-dive",
+   "title": "CVRx names John Landry as CFO",
+   "link": "https://www.medtechdive.com/news/cvrx-names-john-landry-as-cfo/831104/",
+   "summary": "Landry joins in the aftermath of an investor’s call for the sale of the heart failure device company.",
+   "published": "2026-09-23T14:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/telerobotic-surgery-is-advancing-around-the-world-will-the-us-embrace-it/831047/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/telerobotic-surgery-is-advancing-around-the-world-will-the-us-embrace-it/831047/",
+   "source": "medtech-dive",
+   "title": "Telerobotic surgery is advancing around the world. Will the US embrace it?",
+   "link": "https://www.medtechdive.com/news/telerobotic-surgery-is-advancing-around-the-world-will-the-us-embrace-it/831047/",
+   "summary": "Medtech companies are preparing for a day when telesurgery, performed by a surgeon often hundreds of miles from the patient, could become a viable option for more people.",
+   "published": "2026-09-23T13:00:00.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/cms-sets-preliminary-cuts-to-medicare-lab-reimbursement-rates/831031/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/cms-sets-preliminary-cuts-to-medicare-lab-reimbursement-rates/831031/",
+   "source": "medtech-dive",
+   "title": "CMS sets preliminary cuts to Medicare lab reimbursement rates",
+   "link": "https://www.medtechdive.com/news/cms-sets-preliminary-cuts-to-medicare-lab-reimbursement-rates/831031/",
+   "summary": "The American Clinical Laboratory Association warned the steep annual payment cuts threaten patient access to critical lab testing services.",
+   "published": "2026-09-22T15:23:50.000Z",
+   "firstSeen": "2026-09-27T10:07:16.559Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 5
   },
   "team-nb": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-21T10:06:56.442Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": null,
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
-   "fetched": 38
+   "fetched": 39
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-20T09:23:03.537Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-09-22T09:24:18.997Z",
-   "lastOk": "2026-09-22T09:24:18.997Z",
-   "lastNew": "2026-09-22T09:24:18.997Z",
+   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
-   "fetched": 58
+   "fetched": 60
   }
  },
  "watch": {
@@ -6066,7 +6327,11 @@
    "links": {
     "https://www.dinmedia.de/de/norm-entwurf/din-13068/406157796": "DIN 13068:2026-11 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-ieee-11073-10441/406352403": "DIN EN ISO/IEEE 11073-10441:2026-11 - Entwurf",
+    "https://www.dinmedia.de/de/norm/din-en-iso-11608-1/402651434": "DIN EN ISO 11608-1:2026-11",
+    "https://www.dinmedia.de/de/norm/din-en-iso-11608-3/402424352": "DIN EN ISO 11608-3:2026-11",
     "https://www.dinmedia.de/de/norm/din-en-iso-16571/402770108": "DIN EN ISO 16571:2026-11",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-16571-a1/391998271": "DIN EN ISO 16571/A1:2025-06",
+    "https://www.dinmedia.de/de/norm/din-en-iso-16571/380130721": "DIN EN ISO 16571:2024-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5359/406117894": "DIN EN ISO 5359:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-5361/404474255": "DIN EN ISO 5361:2026-10",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5361-a1/393611533": "DIN EN ISO 5361/A1:2025-08",
@@ -6113,17 +6378,15 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-iso-5834-1/404222048": "DIN ISO 5834-1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-iso-5834-2/404225562": "DIN ISO 5834-2:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-8536-5/406300502": "ISO/FDIS 8536-5:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-14708-1/406650738": "ISO/DIS 14708-1:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm/iso-18615-1/406651495": "ISO 18615-1:2026-09",
+    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-19213/406650782": "ISO/DIS 19213:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-19611/406650937": "ISO/FDIS 19611:2026-09 - Entwurf",
+    "https://www.dinmedia.de/de/norm/iso-24996/406651399": "ISO 24996:2026-09",
     "https://www.dinmedia.de/de/vornorm/iso-ts-25427/406485092": "ISO/TS 25427:2026-09",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30570279-dc/406409069": "26/30570279 DC:2026-08-28 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30570380-dc/406409316": "26/30570380 DC:2026-08-28 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30570381-dc/406409340": "26/30570381 DC:2026-08-28 - Entwurf",
-    "https://www.dinmedia.de/de/norm/bs-iso-13926-1/406401282": "BS ISO 13926-1:2026-08-28",
-    "https://www.dinmedia.de/de/norm/bs-iso-16436-1/406398963": "BS ISO 16436-1:2026-08-27",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30562412-dc/406406560": "26/30562412 DC:2026-08-26 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-80601-2-78/406282392": "PR NF EN IEC 80601-2-78:2026-08-24 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30553560-dc/406405523": "26/30553560 DC:2026-08-21 - Entwurf"
+    "https://www.dinmedia.de/de/norm-entwurf/iso-ieee-fdis-11073-10441/406651250": "ISO/IEEE FDIS 11073-10441:2026-09 - Entwurf"
    },
-   "textHash": "11xvkwf"
+   "textHash": "193zbre"
   }
  }
 }
