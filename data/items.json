@@ -504,18 +504,6 @@
    "published": "2026-06-23T10:15:00.000Z",
    "firstSeen": "2026-07-17T09:07:35.353Z"
   },
-  "bfarm-medizinprodukte::https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/Celox_PPH_Tamponade.html": {
-   "id": "bfarm-medizinprodukte::https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/Celox_PPH_Tamponade.html",
-   "source": "bfarm-medizinprodukte",
-   "sourceName": "BfArM – Medizinprodukte",
-   "category": "Deutschland",
-   "lang": "de",
-   "title": "Hinweis zur Anwendung der Celox PPH Tamponade",
-   "link": "https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/Celox_PPH_Tamponade.html",
-   "summary": "Die Tamponaden werden als Uterustamponade zur Behandlung bei postpartaler Blutung (PPH) eingesetzt, wenn andere Maßnahmen keine ausreichende blutungsstillende Wirkung erzielen. Vor dem Hintergrund der aktuellen Empfehlung der Weltgesundheitsorganisation (WHO) zur Behandlung der postpartalen Blutung hat sich der Hersteller entschieden, die Celox PPH Tamponade nicht weiter auf dem Markt bereitzustel",
-   "published": "2026-03-31T12:00:00.000Z",
-   "firstSeen": "2026-07-17T09:07:35.353Z"
-  },
   "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm06-2026.html": {
    "id": "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm06-2026.html",
    "source": "bfarm-presse",
@@ -1084,15 +1072,6 @@
    "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-april-2026",
    "summary": "Summary of the latest safety advice for medicines and medical device users",
    "published": "2026-04-29T13:02:41.000Z",
-   "firstSeen": "2026-07-17T15:24:09.122Z"
-  },
-  "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-march-2026": {
-   "id": "mhra-alerts::https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-march-2026",
-   "source": "mhra-alerts",
-   "title": "MHRA Safety Roundup: March 2026",
-   "link": "https://www.gov.uk/drug-device-alerts/mhra-safety-roundup-march-2026",
-   "summary": "Summary of the latest safety advice for medicines and medical device users",
-   "published": "2026-03-31T13:01:53.000Z",
    "firstSeen": "2026-07-17T15:24:09.122Z"
   },
   "hc-device-recalls::https://recalls-rappels.canada.ca/en/alert-recall/4k-uhd-lcd-monitor": {
@@ -5643,209 +5622,245 @@
    "summary": "The American Clinical Laboratory Association warned the steep annual payment cuts threaten patient access to critical lab testing services.",
    "published": "2026-09-22T15:23:50.000Z",
    "firstSeen": "2026-09-27T10:07:16.559Z"
+  },
+  "team-nb::https://www.team-nb.org/nbcg-med-meetings-6/": {
+   "id": "team-nb::https://www.team-nb.org/nbcg-med-meetings-6/",
+   "source": "team-nb",
+   "title": "NBCG-Med meetings",
+   "link": "https://www.team-nb.org/nbcg-med-meetings-6/",
+   "summary": "All the Notified Bodies designated and the concerned stakeholders have been invited to different meetings taking place on October 13th to 15th. These meetings will take place remotely. L’article NBCG-Med meetings est apparu en premier sur team-nb.",
+   "published": "2026-09-28T07:13:28.000Z",
+   "firstSeen": "2026-09-28T11:07:15.448Z"
+  },
+  "din-medizinprodukte-watch::change::t40vlx": {
+   "id": "din-medizinprodukte-watch::change::t40vlx",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-09-28T11:07:15.448Z",
+   "firstSeen": "2026-09-28T11:07:15.448Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/": {
+   "id": "medtech-dive::https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/",
+   "source": "medtech-dive",
+   "title": "3 ways to make medtech training a strategic advantage in 2027",
+   "link": "https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/",
+   "summary": "AI-enabled medtech digital training turns training into a strategic driver of product adoption.",
+   "published": "2026-09-28T09:00:00.000Z",
+   "firstSeen": "2026-09-28T11:07:15.448Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/spons/the-next-evolution-of-tlif-where-innovation-meets-clinical-evidence/831068/": {
+   "id": "medtech-dive::https://www.medtechdive.com/spons/the-next-evolution-of-tlif-where-innovation-meets-clinical-evidence/831068/",
+   "source": "medtech-dive",
+   "title": "The Next Evolution of TLIF: Where Innovation Meets Clinical Evidence",
+   "link": "https://www.medtechdive.com/spons/the-next-evolution-of-tlif-where-innovation-meets-clinical-evidence/831068/",
+   "summary": "New evidence, FDA approval, and Medicare NTAP status expand Infuse™ bone graft use in TLIF.",
+   "published": "2026-09-28T09:00:00.000Z",
+   "firstSeen": "2026-09-28T11:07:15.448Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 5
   },
   "team-nb": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
-   "lastNew": "2026-09-21T10:06:56.442Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
+   "lastNew": "2026-09-28T11:07:15.448Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
    "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
-   "lastError": null,
+   "lastError": "Request timed out after 20000ms",
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
    "lastOk": "2026-09-27T10:07:16.559Z",
    "lastNew": null,
-   "lastError": null,
+   "lastError": "Request timed out after 20000ms",
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
-   "fetched": 39
+   "fetched": 40
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
-   "lastNew": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
+   "lastNew": "2026-09-28T11:07:15.448Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
    "lastNew": "2026-09-20T09:23:03.537Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-09-27T10:07:16.559Z",
-   "lastOk": "2026-09-27T10:07:16.559Z",
-   "lastNew": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-28T11:07:15.448Z",
+   "lastOk": "2026-09-28T11:07:15.448Z",
+   "lastNew": "2026-09-28T11:07:15.448Z",
    "lastError": null,
    "fetched": 60
   }
@@ -6386,7 +6401,7 @@
     "https://www.dinmedia.de/de/vornorm/iso-ts-25427/406485092": "ISO/TS 25427:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/iso-ieee-fdis-11073-10441/406651250": "ISO/IEEE FDIS 11073-10441:2026-09 - Entwurf"
    },
-   "textHash": "193zbre"
+   "textHash": "t40vlx"
   }
  }
 }
