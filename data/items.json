@@ -5751,208 +5751,271 @@
    "summary": "The company has teamed up with a Mass General Brigham research team to help care teams access patient-specific information.",
    "published": "2026-09-28T14:00:00.000Z",
    "firstSeen": "2026-09-29T10:49:24.142Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000171363-orthopaedics-traumatology-rehabilitation-2026-09-29_en": {
+   "id": "dg-sante::https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000171363-orthopaedics-traumatology-rehabilitation-2026-09-29_en",
+   "source": "dg-sante",
+   "title": "Medical devices",
+   "link": "https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000171363-orthopaedics-traumatology-rehabilitation-2026-09-29_en",
+   "summary": "Expert decision and opinion (CECP-EMA/EX/0000171363) - Orthopaedics, traumatology, rehabilitation, rheumatology",
+   "published": "2026-09-29T13:41:58.000Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "zlg-watch::change::n5pyx4": {
+   "id": "zlg-watch::change::n5pyx4",
+   "source": "zlg-watch",
+   "title": "Seiteninhalt geändert: ZLG – Medizinprodukte Aktuelles (Überwachung)",
+   "link": "https://www.zlg.de/medizinprodukte/aktuelles",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-09-30T10:37:02.790Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-draft-guidance-addresses-considerations-for-robotically-assisted-surgical-devices.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-draft-guidance-addresses-considerations-for-robotically-assisted-surgical-devices.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA draft guidance addresses considerations for robotically assisted surgical devices",
+   "link": "https://www.raps.org/resource/fda-draft-guidance-addresses-considerations-for-robotically-assisted-surgical-devices.html",
+   "summary": "29 Sep 2026 FDA draft guidance addresses considerations for robotically assisted surgical devices The US Food and Drug Administration (FDA) published a draft guidance detailing its thinking on the requirements for bringing certain robotically assisted surgical devices (RASD) to market. It includes non-clinical and clinical testing requirements that sponsors should include in their premarket submis",
+   "published": "2026-09-29T12:00:00.000Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/convergence-regulators-highlight-efforts-to-streamline-the-european-regulatory-framework.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/convergence-regulators-highlight-efforts-to-streamline-the-european-regulatory-framework.html",
+   "source": "raps-regulatory-focus",
+   "title": "Convergence: Regulators highlight efforts to streamline the European regulatory framework",
+   "link": "https://www.raps.org/resource/convergence-regulators-highlight-efforts-to-streamline-the-european-regulatory-framework.html",
+   "summary": "29 Sep 2026 Convergence: Regulators highlight efforts to streamline the European regulatory framework CHARLOTTE, NC – A panel of regulators convened at the 2026 RAPS Convergence to discuss several initiatives underway in Europe to help sponsors bring products to market more streamlined and predictably.",
+   "published": "2026-09-29T12:00:00.000Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/oura-delays-ipo/831650/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/oura-delays-ipo/831650/",
+   "source": "medtech-dive",
+   "title": "Oura delays IPO",
+   "link": "https://www.medtechdive.com/news/oura-delays-ipo/831650/",
+   "summary": "Citing market uncertainty, the smart ring maker plans to delay a public offering that it had expected to raise up to $2.2 billion.",
+   "published": "2026-09-29T15:42:41.000Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/sofinnova-raises-82m-euros-to-fund-medtech-startups/831649/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/sofinnova-raises-82m-euros-to-fund-medtech-startups/831649/",
+   "source": "medtech-dive",
+   "title": "Sofinnova raises 82M euros to fund medtech startups",
+   "link": "https://www.medtechdive.com/news/sofinnova-raises-82m-euros-to-fund-medtech-startups/831649/",
+   "summary": "The venture capital firm expects to launch up to eight new medtech ventures over the next five years.",
+   "published": "2026-09-29T15:41:15.000Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/carlsmed-names-new-cfo/831587/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/carlsmed-names-new-cfo/831587/",
+   "source": "medtech-dive",
+   "title": "Carlsmed names new CFO",
+   "link": "https://www.medtechdive.com/news/carlsmed-names-new-cfo/831587/",
+   "summary": "Former ZimVie leader Richard Heppenstall fills the vacancy created by the departure of Leo Greenstein, who is leaving Carlsmed to pursue other professional interests.",
+   "published": "2026-09-29T14:00:00.000Z",
+   "firstSeen": "2026-09-30T10:37:02.790Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
-   "lastNew": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 5
+   "fetched": 6
   },
   "team-nb": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-29T10:49:24.142Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
-   "fetched": 41
+   "fetched": 44
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
-   "lastNew": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
-   "lastNew": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-29T10:49:24.142Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
-   "lastNew": null,
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
-   "fetched": 25
+   "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-20T09:23:03.537Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-09-29T10:49:24.142Z",
-   "lastOk": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-29T10:49:24.142Z",
    "lastError": null,
    "fetched": 60
@@ -6347,7 +6410,6 @@
     "https://www.zlg.de/medizinprodukte/gremien/": "Gremien",
     "https://www.zlg.de/medizinprodukte/dokumente/": "Dokumente",
     "https://www.zlg.de/medizinprodukte/aktuelles/": "Aktuelles",
-    "https://www.zlg.de/medizinprodukte/aktuelles/meldung/ankuendigung-online-begutachtererfahrungsaustausch-01122025/": "weiterlesen",
     "https://www.zlg.de/medizinprodukte/aktuelles/meldung/moeglichkeit-zur-anerkennung-von-prueflaboratorien/": "weiterlesen",
     "https://www.zlg.de/medizinprodukte/aktuelles/meldung/beschluss-des-horizontalen-arbeitskomitees-reinigung-desinfektion-und-sterilisation-vom-hersteller-bereitzustellende-informationen-fuer-die-aufbereitung-von-medizinprodukten-auswahl-und-dokumentation-der-nachweiserbringung-ueberarbeitet/": "weiterlesen",
     "https://www.zlg.de/medizinprodukte/aktuelles/meldung/antragsformulare-mdr-und-ivdr/": "weiterlesen",
@@ -6356,7 +6418,7 @@
     "https://www.zlg.de/medizinprodukte/aktuelles/meldung/die-eu-kommission-hat-wieder-listen-der-harmonisierten-normen-der-richtlinien-93-42-ewg-90-385-ewg-und-98-79-eg-veroeffentlicht/": "weiterlesen",
     "https://www.zlg.de/medizinprodukte/aktuelles/meldung/neuer-leitfaden-fuer-medizinische-laboratorien-und-begutachter-im-bereich-mikrobiologie/": "weiterlesen"
    },
-   "textHash": "cq28s6"
+   "textHash": "n5pyx4"
   },
   "iso-tc210-watch": {
    "links": {
