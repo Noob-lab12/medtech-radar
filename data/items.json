@@ -5814,211 +5814,329 @@
    "summary": "Former ZimVie leader Richard Heppenstall fills the vacancy created by the departure of Leo Greenstein, who is leaving Carlsmed to pursue other professional interests.",
    "published": "2026-09-29T14:00:00.000Z",
    "firstSeen": "2026-09-30T10:37:02.790Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/958046": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/958046",
+   "source": "eu-ai-office",
+   "title": "South Korea: Samsung to deploy 5G standalone private networks for artificial intelligence radio access network projects with KT and SK Telecom",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/958046",
+   "summary": "Samsung has signed contracts with KT and SK Telecom to deploy 5G standalone private networks testing artificial-intelligence radio access network (AI-RAN) technology at a shipyard and a petrochemical plant.",
+   "published": "2026-09-23T10:17:00.000Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-26782/406858590": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-26782/406858590",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 26782:2026-11 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-26782/406858590",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-01T11:05:05.266Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20142/advisory-committee-antimicrobial-drugs-advisory-committee-renewal": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20142/advisory-committee-antimicrobial-drugs-advisory-committee-renewal",
+   "source": "federal-register-fda",
+   "title": "Advisory Committee; Antimicrobial Drugs Advisory Committee; Renewal",
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20142/advisory-committee-antimicrobial-drugs-advisory-committee-renewal",
+   "summary": "The Food and Drug Administration (FDA) is announcing the renewal of the Antimicrobial Drugs Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Antimicrobial Drugs Advisory Committee for an additional 2 years beyond the charter expiration date. The new charter will be in effect until the October",
+   "published": "2026-10-01",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20141/advisory-committee-dermatologic-and-ophthalmic-drugs-advisory-committee-renewal": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20141/advisory-committee-dermatologic-and-ophthalmic-drugs-advisory-committee-renewal",
+   "source": "federal-register-fda",
+   "title": "Advisory Committee; Dermatologic and Ophthalmic Drugs Advisory Committee; Renewal",
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20141/advisory-committee-dermatologic-and-ophthalmic-drugs-advisory-committee-renewal",
+   "summary": "The Food and Drug Administration (FDA) is announcing the renewal of the Dermatologic and Ophthalmic Drugs Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Dermatologic and Ophthalmic Drugs Advisory Committee for an additional 2 years beyond the charter expiration date. The new charter will be",
+   "published": "2026-10-01",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20085/agency-information-collection-activities-submission-for-office-of-management-and-budget-review": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20085/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+   "source": "federal-register-fda",
+   "title": "Agency Information Collection Activities; Submission for Office of Management and Budget Review; Comment Request; Voluntary Improvement Program",
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20085/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+   "summary": "The Food and Drug Administration (FDA) is announcing that a proposed collection of information has been submitted to the Office of Management and Budget (OMB) for review and clearance under the Paperwork Reduction Act of 1995.",
+   "published": "2026-10-01",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20065/request-for-nominations-for-individuals-and-consumer-organizations-for-advisory-committees": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20065/request-for-nominations-for-individuals-and-consumer-organizations-for-advisory-committees",
+   "source": "federal-register-fda",
+   "title": "Request for Nominations for Individuals and Consumer Organizations for Advisory Committees",
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20065/request-for-nominations-for-individuals-and-consumer-organizations-for-advisory-committees",
+   "summary": "The Food and Drug Administration (FDA or Agency) is requesting that any consumer organizations interested in participating in the selection of voting and/or nonvoting consumer representatives to serve on its advisory committees or panels notify FDA in writing. FDA is also requesting nominations for voting and/or nonvoting consumer representatives to serve on advisory committees and/or panels for w",
+   "published": "2026-10-01",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20063/request-for-nominations-for-voting-members-of-food-and-drug-administration-advisory-committees": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/01/2026-20063/request-for-nominations-for-voting-members-of-food-and-drug-administration-advisory-committees",
+   "source": "federal-register-fda",
+   "title": "Request for Nominations for Voting Members of Food and Drug Administration Advisory Committees",
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20063/request-for-nominations-for-voting-members-of-food-and-drug-administration-advisory-committees",
+   "summary": "The Food and Drug Administration (FDA or Agency) is requesting nominations for qualified individuals to serve as voting members of FDA's standing public advisory committees and panels (collectively, advisory committees). This notice covers scientific, technical, professional, and other voting-member positions in which appointees serve as individuals rather than as designated representatives; it do",
+   "published": "2026-10-01",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/09/30/2026-20075/medical-devices-gastroenterology-urology-devices-classification-of-the-flushing-and-storage-solution": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/09/30/2026-20075/medical-devices-gastroenterology-urology-devices-classification-of-the-flushing-and-storage-solution",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Flushing and Storage Solution for Vascular Autografts at Room Temperature",
+   "link": "https://www.federalregister.gov/documents/2026/09/30/2026-20075/medical-devices-gastroenterology-urology-devices-classification-of-the-flushing-and-storage-solution",
+   "summary": "The Food and Drug Administration (FDA) is classifying the flushing and storage solution for vascular autografts at room temperature into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the flushing and storage solution for vascular autografts at room temperature. We are taki",
+   "published": "2026-09-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-call-for-new-adcomm-members-signals-renewed-interest-in-outside-advisors.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-call-for-new-adcomm-members-signals-renewed-interest-in-outside-advisors.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA call for new adcomm members signals renewed interest in outside advisors",
+   "link": "https://www.raps.org/resource/fda-call-for-new-adcomm-members-signals-renewed-interest-in-outside-advisors.html",
+   "summary": "30 Sep 2026 FDA call for new adcomm members signals renewed interest in outside advisors The US Food and Drug Administration (FDA) has issued notices inviting subject-matter experts and consumer representatives to volunteer for its advisory committees. The move comes after the committees saw a diminished role under previous FDA leadership.",
+   "published": "2026-09-30T12:00:00.000Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/single-pivotal-trials-stakeholders-seek-definitions-clarification-about-evidentiary-standard.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/single-pivotal-trials-stakeholders-seek-definitions-clarification-about-evidentiary-standard.html",
+   "source": "raps-regulatory-focus",
+   "title": "Single pivotal trials: Stakeholders seek definitions, clarification about evidentiary standard",
+   "link": "https://www.raps.org/resource/single-pivotal-trials-stakeholders-seek-definitions-clarification-about-evidentiary-standard.html",
+   "summary": "30 Sep 2026 Single pivotal trials: Stakeholders seek definitions, clarification about evidentiary standard Industry groups and other stakeholders are generally supportive of FDA’s recent draft guidance explaining when single pivotal trials plus confirmatory evidence can be used to support the approval of drugs and biologics; however, the commenters were split over how flexible the agency should be",
+   "published": "2026-09-30T12:00:00.000Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-launches-freenomes-colorectal-cancer-screening-test/831771/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-launches-freenomes-colorectal-cancer-screening-test/831771/",
+   "source": "medtech-dive",
+   "title": "Abbott launches Freenome’s colorectal cancer screening test",
+   "link": "https://www.medtechdive.com/news/abbott-launches-freenomes-colorectal-cancer-screening-test/831771/",
+   "summary": "Abbott will sell Freenome’s SimpleScreen CRC test in the U.S. alongside the Cologuard Plus stool-based test it gained in the $21 billion acquisition of Exact Sciences.",
+   "published": "2026-09-30T14:58:51.000Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831668/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831668/",
+   "source": "medtech-dive",
+   "title": "US-China trade board carves path for tariff relief on $60B of goods",
+   "link": "https://www.medtechdive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831668/",
+   "summary": "The board has proposed lower tariffs on U.S.-bound household goods and toys, but the White House did not specify reduction amounts or an implementation date.",
+   "published": "2026-09-30T14:07:00.000Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
+   "source": "medtech-dive",
+   "title": "GE HealthCare hires new global chief AI officer",
+   "link": "https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
+   "summary": "Rodolphe Katra has joined from Medtronic to lead GE HealthCare’s efforts to connect devices, software and data.",
+   "published": "2026-09-30T09:54:10.000Z",
+   "firstSeen": "2026-10-01T11:05:05.266Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 6
+   "fetched": 8
   },
   "team-nb": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-29T10:49:24.142Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
    "lastOk": "2026-09-30T10:37:02.790Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
-   "lastError": null,
+   "lastError": "Request timed out after 20000ms",
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
-   "lastNew": "2026-09-27T10:07:16.559Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
+   "lastNew": "2026-10-01T11:05:05.266Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 44
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
-   "lastNew": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
+   "lastNew": "2026-10-01T11:05:05.266Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
-   "lastNew": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
+   "lastNew": "2026-10-01T11:05:05.266Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
-   "lastNew": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
+   "lastNew": "2026-10-01T11:05:05.266Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
    "lastNew": "2026-09-20T09:23:03.537Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-09-30T10:37:02.790Z",
-   "lastOk": "2026-09-30T10:37:02.790Z",
-   "lastNew": "2026-09-29T10:49:24.142Z",
+   "lastAttempt": "2026-10-01T11:05:05.266Z",
+   "lastOk": "2026-10-01T11:05:05.266Z",
+   "lastNew": "2026-10-01T11:05:05.266Z",
    "lastError": null,
-   "fetched": 60
+   "fetched": 52
   }
  },
  "watch": {
@@ -6502,21 +6620,14 @@
     "https://www.dinmedia.de/de/norm/din-en-iso-16571/402770108": "DIN EN ISO 16571:2026-11",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-16571-a1/391998271": "DIN EN ISO 16571/A1:2025-06",
     "https://www.dinmedia.de/de/norm/din-en-iso-16571/380130721": "DIN EN ISO 16571:2024-09",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-26782/406858590": "DIN EN ISO 26782:2026-11 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5359/406117894": "DIN EN ISO 5359:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-5361/404474255": "DIN EN ISO 5361:2026-10",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5361-a1/393611533": "DIN EN ISO 5361/A1:2025-08",
-    "https://www.dinmedia.de/de/norm/din-en-iso-5361/381980027": "DIN EN ISO 5361:2024-11",
     "https://www.dinmedia.de/de/norm/din-en-iso-5364/403359946": "DIN EN ISO 5364:2026-10",
-    "https://www.dinmedia.de/de/norm/din-en-iso-5364/250692354": "DIN EN ISO 5364:2017-01",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5364/393776762": "DIN EN ISO 5364:2025-08",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18082/405925949": "DIN EN ISO 18082:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-19223-1/405360305": "DIN EN ISO 19223-1:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-80369-1/402764369": "DIN EN ISO 80369-1:2026-10",
-    "https://www.dinmedia.de/de/norm/din-en-iso-80369-1/278676092": "DIN EN ISO 80369-1:2019-08",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-80369-1/368709527": "DIN EN ISO 80369-1:2023-07",
     "https://www.dinmedia.de/de/norm/din-en-iso-80601-2-70/398253848": "DIN EN ISO 80601-2-70:2026-10",
-    "https://www.dinmedia.de/de/norm/din-en-iso-80601-2-70/327867876": "DIN EN ISO 80601-2-70:2021-06",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-80601-2-70/387744800": "DIN EN ISO 80601-2-70:2025-02",
     "https://www.dinmedia.de/de/norm-entwurf/26-30570607-dc/406409500": "26/30570607 DC:2026-09-04 - Entwurf",
     "https://www.dinmedia.de/de/norm/oenorm-en-iso-5361-a1/406107872": "OENORM EN ISO 5361/A1:2026-09-01",
     "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-5367-a1/406106876": "OENORM EN ISO 5367/A1:2026-09-01 - Entwurf",
@@ -6553,10 +6664,9 @@
     "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-8637-2/406810335": "ISO/FDIS 8637-2:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-8637-3/406810409": "ISO/FDIS 8637-3:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/iso-dis-14708-1/406650738": "ISO/DIS 14708-1:2026-09 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-17218/406810420": "ISO/FDIS 17218:2026-09 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-18082/406809972": "ISO/DIS 18082:2026-09 - Entwurf"
+    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-17218/406810420": "ISO/FDIS 17218:2026-09 - Entwurf"
    },
-   "textHash": "1swyuy6"
+   "textHash": "af0xoi"
   }
  }
 }
