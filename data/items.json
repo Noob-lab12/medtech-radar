@@ -1953,15 +1953,6 @@
    "published": "2026-05-06T05:00:00.000Z",
    "firstSeen": "2026-07-19T15:27:10.268Z"
   },
-  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdep-angelika-niebler-beim-bvmed-wollen-mdr-im-parlament-bis-ende-des-jahres-zu-ende-beraten?pk_campaign=src_RSS": {
-   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdep-angelika-niebler-beim-bvmed-wollen-mdr-im-parlament-bis-ende-des-jahres-zu-ende-beraten?pk_campaign=src_RSS",
-   "source": "bvmed-regulatorik",
-   "title": "MdEP Angelika Niebler beim BVMed: „Wollen MDR im Parlament bis Ende des Jahres zu Ende beraten“",
-   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/mdep-angelika-niebler-beim-bvmed-wollen-mdr-im-parlament-bis-ende-des-jahres-zu-ende-beraten?pk_campaign=src_RSS",
-   "summary": "Europa muss seine Wettbewerbsfähigkeit und Resilienz stärken. „Wir müssen uns auf unsere Stärken besinnen und von Abhängigkeiten befreien. Das geht nur mit hochinnovativen Technologien“, sagte die bayerische Europaabgeordnete Prof. Dr. Angelika Niebler bei einer BVMed-Diskussionsrunde. Die Medizintechnik sei eine Leitbranche. Für Investitionen in Europa müsse aber die Wettbewerbsfähigkeit gestärkt",
-   "published": "2026-04-16T07:23:41.000Z",
-   "firstSeen": "2026-07-19T15:27:10.268Z"
-  },
   "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/": {
    "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
    "source": "medical-design-outsourcing",
@@ -6599,209 +6590,281 @@
    "summary": "A U.S. district court ruled that Apple owes prejudgment interest on the $634 million in damages it incurred for infringing Masimo’s pulse oximetry patent.",
    "published": "2026-10-07T14:00:00.000Z",
    "firstSeen": "2026-10-12T12:16:37.021Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/iso-5833/407192760": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/iso-5833/407192760",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO 5833:2026-10",
+   "link": "https://www.dinmedia.de/de/norm/iso-5833/407192760",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-13T12:00:52.968Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-26782/407192177": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/iso-dis-26782/407192177",
+   "source": "din-medizinprodukte-watch",
+   "title": "ISO/DIS 26782:2026-10 - Entwurf",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/iso-dis-26782/407192177",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-13T12:00:52.968Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/study-europe-s-share-of-clinical-trials-is-declining-amid-shift-toward-asia.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/study-europe-s-share-of-clinical-trials-is-declining-amid-shift-toward-asia.html",
+   "source": "raps-regulatory-focus",
+   "title": "Study: Europe’s share of clinical trials is declining amid shift toward Asia",
+   "link": "https://www.raps.org/resource/study-europe-s-share-of-clinical-trials-is-declining-amid-shift-toward-asia.html",
+   "summary": "12 Oct 2026 Study: Europe’s share of clinical trials is declining amid shift toward Asia The number of clinical trials authorized in the EU and European Economic Area (EEA) has decreased by 13.5% from pre-pandemic levels as Asia has captured a growing share of clinical research.",
+   "published": "2026-10-12T12:00:00.000Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/biosimilars-fda-finalizes-guidance-on-postapproval-manufacturing-changes.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/biosimilars-fda-finalizes-guidance-on-postapproval-manufacturing-changes.html",
+   "source": "raps-regulatory-focus",
+   "title": "Biosimilars: FDA finalizes guidance on postapproval manufacturing changes",
+   "link": "https://www.raps.org/resource/biosimilars-fda-finalizes-guidance-on-postapproval-manufacturing-changes.html",
+   "summary": "12 Oct 2026 Biosimilars: FDA finalizes guidance on postapproval manufacturing changes The US Food and Drug Administration (FDA) last week finalized its guidance on postapproval manufacturing changes for biosimilars to better align with international guidelines and to better address manufacturing changes for interchangeable products, which were not addressed by earlier guidance.",
+   "published": "2026-10-12T12:00:00.000Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/",
+   "source": "medtech-dive",
+   "title": "Ascensia leads $36M funding round for glucose sensor startup",
+   "link": "https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/",
+   "summary": "Ascensia also struck an exclusive sales agreement with Sava, which is making a wearable to continuously monitor glucose and other biomarkers.",
+   "published": "2026-10-12T18:07:49.000Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+   "source": "medtech-dive",
+   "title": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical",
+   "link": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+   "summary": "Stryker, which has been looking to get into the soft tissue robotics market for years, is now positioned to compete with new entrants Johnson & Johnson and Medtronic.",
+   "published": "2026-10-12T16:16:05.000Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/",
+   "source": "medtech-dive",
+   "title": "Philips updates instructions for ultrasound system linked to 4 deaths",
+   "link": "https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/",
+   "summary": "A software issue can delay use of the Lumify diagnostic ultrasound system in environments without access to Wi-Fi or cellular signal.",
+   "published": "2026-10-12T13:56:00.000Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/",
+   "source": "medtech-dive",
+   "title": "Henry Schein appoints Emmanuel Caprais as CFO",
+   "link": "https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/",
+   "summary": "The CFO transition is part of a recent wave of leadership changes at Henry Schein, including a new CEO.",
+   "published": "2026-10-09T07:06:12.000Z",
+   "firstSeen": "2026-10-13T12:00:52.968Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-10-06T11:24:51.201Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 9
   },
   "team-nb": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
    "fetched": 45
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
-   "lastNew": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastNew": "2026-10-13T12:00:52.968Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
-   "lastNew": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastNew": "2026-10-13T12:00:52.968Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-10-07T11:12:59.706Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-10-12T12:16:37.021Z",
-   "lastOk": "2026-10-12T12:16:37.021Z",
-   "lastNew": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastNew": "2026-10-13T12:00:52.968Z",
    "lastError": null,
    "fetched": 56
   }
@@ -7305,6 +7368,8 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-19223-1/405360305": "DIN EN ISO 19223-1:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/norm/din-en-iso-80369-1/402764369": "DIN EN ISO 80369-1:2026-10",
     "https://www.dinmedia.de/de/norm/din-en-iso-80601-2-70/398253848": "DIN EN ISO 80601-2-70:2026-10",
+    "https://www.dinmedia.de/de/norm/iso-5833/407192760": "ISO 5833:2026-10",
+    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-26782/407192177": "ISO/DIS 26782:2026-10 - Entwurf",
     "https://www.dinmedia.de/de/vornorm/abnt-iso-ts-6838/407015979": "ABNT ISO/TS 6838:2026-09-23",
     "https://www.dinmedia.de/de/norm/oenorm-en-iso-11979-1/406876309": "OENORM EN ISO 11979-1:2026-09-15",
     "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-13356/406876096": "OENORM EN ISO 13356:2026-09-15 - Entwurf",
@@ -7333,11 +7398,9 @@
     "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-57/400253380": "DIN EN IEC 60601-2-57:2026-09; VDE 0750-2-57:2026-09",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5367-a1/404553247": "DIN EN ISO 5367/A1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229": "DIN EN ISO 9360-1:2026-09 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": "DIN EN ISO 9360-2:2026-09 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10079-1/401507463": "DIN EN ISO 10079-1:2026-09",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11979-1/401100399": "DIN EN ISO 11979-1:2026-09"
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": "DIN EN ISO 9360-2:2026-09 - Entwurf"
    },
-   "textHash": "q122xx"
+   "textHash": "12z1iho"
   }
  }
 }
