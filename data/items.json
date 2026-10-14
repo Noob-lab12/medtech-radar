@@ -6662,209 +6662,272 @@
    "summary": "The CFO transition is part of a recent wave of leadership changes at Henry Schein, including a new CEO.",
    "published": "2026-10-09T07:06:12.000Z",
    "firstSeen": "2026-10-13T12:00:52.968Z"
+  },
+  "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm07-2026.html": {
+   "id": "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm07-2026.html",
+   "source": "bfarm-presse",
+   "title": "Mehr als 120 Forschungsanträge im ersten Jahr: Forschungsdatenzentrum Gesundheit wird weiter ausgebaut",
+   "link": "https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm07-2026.html",
+   "summary": "Pressemitteilung Nr. 7/26 vom 14.10.2026",
+   "published": "2026-10-14T07:00:00.000Z",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
+  },
+  "din-medizinprodukte-watch::change::19uznw7": {
+   "id": "din-medizinprodukte-watch::change::19uznw7",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-10-14T09:38:27.730Z",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/14/2026-20989/advisory-committee-cellular-tissue-and-gene-therapies-advisory-committee-renewal": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/14/2026-20989/advisory-committee-cellular-tissue-and-gene-therapies-advisory-committee-renewal",
+   "source": "federal-register-fda",
+   "title": "Advisory Committee; Cellular, Tissue, and Gene Therapies Advisory Committee; Renewal",
+   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20989/advisory-committee-cellular-tissue-and-gene-therapies-advisory-committee-renewal",
+   "summary": "The Food and Drug Administration (FDA) is announcing the renewal of the Cellular, Tissue, and Gene Therapies Advisory Committee by the Commissioner of Food and Drugs (the Commissioner). The Commissioner has determined that it is in the public interest to renew the Cellular, Tissue, and Gene Therapies Advisory Committee for an additional 2 years beyond the charter expiration date. The new charter w",
+   "published": "2026-10-14",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/wide-range-of-parties-ask-fda-to-be-flexible-protect-patients-when-regulating-psychedelic-drugs.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/wide-range-of-parties-ask-fda-to-be-flexible-protect-patients-when-regulating-psychedelic-drugs.html",
+   "source": "raps-regulatory-focus",
+   "title": "Wide range of parties ask FDA to be flexible, protect patients when regulating psychedelic drugs",
+   "link": "https://www.raps.org/resource/wide-range-of-parties-ask-fda-to-be-flexible-protect-patients-when-regulating-psychedelic-drugs.html",
+   "summary": "13 Oct 2026 Wide range of parties ask FDA to be flexible, protect patients when regulating psychedelic drugs Stakeholders are urging the US Food and Drug Administration (FDA) to be flexible in how it regulates psychedelic drugs that may help treat conditions such as major depressive disorder (MDD) and post-traumatic stress disorder (PTSD). The agency should be careful not to create unnecessary bar",
+   "published": "2026-10-13T12:00:00.000Z",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/study-pushes-for-greater-adoption-of-a-cloud-based-regulatory-environment.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/study-pushes-for-greater-adoption-of-a-cloud-based-regulatory-environment.html",
+   "source": "raps-regulatory-focus",
+   "title": "Study pushes for greater adoption of a cloud-based regulatory environment",
+   "link": "https://www.raps.org/resource/study-pushes-for-greater-adoption-of-a-cloud-based-regulatory-environment.html",
+   "summary": "13 Oct 2026 Study pushes for greater adoption of a cloud-based regulatory environment Broader adoption of cloud-based platforms by regulatory bodies could lead to significantly faster approval times, according to a study authored by Nina Cauchon of Amgen and colleagues published in the Journal of Pharmaceutical Sciences.",
+   "published": "2026-10-13T12:00:00.000Z",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/jjs-medtech-business-slows-again-in-q3/832861/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/jjs-medtech-business-slows-again-in-q3/832861/",
+   "source": "medtech-dive",
+   "title": "J&J’s medtech business slows again in Q3",
+   "link": "https://www.medtechdive.com/news/jjs-medtech-business-slows-again-in-q3/832861/",
+   "summary": "For the second straight quarter, the cardiovascular unit experienced slower sales growth due to ongoing struggles in the Abiomed business.",
+   "published": "2026-10-13T16:34:00.000Z",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/",
+   "source": "medtech-dive",
+   "title": "Steris inks $2.1B Xodus buyout to expand consumables portfolio",
+   "link": "https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/",
+   "summary": "The takeover adds high-growth, high-margin products to Steris’ portfolio, analysts said.",
+   "published": "2026-10-13T14:00:00.000Z",
+   "firstSeen": "2026-10-14T09:38:27.730Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-10-06T11:24:51.201Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 9
   },
   "team-nb": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
-   "lastNew": null,
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
+   "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
-   "lastNew": "2026-10-12T12:16:37.021Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
+   "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-07-30T11:32:25.701Z",
    "lastError": null,
-   "fetched": 45
+   "fetched": 46
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
-   "lastNew": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
+   "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
-   "lastNew": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
+   "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-10-07T11:12:59.706Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 25
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
    "lastNew": "2026-10-12T12:16:37.021Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-10-13T12:00:52.968Z",
-   "lastOk": "2026-10-13T12:00:52.968Z",
-   "lastNew": "2026-10-13T12:00:52.968Z",
+   "lastAttempt": "2026-10-14T09:38:27.730Z",
+   "lastOk": "2026-10-14T09:38:27.730Z",
+   "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 56
   }
@@ -7400,7 +7463,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-1/404654229": "DIN EN ISO 9360-1:2026-09 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-9360-2/404570369": "DIN EN ISO 9360-2:2026-09 - Entwurf"
    },
-   "textHash": "12z1iho"
+   "textHash": "19uznw7"
   }
  }
 }
