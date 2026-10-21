@@ -7139,209 +7139,281 @@
    "summary": "Agentic AI assists with routing urgent scans, cutting minutes to treatment.",
    "published": "2026-10-19T09:00:00.000Z",
    "firstSeen": "2026-10-20T09:32:51.882Z"
+  },
+  "team-nb::https://www.team-nb.org/digicap-digitalizing-the-conformity-assessment-process/": {
+   "id": "team-nb::https://www.team-nb.org/digicap-digitalizing-the-conformity-assessment-process/",
+   "source": "team-nb",
+   "title": "DIGICAP – Digitalizing the Conformity Assessment Process",
+   "link": "https://www.team-nb.org/digicap-digitalizing-the-conformity-assessment-process/",
+   "summary": "DIGICAP - Digitalizing the Conformity Assessment Process The EU funded project starts with the aim of improving conformity assessment from individual files to a data-driven process through: ✔️ Structured, machine-readable dossiers instead of PDFs and email chains. ✔️ Data that is structured once and reused by Notified Body tools, EUDAMED and RegTech [...] L’article DIGICAP – Digitalizing the Confo",
+   "published": "2026-10-20T10:12:48.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "din-medizinprodukte-watch::change::1wuurdr": {
+   "id": "din-medizinprodukte-watch::change::1wuurdr",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-10-21T09:28:46.779Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "mhra-news::https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices": {
+   "id": "mhra-news::https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices",
+   "source": "mhra-news",
+   "title": "Government confirms indefinite recognition of CE marked medical devices",
+   "link": "https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices",
+   "summary": "Patients across Great Britain will have continued access to medical devices and in vitro diagnostic devices (IVDs) already approved for the EU market.",
+   "published": "2026-10-21T08:26:46.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-mhra-officials-eye-streamlined-frameworks-for-regulating-genai.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-mhra-officials-eye-streamlined-frameworks-for-regulating-genai.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA, MHRA officials eye streamlined frameworks for regulating genAI",
+   "link": "https://www.raps.org/resource/fda-mhra-officials-eye-streamlined-frameworks-for-regulating-genai.html",
+   "summary": "20 Oct 2026 FDA, MHRA officials eye streamlined frameworks for regulating genAI Boston – Regulators from the US and UK discussed ongoing efforts to develop regulatory frameworks that are better suited to generative artificial intelligence (genAI) products at The MedTech Conference on Tuesday.",
+   "published": "2026-10-20T12:00:00.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-finalizes-guidance-on-prescription-drug-apps.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-finalizes-guidance-on-prescription-drug-apps.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA finalizes guidance on prescription drug apps",
+   "link": "https://www.raps.org/resource/fda-finalizes-guidance-on-prescription-drug-apps.html",
+   "summary": "20 Oct 2026 FDA finalizes guidance on prescription drug apps The US Food and Drug Administration (FDA) on Tuesday finalized guidance to address how sponsors can develop, distribute, and label software applications (apps) used alongside prescription medicines. These can include apps that are used with asthma inhalers or stand-alone symptom trackers, dose reminders, or health coaching tools.",
+   "published": "2026-10-20T12:00:00.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/",
+   "source": "medtech-dive",
+   "title": "Cybersecurity in focus for top medtech lobby",
+   "link": "https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/",
+   "summary": "ResMed CEO Mick Farrell, chair of AdvaMed’s board, said the group plans to come up with standards around privacy, cybersecurity and interoperability.",
+   "published": "2026-10-20T12:48:00.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/",
+   "source": "medtech-dive",
+   "title": "Medtech execs share secrets to building resilient supply chains",
+   "link": "https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/",
+   "summary": "At AdvaMed’s The MedTech Conference, company executives said they’re bracing for disruption by investing in inventory, scenario planning and their relationships with chip suppliers.",
+   "published": "2026-10-20T12:40:00.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/fda-clears-sequels-insulin-delivery-system-in-type-2-diabetes/833317/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/fda-clears-sequels-insulin-delivery-system-in-type-2-diabetes/833317/",
+   "source": "medtech-dive",
+   "title": "FDA clears Sequel’s insulin delivery system in Type 2 diabetes",
+   "link": "https://www.medtechdive.com/news/fda-clears-sequels-insulin-delivery-system-in-type-2-diabetes/833317/",
+   "summary": "With Twiist already available in Type 1 diabetes, Sequel has made the automated insulin delivery system available for the Type 2 population.",
+   "published": "2026-10-19T11:05:57.000Z",
+   "firstSeen": "2026-10-21T09:28:46.779Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-06T11:24:51.201Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "team-nb": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 46
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-07T11:12:59.706Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-10-20T09:32:51.882Z",
-   "lastOk": "2026-10-20T09:32:51.882Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 55
   }
@@ -7876,7 +7948,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/26-30570607-dc/406409500": "26/30570607 DC:2026-09-04 - Entwurf",
     "https://www.dinmedia.de/de/norm/une-en-iso-10079-1-a1/406946887": "UNE-EN ISO 10079-1/A1:2026-09-02"
    },
-   "textHash": "8pl073"
+   "textHash": "1wuurdr"
   }
  }
 }
