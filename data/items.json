@@ -7211,209 +7211,362 @@
    "summary": "With Twiist already available in Type 1 diabetes, Sequel has made the automated insulin delivery system available for the Type 2 population.",
    "published": "2026-10-19T11:05:57.000Z",
    "firstSeen": "2026-10-21T09:28:46.779Z"
+  },
+  "team-nb::https://www.team-nb.org/mdr-ivdr-revisions-team-nb-linkedin-safety-campaign/": {
+   "id": "team-nb::https://www.team-nb.org/mdr-ivdr-revisions-team-nb-linkedin-safety-campaign/",
+   "source": "team-nb",
+   "title": "MDR/IVDR revisions – Team-NB LinkedIn Safety Campaign",
+   "link": "https://www.team-nb.org/mdr-ivdr-revisions-team-nb-linkedin-safety-campaign/",
+   "summary": "The report shows that the campaign generated strong engagement and broadened discussions surrounding the MDR/IVDR regulations to a wider circle of professionals and stakeholders. It made complex regulatory issues more accessible and fostered a constructive dialogue on patient safety, innovation, and trust. Team-NB-SafetyCampaign-report-20261021 L’article MDR/IVDR revisions – Team-NB LinkedIn Safet",
+   "published": "2026-10-21T13:37:39.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/961661": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/961661",
+   "source": "eu-ai-office",
+   "title": "Requirements for qualified independent external evaluators of General-Purpose AI models",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/961661",
+   "summary": "The AI Office presents a report on its workshop on the requirements for the qualifications and independence of external model evaluators of general-purpose AI (GPAI) models with systemic risk.",
+   "published": "2026-10-21T11:02:22.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm08-2026.html": {
+   "id": "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm08-2026.html",
+   "source": "bfarm-presse",
+   "title": "BfArM startet neues Antragsportal zum Herstellerabschlag für Arzneimittel",
+   "link": "https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm08-2026.html",
+   "summary": "Pressemitteilung Nr. 8/26 vom 21.10.2026",
+   "published": "2026-10-21T10:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm07-2026.html": {
+   "id": "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm07-2026.html",
+   "source": "bfarm-presse",
+   "title": "Mehr als 120 Forschungsanträge im ersten Jahr: Forschungsdatenzentrum Gesundheit wird weiter ausgebaut",
+   "link": "https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm07-2026.html",
+   "summary": "Pressemitteilung Nr. 7/26 vom 14.10.2026",
+   "published": "2026-10-14T07:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm06-2026.html": {
+   "id": "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm06-2026.html",
+   "source": "bfarm-presse",
+   "title": "25.000 Datensätze für die Genommedizin der Zukunft: Modellvorhaben zur Genomsequenzierung erreicht wichtigen Meilenstein",
+   "link": "https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm06-2026.html",
+   "summary": "Pressemitteilung Nr. 6/26 vom 25.06.2026",
+   "published": "2026-06-25T07:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm05-2026.html": {
+   "id": "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm05-2026.html",
+   "source": "bfarm-presse",
+   "title": "Jahresbericht 2025: Immer mehr Menschen dokumentieren ihre Entscheidung im Organspende-Register",
+   "link": "https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm05-2026.html",
+   "summary": "Pressemitteilung Nr. 5/26 vom 16.06.2026",
+   "published": "2026-06-16T07:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm04-2026.html": {
+   "id": "bfarm-presse::https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm04-2026.html",
+   "source": "bfarm-presse",
+   "title": "BfArM warnt vor Risiken von Drip-Spa-Infusionen",
+   "link": "https://www.pharmnet-bund.de/SharedDocs/Pressemitteilungen/DE/2026/pm04-2026.html",
+   "summary": "Pressemitteilung Nr. 4/26 vom 12.05.2026",
+   "published": "2026-05-12T07:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696",
+   "source": "din-medizinprodukte-watch",
+   "title": "VDI 5709:2026-12 - Entwurf",
+   "link": "https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-22T09:31:43.082Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "emergo-news-watch::change::1y2gjse": {
+   "id": "emergo-news-watch::change::1y2gjse",
+   "source": "emergo-news-watch",
+   "title": "Seiteninhalt geändert: Emergo by UL – News (Überwachung)",
+   "link": "https://www.emergobyul.com/news",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-10-22T09:31:43.082Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/drugmakers-urge-fda-take-more-flexible-approach-to-container-closure-testing.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/drugmakers-urge-fda-take-more-flexible-approach-to-container-closure-testing.html",
+   "source": "raps-regulatory-focus",
+   "title": "Drugmakers urge FDA take more flexible approach to container closure testing",
+   "link": "https://www.raps.org/resource/drugmakers-urge-fda-take-more-flexible-approach-to-container-closure-testing.html",
+   "summary": "21 Oct 2026 Drugmakers urge FDA take more flexible approach to container closure testing Major pharmaceutical companies are urging the US Food and Drug Administration (FDA) to adopt a more flexible, risk-based approach in its guidance on testing container-closure systems (CCS) for drugs and biological products, especially when established materials and technologies are used.",
+   "published": "2026-10-21T12:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/tarver-cdrh-on-a-recruiting-tear-looking-ahead-to-mdufa-vi.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/tarver-cdrh-on-a-recruiting-tear-looking-ahead-to-mdufa-vi.html",
+   "source": "raps-regulatory-focus",
+   "title": "Tarver: CDRH on a ‘recruiting tear,’ looking ahead to MDUFA VI",
+   "link": "https://www.raps.org/resource/tarver-cdrh-on-a-recruiting-tear-looking-ahead-to-mdufa-vi.html",
+   "summary": "21 Oct 2026 Tarver: CDRH on a ‘recruiting tear,’ looking ahead to MDUFA VI BOSTON – Top US Food and Drug Administration (FDA) medical device officials said they are focused on restaffing after last year’s reduction-in-force (RIF) and are optimistic about the Medical Device User Fee Amendments (MDUFA VI) agreement during a town hall panel at The MedTech Conference.",
+   "published": "2026-10-21T12:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/",
+   "source": "medtech-dive",
+   "title": "CDRH on hiring spree after significant staff losses, director says",
+   "link": "https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/",
+   "summary": "Dr. Michelle Tarver said the FDA’s device center is filling positions after losing large numbers of clinical reviewers and AI and digital health experts.",
+   "published": "2026-10-21T20:02:22.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/intuitives-us-da-vinci-procedure-growth-slows-again/833555/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/intuitives-us-da-vinci-procedure-growth-slows-again/833555/",
+   "source": "medtech-dive",
+   "title": "Intuitive’s US da Vinci procedure growth slows again",
+   "link": "https://www.medtechdive.com/news/intuitives-us-da-vinci-procedure-growth-slows-again/833555/",
+   "summary": "Facing continued softness, Intuitive outlined opportunities to increase use of its robots in benign general surgeries.",
+   "published": "2026-10-21T20:00:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-plans-to-spin-out-its-nutrition-business/833601/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-plans-to-spin-out-its-nutrition-business/833601/",
+   "source": "medtech-dive",
+   "title": "Abbott plans to spin out its nutrition business",
+   "link": "https://www.medtechdive.com/news/abbott-plans-to-spin-out-its-nutrition-business/833601/",
+   "summary": "Abbott, which also cut its 2026 sales growth guidance, said company sales will total $42 billion following the separation.",
+   "published": "2026-10-21T16:45:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+   "source": "medtech-dive",
+   "title": "Gen AI policy is a White House priority, CDRH digital health leader says",
+   "link": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+   "summary": "Rick Abramson, director of the FDA’s Digital Health Center of Excellence, said to expect draft guidance in the coming months.",
+   "published": "2026-10-21T13:02:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/expect-more-tuck-in-ma-portfolio-pruning-in-medtech-execs-say/833547/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/expect-more-tuck-in-ma-portfolio-pruning-in-medtech-execs-say/833547/",
+   "source": "medtech-dive",
+   "title": "Expect more tuck-in M&A, portfolio pruning in medtech, execs say",
+   "link": "https://www.medtechdive.com/news/expect-more-tuck-in-ma-portfolio-pruning-in-medtech-execs-say/833547/",
+   "summary": "As medical device makers face “finite” capital, portfolio reshaping will likely remain a focus in the sector.",
+   "published": "2026-10-21T12:53:00.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/medtronic-wins-ce-mark-for-vitalis-portfolio-of-cardiac-pacemakers/833428/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/medtronic-wins-ce-mark-for-vitalis-portfolio-of-cardiac-pacemakers/833428/",
+   "source": "medtech-dive",
+   "title": "Medtronic wins CE mark for Vitalis portfolio of cardiac pacemakers",
+   "link": "https://www.medtechdive.com/news/medtronic-wins-ce-mark-for-vitalis-portfolio-of-cardiac-pacemakers/833428/",
+   "summary": "The CE mark clears Medtronic to sell conduction system pacing therapy devices in Europe.",
+   "published": "2026-10-20T07:10:23.000Z",
+   "firstSeen": "2026-10-22T09:31:43.082Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-10-06T11:24:51.201Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 10
   },
   "team-nb": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-14T09:38:27.730Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-10-14T09:38:27.730Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 46
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-10-07T11:12:59.706Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 126
+   "fetched": 109
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
    "lastOk": "2026-10-21T09:28:46.779Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
-   "lastError": null,
+   "lastError": "fetch failed",
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-20T09:32:51.882Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-10-21T09:28:46.779Z",
-   "lastOk": "2026-10-21T09:28:46.779Z",
-   "lastNew": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-10-22T09:31:43.082Z",
+   "lastOk": "2026-10-22T09:31:43.082Z",
+   "lastNew": "2026-10-22T09:31:43.082Z",
    "lastError": null,
    "fetched": 55
   }
@@ -7876,10 +8029,10 @@
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
     "https://www.emergobyul.com/news/us-medical-device-distributors-fda-expectations-distributors-and-manufacturers": "new Regulatory Update Oct 17, 2026 US Medical Device Distributors: FDA Expectations for Distributors and Manufacturers Learn about FDA expectations for medical device distributors, initial importer re",
-    "https://www.emergobyul.com/news/qmsr-explained-what-fdas-new-quality-management-system-regulation-means-medical-device": "new Regulatory Update Oct 15, 2026 QMSR Explained: What FDA’s New Quality Management System Regulation Means for Medical Device Manufacturers Part 1 of our QMSR Explained series explores the U.S. FDA’",
-    "https://www.emergobyul.com/news/when-and-why-conduct-user-research-studies-formative-usability-testing-and-human-factors": "new Insights Oct 15, 2026 When and Why to Conduct User Research Studies, Formative Usability Testing and Human Factors Validation Testing Learn when medical device usability tests call for user resear",
-    "https://www.emergobyul.com/news/us-fda-cdrh-announces-guidance-document-priorities-fiscal-year-2027": "new Regulatory Update Oct 14, 2026 US FDA CDRH Announces Guidance Document Priorities for Fiscal Year 2027 The U.S. FDA outlines its FY 2027 guidance priorities, including its highest-priority A-List,",
-    "https://www.emergobyul.com/news/europe-targets-revised-mdr-and-ivdr-adoption-q2-q3-2027": "new Regulatory Update Oct 9, 2026 Europe Targets Revised MDR and IVDR Adoption in Q2-Q3 2027 MDR and IVDR revisions could ease requirements, but industry concerns remain. Adoption is targeted for 2027",
+    "https://www.emergobyul.com/news/qmsr-explained-what-fdas-new-quality-management-system-regulation-means-medical-device": "Regulatory Update Oct 15, 2026 QMSR Explained: What FDA’s New Quality Management System Regulation Means for Medical Device Manufacturers Part 1 of our QMSR Explained series explores the U.S. FDA’s Qu",
+    "https://www.emergobyul.com/news/when-and-why-conduct-user-research-studies-formative-usability-testing-and-human-factors": "Insights Oct 15, 2026 When and Why to Conduct User Research Studies, Formative Usability Testing and Human Factors Validation Testing Learn when medical device usability tests call for user research, ",
+    "https://www.emergobyul.com/news/us-fda-cdrh-announces-guidance-document-priorities-fiscal-year-2027": "Regulatory Update Oct 14, 2026 US FDA CDRH Announces Guidance Document Priorities for Fiscal Year 2027 The U.S. FDA outlines its FY 2027 guidance priorities, including its highest-priority A-List, mod",
+    "https://www.emergobyul.com/news/europe-targets-revised-mdr-and-ivdr-adoption-q2-q3-2027": "Regulatory Update Oct 9, 2026 Europe Targets Revised MDR and IVDR Adoption in Q2-Q3 2027 MDR and IVDR revisions could ease requirements, but industry concerns remain. Adoption is targeted for 2027, wi",
     "https://www.emergobyul.com/news/switzerland-outlines-timeline-reliance-us-fda-medical-device-authorizations": "Regulatory Update Oct 9, 2026 Switzerland Outlines Timeline for Reliance on US FDA Medical Device Authorizations Switzerland outlines next steps toward a regulatory reliance mechanism for FDA-authoriz",
     "https://www.emergobyul.com/news/bringing-medical-device-us-market-perspectives-and-considerations": "Insights Oct 1, 2026 Bringing a Medical Device to the US Market: Perspectives and Considerations Explore key FDA requirements, regulatory pathways and common challenges for bringing a medical device t",
     "https://www.emergobyul.com/news/eaar-2026-key-eu-regulatory-developments": "Regulatory Update Sep 13, 2026 EAAR 2026: Key EU Regulatory Developments Learn about proposed MDR and IVDR changes, EUDAMED milestones, clinical evidence trends and other key topics discussed...",
@@ -7888,7 +8041,7 @@
     "https://www.emergobyul.com/news/two-updates-malaysia-mda-automated-re-registration-route-and-hologram-security-label": "Regulatory Update Aug 20, 2026 Two Updates from Malaysia MDA: Automated Re-Registration Route and Hologram Security Label See how Malaysia&#039;s MDA is simplifying device renewals with a new Automate",
     "https://www.emergobyul.com/news/health-canada-policy-registration-clinical-trials-and-public-disclosure-results": "Regulatory Update Aug 18, 2026 Health Canada Policy on the Registration of Clinical Trials and Public Disclosure of Results Learn how Health Canada&#039;s new policy on clinical trial registration and"
    },
-   "textHash": "a67ziy"
+   "textHash": "1y2gjse"
   },
   "din-medizinprodukte-watch": {
    "links": {
@@ -7896,6 +8049,7 @@
     "https://www.dinmedia.de/de/norm/din-en-18167/402420919": "DIN EN 18167:2026-12",
     "https://www.dinmedia.de/de/norm/din-en-iso-10322/402424303": "DIN EN ISO 10322:2026-12",
     "https://www.dinmedia.de/de/norm/din-en-iso-15747/402987705": "DIN EN ISO 15747:2026-12",
+    "https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696": "VDI 5709:2026-12 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-6875-20/406742186": "DIN 6875-20:2026-11 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-13068/406157796": "DIN 13068:2026-11 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-ieee-11073-10441/406352403": "DIN EN ISO/IEEE 11073-10441:2026-11 - Entwurf",
@@ -7945,10 +8099,9 @@
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-19223-1/407323248": "PR NF EN ISO 19223-1:2026-09-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-60601-2-36/407322902": "PR NF EN IEC 60601-2-36:2026-09-04 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/26-30540369-dc/407360243": "26/30540369 DC:2026-09-04 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30570607-dc/406409500": "26/30570607 DC:2026-09-04 - Entwurf",
-    "https://www.dinmedia.de/de/norm/une-en-iso-10079-1-a1/406946887": "UNE-EN ISO 10079-1/A1:2026-09-02"
+    "https://www.dinmedia.de/de/norm-entwurf/26-30570607-dc/406409500": "26/30570607 DC:2026-09-04 - Entwurf"
    },
-   "textHash": "1wuurdr"
+   "textHash": "d1q01k"
   }
  }
 }
