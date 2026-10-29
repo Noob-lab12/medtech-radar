@@ -7652,208 +7652,325 @@
    "summary": "The proposed acquisition of the specialty laboratory is the third Labcorp buyout announced in eight days.",
    "published": "2026-10-26T09:18:37.000Z",
    "firstSeen": "2026-10-28T10:42:48.197Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/10/28/8th-european-value-based-procurement-conference/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/10/28/8th-european-value-based-procurement-conference/",
+   "source": "medtech-europe",
+   "title": "8th European Value-Based Procurement Conference",
+   "link": "https://www.medtecheurope.org/2026/10/28/8th-european-value-based-procurement-conference/",
+   "summary": "Join us in Brussels for the 8th European Value-Based Procurement Conference, where healthcare leaders, procurement professionals, policymakers, and industry representatives will come together to explore how procurement can drive better patient outcomes, accelerate innovation and create more sustainable healthcare systems. Under this year’s ambitious theme, “The Value Revolution – Transforming Heal",
+   "published": "2026-10-28T15:37:04.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/10/01/medtech-europe-in-the-headlines-in-october-2026/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/10/01/medtech-europe-in-the-headlines-in-october-2026/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe in the headlines in October 2026",
+   "link": "https://www.medtecheurope.org/2026/10/01/medtech-europe-in-the-headlines-in-october-2026/",
+   "summary": "October media coverage highlighted MedTech Europe’s call for a single regulatory pathway for AI-enabled medical technologies, efforts to reduce regulatory duplication and accelerate patient access to innovation, as well as its support for a shift towards value-based public procurement that prioritises quality alongside cost. The publication of the Facts & Figures 2026 report also generated broad [",
+   "published": "2026-10-01T06:30:06.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/09/10/medtech-europe-in-the-headlines-in-september-2026/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/09/10/medtech-europe-in-the-headlines-in-september-2026/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe in the headlines in September 2026",
+   "link": "https://www.medtecheurope.org/2026/09/10/medtech-europe-in-the-headlines-in-september-2026/",
+   "summary": "In September, MedTech Europe featured prominently in coverage of the MDR/IVDR revision, setting out its positions on the IVDR, single-use devices and AI-enabled medical devices. Coverage also centred heavily on the EU’s proposed Public Procurement Regulation, with MedTech Europe welcoming the shift towards value-based procurement while warning against “Made in Europe” requirements. Further coverag",
+   "published": "2026-09-10T07:33:28.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963055": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963055",
+   "source": "eu-ai-office",
+   "title": "Germany: Deutsche Telekom and Nokia test artificial intelligence to improve 5G uplink performance",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/963055",
+   "summary": "Deutsche Telekom and Nokia used artificial intelligence (AI) and Nvidia computing hardware to improve 5G uplink throughput in initial laboratory tests.",
+   "published": "2026-10-21T10:17:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963074": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963074",
+   "source": "eu-ai-office",
+   "title": "United States: T-Mobile and Ericsson report artificial intelligence beamforming gains on 5G advanced network",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/963074",
+   "summary": "T-Mobile and Ericsson reported double-digit performance gains from testing artificial intelligence (AI) beamforming on a live 5G advanced network in New York City.",
+   "published": "2026-10-20T10:17:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963076": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963076",
+   "source": "eu-ai-office",
+   "title": "Japan: SoftBank and Nokia plan artificial intelligence radio access network field trial for 2027",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/963076",
+   "summary": "SoftBank and Nokia agreed to conduct a commercial artificial intelligence radio access network (AI-RAN) field trial on live customer traffic in Japan from 2027.",
+   "published": "2026-10-20T10:17:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963078": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963078",
+   "source": "eu-ai-office",
+   "title": "United Kingdom: BT and EE plan artificial intelligence radio access network trial with Nokia and Nvidia",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/963078",
+   "summary": "BT Group plans to bring its first artificial intelligence radio access network (AI-RAN) sites online in Birmingham in 2027, following laboratory tests with Nokia and Nvidia.",
+   "published": "2026-10-21T10:17:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963094": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/963094",
+   "source": "eu-ai-office",
+   "title": "South Korea: LG Uplus and Ericsson extend fronthaul reach for artificial intelligence radio access networks",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/963094",
+   "summary": "LG Uplus and Ericsson said verification tests showed that fronthaul equipment can extend base station reach by up to three times without compromising quality.",
+   "published": "2026-10-22T10:17:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm10-2026.html": {
+   "id": "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm10-2026.html",
+   "source": "bfarm-presse",
+   "title": "OPS 2027: BfArM veröffentlicht amtliche Fassung",
+   "link": "https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm10-2026.html",
+   "summary": "Pressemitteilung Nr. 10/26 vom 29.10.2026",
+   "published": "2026-10-29T07:30:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028",
+   "source": "emergo-news-watch",
+   "title": "new Regulatory Update Oct 27, 2026 Mandatory Use of EUDAMED Vigilance Module Delayed Until 2028 The EC has delayed mandatory use of EUDAMED’s VGL module until at least 2028, while the FDA’s transition",
+   "link": "https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-10-29T11:00:12.195Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-drafts-guidance-on-submitting-ides-via-estar-ahead-of-transition.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-drafts-guidance-on-submitting-ides-via-estar-ahead-of-transition.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA drafts guidance on submitting IDEs via eSTAR ahead of transition",
+   "link": "https://www.raps.org/resource/fda-drafts-guidance-on-submitting-ides-via-estar-ahead-of-transition.html",
+   "summary": "28 Oct 2026 FDA drafts guidance on submitting IDEs via eSTAR ahead of transition The US Food and Drug Administration (FDA) on Tuesday issued draft guidance on submitting investigational device exemption (IDE) applications electronically using the electronic Submission Template and Resource (eSTAR) template.",
+   "published": "2026-10-28T12:00:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/boston-scientific-cuts-2026-guidance-for-third-time-this-year/873037/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/boston-scientific-cuts-2026-guidance-for-third-time-this-year/873037/",
+   "source": "medtech-dive",
+   "title": "Boston Scientific cuts 2026 guidance for third time this year",
+   "link": "https://www.medtechdive.com/news/boston-scientific-cuts-2026-guidance-for-third-time-this-year/873037/",
+   "summary": "The medical device company’s stock dropped when the market opened Wednesday after it slashed sales and earnings forecasts once again.",
+   "published": "2026-10-28T16:11:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/radnet-expands-into-teleradiology-with-350m-onrad-deal/872990/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/radnet-expands-into-teleradiology-with-350m-onrad-deal/872990/",
+   "source": "medtech-dive",
+   "title": "RadNet expands into teleradiology with $350M Onrad deal",
+   "link": "https://www.medtechdive.com/news/radnet-expands-into-teleradiology-with-350m-onrad-deal/872990/",
+   "summary": "The acquisition, which will give RadNet a new professional services unit, is expected to help hospitals solve challenges with radiology coverage.",
+   "published": "2026-10-28T14:00:00.000Z",
+   "firstSeen": "2026-10-29T11:00:12.195Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 11
   },
   "team-nb": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 46
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
-   "lastNew": "2026-10-07T11:12:59.706Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
-   "lastNew": "2026-10-22T09:31:43.082Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 109
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
-   "lastNew": "2026-10-25T09:16:11.254Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-10-28T10:42:48.197Z",
-   "lastOk": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 55
@@ -8316,6 +8433,7 @@
     "https://www.emergobyul.com/resources/ivdr-resource-center": "IVDR Resource Center",
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
+    "https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028": "new Regulatory Update Oct 27, 2026 Mandatory Use of EUDAMED Vigilance Module Delayed Until 2028 The EC has delayed mandatory use of EUDAMED’s VGL module until at least 2028, while the FDA’s transition",
     "https://www.emergobyul.com/news/us-medical-device-distributors-fda-expectations-distributors-and-manufacturers": "Regulatory Update Oct 17, 2026 US Medical Device Distributors: FDA Expectations for Distributors and Manufacturers Learn about FDA expectations for medical device distributors, initial importer respon",
     "https://www.emergobyul.com/news/qmsr-explained-what-fdas-new-quality-management-system-regulation-means-medical-device": "Regulatory Update Oct 15, 2026 QMSR Explained: What FDA’s New Quality Management System Regulation Means for Medical Device Manufacturers Part 1 of our QMSR Explained series explores the U.S. FDA’s Qu",
     "https://www.emergobyul.com/news/when-and-why-conduct-user-research-studies-formative-usability-testing-and-human-factors": "Insights Oct 15, 2026 When and Why to Conduct User Research Studies, Formative Usability Testing and Human Factors Validation Testing Learn when medical device usability tests call for user research, ",
@@ -8326,10 +8444,9 @@
     "https://www.emergobyul.com/news/eaar-2026-key-eu-regulatory-developments": "Regulatory Update Sep 13, 2026 EAAR 2026: Key EU Regulatory Developments Learn about proposed MDR and IVDR changes, EUDAMED milestones, clinical evidence trends and other key topics discussed...",
     "https://www.emergobyul.com/news/imdrf-publishes-report-implementation-imdrf-guidance": "Regulatory Update Sep 4, 2026 IMDRF Publishes Report on Implementation of IMDRF Guidance Learn how IMDRF members and official observers have implemented IMDRF guidance documents, which guidance is mos",
     "https://www.emergobyul.com/news/practical-guide-formative-product-evaluations-why-and-when-use": "Insights Sep 1, 2026 A Practical Guide to Formative Product Evaluations: Why and When to Use Learn how formative product evaluations can help medical device teams identify user needs, uncover usabilit",
-    "https://www.emergobyul.com/news/two-updates-malaysia-mda-automated-re-registration-route-and-hologram-security-label": "Regulatory Update Aug 20, 2026 Two Updates from Malaysia MDA: Automated Re-Registration Route and Hologram Security Label See how Malaysia&#039;s MDA is simplifying device renewals with a new Automate",
-    "https://www.emergobyul.com/news/health-canada-policy-registration-clinical-trials-and-public-disclosure-results": "Regulatory Update Aug 18, 2026 Health Canada Policy on the Registration of Clinical Trials and Public Disclosure of Results Learn how Health Canada&#039;s new policy on clinical trial registration and"
+    "https://www.emergobyul.com/news/two-updates-malaysia-mda-automated-re-registration-route-and-hologram-security-label": "Regulatory Update Aug 20, 2026 Two Updates from Malaysia MDA: Automated Re-Registration Route and Hologram Security Label See how Malaysia&#039;s MDA is simplifying device renewals with a new Automate"
    },
-   "textHash": "197hjr4"
+   "textHash": "1do9oc8"
   },
   "din-medizinprodukte-watch": {
    "links": {
