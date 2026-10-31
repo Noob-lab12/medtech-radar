@@ -7769,211 +7769,449 @@
    "summary": "The acquisition, which will give RadNet a new professional services unit, is expected to help hospitals solve challenges with radiology coverage.",
    "published": "2026-10-28T14:00:00.000Z",
    "firstSeen": "2026-10-29T11:00:12.195Z"
+  },
+  "ec-medical-devices::https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en": {
+   "id": "ec-medical-devices::https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+   "source": "ec-medical-devices",
+   "title": "New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use",
+   "link": "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+   "summary": "New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use",
+   "published": "2026-10-30T16:41:53.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en": {
+   "id": "dg-sante::https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+   "source": "dg-sante",
+   "title": "Medical devices",
+   "link": "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+   "summary": "New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use",
+   "published": "2026-10-30T16:44:25.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000326614-general-and-plastic-surgery-and-dentistry-2026-10-29_en": {
+   "id": "dg-sante::https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000326614-general-and-plastic-surgery-and-dentistry-2026-10-29_en",
+   "source": "dg-sante",
+   "title": "Medical devices",
+   "link": "https://health.ec.europa.eu/latest-updates/expert-decision-and-opinion-cecp-emaex0000326614-general-and-plastic-surgery-and-dentistry-2026-10-29_en",
+   "summary": "Expert decision and opinion (CECP-EMA/EX/0000326614) - General and plastic surgery and dentistry",
+   "published": "2026-10-29T16:53:09.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "team-nb::https://www.team-nb.org/team-nb-representatives-speaking-at-team-prrc-annual-summit-2026-in-prague/": {
+   "id": "team-nb::https://www.team-nb.org/team-nb-representatives-speaking-at-team-prrc-annual-summit-2026-in-prague/",
+   "source": "team-nb",
+   "title": "Team-NB with TEAM PRRC 2026 in Prague",
+   "link": "https://www.team-nb.org/team-nb-representatives-speaking-at-team-prrc-annual-summit-2026-in-prague/",
+   "summary": "Team-NB representatives speaking at TEAM PRRC Annual Summit 2026 in Prague Round-table on MDR/IVDR proposal perspectives and the hundred participants in the event. L’article Team-NB with TEAM PRRC 2026 in Prague est apparu en premier sur team-nb.",
+   "published": "2026-10-29T15:14:53.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "mdcg-guidance-watch::https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en": {
+   "id": "mdcg-guidance-watch::https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+   "source": "mdcg-guidance-watch",
+   "title": "New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use",
+   "link": "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en",
+   "summary": "Neu verlinkt auf: MDCG-Guidance-Seite (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm11-2026.html": {
+   "id": "bfarm-presse::https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm11-2026.html",
+   "source": "bfarm-presse",
+   "title": "#MedSafetyWeek – Nebenwirkungen nicht ignorieren, sondern melden",
+   "link": "https://www.bfarm.de/SharedDocs/Pressemitteilungen/DE/2026/pm11-2026.html",
+   "summary": "Pressemitteilung Nr. 11/26 vom 30.10.2026",
+   "published": "2026-10-30T07:45:00.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-18167/388755466": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-18167/388755466",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN 18167:2025-03",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-18167/388755466",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-10322-1/239467711": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-10322-1/239467711",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 10322-1:2016-10",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-10322-1/239467711",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-10322/390033031": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-10322/390033031",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 10322:2025-04",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-10322/390033031",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-10322-2/240094379": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-10322-2/240094379",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 10322-2:2016-08",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-10322-2/240094379",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-15747/303972698": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm/din-en-iso-15747/303972698",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 15747:2019-07",
+   "link": "https://www.dinmedia.de/de/norm/din-en-iso-15747/303972698",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15747/391508460": {
+   "id": "din-medizinprodukte-watch::https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15747/391508460",
+   "source": "din-medizinprodukte-watch",
+   "title": "DIN EN ISO 15747:2025-06",
+   "link": "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15747/391508460",
+   "summary": "Neu verlinkt auf: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22203/essential-drug-delivery-performance-characteristics-for-devices-intended-to-deliver-drugs-and": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22203/essential-drug-delivery-performance-characteristics-for-devices-intended-to-deliver-drugs-and",
+   "source": "federal-register-fda",
+   "title": "Essential Drug Delivery Performance Characteristics for Devices Intended To Deliver Drugs and Biological Products; Revised Draft Guidance for Industry; Availability",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22203/essential-drug-delivery-performance-characteristics-for-devices-intended-to-deliver-drugs-and",
+   "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a revised draft guidance for industry entitled \"Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products.\" This revised draft guidance revises and replaces the draft guidance entitled \"Essential Drug Delivery Outputs Intended to Deliver Drugs and Biological Pr",
+   "published": "2026-10-30",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22182/medical-devices-anesthesiology-devices-classification-of-the-over-the-counter-device-to-assess-risk": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22182/medical-devices-anesthesiology-devices-classification-of-the-over-the-counter-device-to-assess-risk",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Anesthesiology Devices; Classification of the Over-the-Counter Device To Assess Risk of Sleep Apnea",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22182/medical-devices-anesthesiology-devices-classification-of-the-over-the-counter-device-to-assess-risk",
+   "summary": "The Food and Drug Administration (FDA) is classifying the over-the-counter device to assess risk of sleep apnea into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the over-the-counter device to assess risk of sleep apnea. We are taking this action because we have determine",
+   "published": "2026-10-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22181/medical-devices-anesthesiology-devices-classification-of-the-spinal-imaging-system-for-neuraxial": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22181/medical-devices-anesthesiology-devices-classification-of-the-spinal-imaging-system-for-neuraxial",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Anesthesiology Devices; Classification of the Spinal Imaging System for Neuraxial Procedures",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22181/medical-devices-anesthesiology-devices-classification-of-the-spinal-imaging-system-for-neuraxial",
+   "summary": "The Food and Drug Administration (FDA) is classifying the spinal imaging system for neuraxial procedures into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the spinal imaging system for neuraxial procedures. We are taking this action because we have determined that classif",
+   "published": "2026-10-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22180/medical-devices-radiology-devices-classification-of-the-radiology-software-for-referral-of-findings": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22180/medical-devices-radiology-devices-classification-of-the-radiology-software-for-referral-of-findings",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Radiology Devices; Classification of the Radiology Software for Referral of Findings Related to Fibrotic Lung Disease",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22180/medical-devices-radiology-devices-classification-of-the-radiology-software-for-referral-of-findings",
+   "summary": "The Food and Drug Administration (FDA) is classifying the radiology software for referral of findings related to fibrotic lung disease into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the radiology software for referral of findings related to fibrotic lung disease. We ar",
+   "published": "2026-10-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22179/medical-devices-general-and-plastic-surgery-devices-classification-of-the-software-aided-adjunctive": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/10/30/2026-22179/medical-devices-general-and-plastic-surgery-devices-classification-of-the-software-aided-adjunctive",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; General and Plastic Surgery Devices; Classification of the Software-Aided Adjunctive Diagnostic Device for Use by Physicians on Lesions Suspicious for Skin Cancer",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22179/medical-devices-general-and-plastic-surgery-devices-classification-of-the-software-aided-adjunctive",
+   "summary": "The Food and Drug Administration (FDA) is classifying the software-aided adjunctive diagnostic device for use by physicians on lesions suspicious for skin cancer into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the software-aided adjunctive diagnostic device for use by p",
+   "published": "2026-10-30",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "emergo-news-watch::https://www.emergobyul.com/news/confirmation-indefinite-recognition-ce-marked-medical-devices-great-britain": {
+   "id": "emergo-news-watch::https://www.emergobyul.com/news/confirmation-indefinite-recognition-ce-marked-medical-devices-great-britain",
+   "source": "emergo-news-watch",
+   "title": "new Regulatory Update Oct 28, 2026 Confirmation of Indefinite Recognition of CE Marked Medical Devices in Great Britain The MHRA confirms indefinite CE marking recognition in Great Britain and extends",
+   "link": "https://www.emergobyul.com/news/confirmation-indefinite-recognition-ce-marked-medical-devices-great-britain",
+   "summary": "Neu verlinkt auf: Emergo by UL – News (Überwachung)",
+   "published": "2026-10-31T10:29:50.530Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-revises-guidance-on-essential-drug-delivery-device-performance.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-revises-guidance-on-essential-drug-delivery-device-performance.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA revises guidance on essential drug delivery device performance",
+   "link": "https://www.raps.org/resource/fda-revises-guidance-on-essential-drug-delivery-device-performance.html",
+   "summary": "29 Oct 2026 FDA revises guidance on essential drug delivery device performance The US Food and Drug Administration (FDA) issued revised draft guidance on Thursday aimed at assisting sponsors of drug-device combination products in designing and developing essential drug delivery device performance characteristics (EDDCs) for their products.",
+   "published": "2026-10-29T12:00:00.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/hhs-will-permit-compounding-of-six-peptides-ahead-of-formal-rulemaking.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/hhs-will-permit-compounding-of-six-peptides-ahead-of-formal-rulemaking.html",
+   "source": "raps-regulatory-focus",
+   "title": "HHS will permit compounding of six peptides ahead of formal rulemaking",
+   "link": "https://www.raps.org/resource/hhs-will-permit-compounding-of-six-peptides-ahead-of-formal-rulemaking.html",
+   "summary": "29 Oct 2026 HHS will permit compounding of six peptides ahead of formal rulemaking The Department of Health and Human Services (HHS) has announced that it will not take enforcement action against state-licensed pharmacies, federal facilities, or licensed physicians that compound six unapproved peptide bulk drug substances, provided they adhere to specific conditions outlined in an interim policy.",
+   "published": "2026-10-29T12:00:00.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/labcorp-quest-urge-results-act-passage-as-lab-payment-cuts-loom/873315/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/labcorp-quest-urge-results-act-passage-as-lab-payment-cuts-loom/873315/",
+   "source": "medtech-dive",
+   "title": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom",
+   "link": "https://www.medtechdive.com/news/labcorp-quest-urge-results-act-passage-as-lab-payment-cuts-loom/873315/",
+   "summary": "The testing service providers hope the legislation, which would reform the CMS’ reimbursement rate-setting process, can cross the finish line in Congress’ lame-duck session.",
+   "published": "2026-10-30T14:47:59.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/",
+   "source": "medtech-dive",
+   "title": "Stryker lowers 2026 guidance after slowdown in hip, knee procedures",
+   "link": "https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/",
+   "summary": "CEO Kevin Lobo said the slowdown in hip and knee procedures is tied to broader economic concerns. The outgoing CEO also detailed the company’s decision to partner with CMR Surgical.",
+   "published": "2026-10-30T14:23:23.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/fda-posts-alert-about-medline-beds-linked-to-2-deaths/873280/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/fda-posts-alert-about-medline-beds-linked-to-2-deaths/873280/",
+   "source": "medtech-dive",
+   "title": "FDA posts alert about Medline beds linked to 2 deaths",
+   "link": "https://www.medtechdive.com/news/fda-posts-alert-about-medline-beds-linked-to-2-deaths/873280/",
+   "summary": "The company notified customers this month that it will discontinue Medline brand beds and associated products and exit the market.",
+   "published": "2026-10-30T11:31:46.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/",
+   "source": "medtech-dive",
+   "title": "Cooper Companies CEO steps down after activist investor pressure",
+   "link": "https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/",
+   "summary": "Weeks after an investor called for leadership changes, Cooper has parted ways with its CEO and proposed a new-look board of directors.",
+   "published": "2026-10-29T15:58:00.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/3-highlights-from-eys-report-on-2026-medtech-trends/873197/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/3-highlights-from-eys-report-on-2026-medtech-trends/873197/",
+   "source": "medtech-dive",
+   "title": "3 highlights from EY’s report on 2026 medtech trends",
+   "link": "https://www.medtechdive.com/news/3-highlights-from-eys-report-on-2026-medtech-trends/873197/",
+   "summary": "M&A rose, but company valuations declined in the first half of 2026 compared with the year-ago period, according to EY’s Pulse of the Industry report.",
+   "published": "2026-10-29T15:54:53.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-grows-cardiac-portfolio-with-amplatzer-approval-for-valve-leaks/873163/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-grows-cardiac-portfolio-with-amplatzer-approval-for-valve-leaks/873163/",
+   "source": "medtech-dive",
+   "title": "Abbott grows cardiac portfolio with Amplatzer approval for valve leaks",
+   "link": "https://www.medtechdive.com/news/abbott-grows-cardiac-portfolio-with-amplatzer-approval-for-valve-leaks/873163/",
+   "summary": "The first-of-its-kind transcatheter device treats paravalvular leak after valve replacement surgery, to spare the patient from another open-heart surgery.",
+   "published": "2026-10-29T13:36:45.000Z",
+   "firstSeen": "2026-10-31T10:29:50.530Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-23T09:27:44.374Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 11
+   "fetched": 12
   },
   "team-nb": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 46
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
    "lastOk": "2026-10-29T11:00:12.195Z",
    "lastNew": "2026-10-29T11:00:12.195Z",
-   "lastError": null,
+   "lastError": "Request timed out after 20000ms",
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 109
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-09-18T09:06:16.902Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-10-29T11:00:12.195Z",
-   "lastOk": "2026-10-29T11:00:12.195Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-10-31T10:29:50.530Z",
+   "lastOk": "2026-10-31T10:29:50.530Z",
+   "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
-   "fetched": 55
+   "fetched": 61
   }
  },
  "watch": {
@@ -8060,7 +8298,7 @@
     "https://health.ec.europa.eu/document/download/801d2a91-7c99-4710-9302-c0fbcc60f6f6_en?filename=md_mdcg_2020-9_regulatory_requirements_ventilators_en.pdf": "MDCG 2020-9",
     "https://health.ec.europa.eu/document/download/385d7e20-d8b5-49d0-abd7-8daf269bf1b8_en?filename=mdcg_2021-3_en.pdf": "MDCG 2021-3",
     "https://webgate.ec.europa.eu/eudamed-help/?lang=en": "EUDAMED Information Centre",
-    "https://health.ec.europa.eu/document/download/a80332cf-e9f0-4d45-8863-3d96e8c2a675_en?filename=mdcg_2026-4_en.pdf": "MDCG 2026-4",
+    "https://health.ec.europa.eu/document/download/a80332cf-e9f0-4d45-8863-3d96e8c2a675_en?filename=mdcg_2026-4_en.pdf": "MDCG 2026-4 rev.1",
     "https://health.ec.europa.eu/document/download/0e7327c7-0e06-4fbd-90d3-8ab7bb30fe9f_en?filename=md_eudamed-qa_en.pdf": "Gradual roll out of EUDAMED&nbsp;",
     "https://health.ec.europa.eu/document/download/c9008091-8ad7-4449-af75-f4f5a6abc761_en?filename=md_mdcg_2022-12_guidance-admpractice_techsol_eudamed_en_0.pdf": "MDCG 2022-12",
     "https://health.ec.europa.eu/document/download/8e9adf30-71b5-4faf-a8fb-b35ce4804440_en?filename=md_mdcg_2021-13_q-a-actor_registr_eudamed_en.pdf": "MDCG 2021-13 rev.1",
@@ -8186,9 +8424,9 @@
     "https://www.ema.europa.eu/en/human-regulatory/overview/medical-devices": "European Medicines Agency (EMA) Guidance",
     "https://health.ec.europa.eu/document/download/831f9b60-88de-4197-858f-d001c5b0cc26_en?filename=mdcg_scheer_o_064.pdf": "SCHEER guidelines",
     "https://health.ec.europa.eu/document/download/c294046e-b9e5-428a-a837-3620a5a1c27a_en?filename=md_mdcg_camd_mdr_en.pdf": "CAMD FAQ",
+    "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en": "New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use",
     "https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en": "MDCG 2020-16 rev.5 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746 (September 2026)",
     "https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en": "Publication of dashboard version 3.5 for the Study supporting the monitoring of availability of medical devices on the EU market",
-    "https://ec.europa.eu/newsroom/sante/newsletter-archives/77013": "Medical Devices: Delegated acts on well-established technologies published",
     "https://ec.europa.eu/health/medical-devices-sector/latest-updates_en": "See all",
     "https://ec.europa.eu/health/medical-devices-sector/events_en?f%5B0%5D=topic_topic%3A143": "Events",
     "https://ec.europa.eu/health/medical-devices-sector/publications_en?f%5B0%5D=oe_publication_type%3Ahttp%3A//publications.europa.eu/resource/authority/resource-type/PUB_GEN": "Publications",
@@ -8213,7 +8451,7 @@
     "https://commission.europa.eu/legal-notice_en": "Legal notice",
     "https://health.ec.europa.eu/accessibility-statement_en": "Accessibility"
    },
-   "textHash": "hrlus6"
+   "textHash": "qvkak1"
   },
   "harmonised-normen-watch": {
    "links": {
@@ -8433,6 +8671,7 @@
     "https://www.emergobyul.com/resources/ivdr-resource-center": "IVDR Resource Center",
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
+    "https://www.emergobyul.com/news/confirmation-indefinite-recognition-ce-marked-medical-devices-great-britain": "new Regulatory Update Oct 28, 2026 Confirmation of Indefinite Recognition of CE Marked Medical Devices in Great Britain The MHRA confirms indefinite CE marking recognition in Great Britain and extends",
     "https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028": "new Regulatory Update Oct 27, 2026 Mandatory Use of EUDAMED Vigilance Module Delayed Until 2028 The EC has delayed mandatory use of EUDAMED’s VGL module until at least 2028, while the FDA’s transition",
     "https://www.emergobyul.com/news/us-medical-device-distributors-fda-expectations-distributors-and-manufacturers": "Regulatory Update Oct 17, 2026 US Medical Device Distributors: FDA Expectations for Distributors and Manufacturers Learn about FDA expectations for medical device distributors, initial importer respon",
     "https://www.emergobyul.com/news/qmsr-explained-what-fdas-new-quality-management-system-regulation-means-medical-device": "Regulatory Update Oct 15, 2026 QMSR Explained: What FDA’s New Quality Management System Regulation Means for Medical Device Manufacturers Part 1 of our QMSR Explained series explores the U.S. FDA’s Qu",
@@ -8443,19 +8682,24 @@
     "https://www.emergobyul.com/news/bringing-medical-device-us-market-perspectives-and-considerations": "Insights Oct 1, 2026 Bringing a Medical Device to the US Market: Perspectives and Considerations Explore key FDA requirements, regulatory pathways and common challenges for bringing a medical device t",
     "https://www.emergobyul.com/news/eaar-2026-key-eu-regulatory-developments": "Regulatory Update Sep 13, 2026 EAAR 2026: Key EU Regulatory Developments Learn about proposed MDR and IVDR changes, EUDAMED milestones, clinical evidence trends and other key topics discussed...",
     "https://www.emergobyul.com/news/imdrf-publishes-report-implementation-imdrf-guidance": "Regulatory Update Sep 4, 2026 IMDRF Publishes Report on Implementation of IMDRF Guidance Learn how IMDRF members and official observers have implemented IMDRF guidance documents, which guidance is mos",
-    "https://www.emergobyul.com/news/practical-guide-formative-product-evaluations-why-and-when-use": "Insights Sep 1, 2026 A Practical Guide to Formative Product Evaluations: Why and When to Use Learn how formative product evaluations can help medical device teams identify user needs, uncover usabilit",
-    "https://www.emergobyul.com/news/two-updates-malaysia-mda-automated-re-registration-route-and-hologram-security-label": "Regulatory Update Aug 20, 2026 Two Updates from Malaysia MDA: Automated Re-Registration Route and Hologram Security Label See how Malaysia&#039;s MDA is simplifying device renewals with a new Automate"
+    "https://www.emergobyul.com/news/practical-guide-formative-product-evaluations-why-and-when-use": "Insights Sep 1, 2026 A Practical Guide to Formative Product Evaluations: Why and When to Use Learn how formative product evaluations can help medical device teams identify user needs, uncover usabilit"
    },
-   "textHash": "1do9oc8"
+   "textHash": "t3xlto"
   },
   "din-medizinprodukte-watch": {
    "links": {
     "https://www.dinmedia.de/de/norm-entwurf/din-6868-165/406790180": "DIN 6868-165:2026-12 - Entwurf",
     "https://www.dinmedia.de/de/vornorm/din-ts-58194/402020552": "DIN/TS 58194:2026-12",
     "https://www.dinmedia.de/de/norm/din-en-18167/402420919": "DIN EN 18167:2026-12",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-18167/388755466": "DIN EN 18167:2025-03",
     "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-64/402562177": "DIN EN IEC 60601-2-64:2026-12; VDE 0750-2-64:2026-12",
     "https://www.dinmedia.de/de/norm/din-en-iso-10322/402424303": "DIN EN ISO 10322:2026-12",
+    "https://www.dinmedia.de/de/norm/din-en-iso-10322-1/239467711": "DIN EN ISO 10322-1:2016-10",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-10322/390033031": "DIN EN ISO 10322:2025-04",
+    "https://www.dinmedia.de/de/norm/din-en-iso-10322-2/240094379": "DIN EN ISO 10322-2:2016-08",
     "https://www.dinmedia.de/de/norm/din-en-iso-15747/402987705": "DIN EN ISO 15747:2026-12",
+    "https://www.dinmedia.de/de/norm/din-en-iso-15747/303972698": "DIN EN ISO 15747:2019-07",
+    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15747/391508460": "DIN EN ISO 15747:2025-06",
     "https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696": "VDI 5709:2026-12 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-6875-20/406742186": "DIN 6875-20:2026-11 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/din-13068/406157796": "DIN 13068:2026-11 - Entwurf",
@@ -8506,7 +8750,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-19223-1/407323248": "PR NF EN ISO 19223-1:2026-09-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-60601-2-36/407322902": "PR NF EN IEC 60601-2-36:2026-09-04 - Entwurf"
    },
-   "textHash": "2oczza"
+   "textHash": "7q56ns"
   }
  }
 }
