@@ -1887,15 +1887,6 @@
    "published": "2026-05-19T11:06:34.000Z",
    "firstSeen": "2026-07-19T15:27:10.268Z"
   },
-  "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-revision-im-bundesrat-moeglichst-schnelle-neufassung?pk_campaign=src_RSS": {
-   "id": "bvmed-regulatorik::https://www.bvmed.de/verband/presse/pressemeldungen/mdr-revision-im-bundesrat-moeglichst-schnelle-neufassung?pk_campaign=src_RSS",
-   "source": "bvmed-regulatorik",
-   "title": "MDR-Revision am 8. Mai im Bundesrat: „Möglichst schnelle Neufassung“",
-   "link": "https://www.bvmed.de/verband/presse/pressemeldungen/mdr-revision-im-bundesrat-moeglichst-schnelle-neufassung?pk_campaign=src_RSS",
-   "summary": "Der BVMed unterstützt das Anliegen der Bundesrats-Ausschüsse, die Revision der EU-Medizinprodukte-Verordnung (MDR) schnell umzusetzen und insbesondere kleine und mittelständische Unternehmen (KMU) der MedTech-Branche besser zu unterstützen. Die Bundesregierung solle sich auf europäischer Ebene „für eine möglichst schnelle Neufassung“ einsetzen, heißt es in der Beschlussvorlage für die Bundesrats-S",
-   "published": "2026-05-06T05:00:00.000Z",
-   "firstSeen": "2026-07-19T15:27:10.268Z"
-  },
   "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/": {
    "id": "medical-design-outsourcing::https://www.medicaldesignandoutsourcing.com/why-microbot-medical-thinks-it-can-win-the-stroke-telesurgery-race/",
    "source": "medical-design-outsourcing",
@@ -8004,209 +7995,272 @@
    "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
    "published": "2026-11-01T11:24:41.348Z",
    "firstSeen": "2026-11-01T11:24:41.348Z"
+  },
+  "team-nb::https://www.team-nb.org/team-nb-participates-in-team-prrc-2026-in-prague/": {
+   "id": "team-nb::https://www.team-nb.org/team-nb-participates-in-team-prrc-2026-in-prague/",
+   "source": "team-nb",
+   "title": "Team-NB participates in TEAM PRRC 2026 in Prague",
+   "link": "https://www.team-nb.org/team-nb-participates-in-team-prrc-2026-in-prague/",
+   "summary": "ROUND TABLE WITH NOTIFIED BODIES members exchanges on Changes on Annex VII: Pros and Cons related to those changes L’article Team-NB participates in TEAM PRRC 2026 in Prague est apparu en premier sur team-nb.",
+   "published": "2026-10-30T17:00:57.000Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "din-medizinprodukte-watch::change::1y5u55w": {
+   "id": "din-medizinprodukte-watch::change::1y5u55w",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-11-03T12:09:44.277Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-finalizes-cell-and-gene-therapy-potency-guidance.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-finalizes-cell-and-gene-therapy-potency-guidance.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA finalizes cell and gene therapy potency guidance",
+   "link": "https://www.raps.org/resource/fda-finalizes-cell-and-gene-therapy-potency-guidance.html",
+   "summary": "02 Nov 2026 FDA finalizes cell and gene therapy potency guidance In a final guidance issued on Monday, the US Food and Drug Administration (FDA) laid out its expectations for cell and gene therapy (CGT) sponsors to demonstrate that their products meet potency standards through the developer a potency assurance strategy.",
+   "published": "2026-11-02T12:00:00.000Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/mifepristone-study-highlights-need-for-more-transparency-data-collection-in-fda-s-rems-program.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/mifepristone-study-highlights-need-for-more-transparency-data-collection-in-fda-s-rems-program.html",
+   "source": "raps-regulatory-focus",
+   "title": "Mifepristone study highlights need for more transparency, data collection in FDA’s REMS program",
+   "link": "https://www.raps.org/resource/mifepristone-study-highlights-need-for-more-transparency-data-collection-in-fda-s-rems-program.html",
+   "summary": "02 Nov 2026 Mifepristone study highlights need for more transparency, data collection in FDA’s REMS program Patients who reviewed and signed a patient agreement form (PAF) for mifepristone and misoprostol under the US Food and Drug Administration’s (FDA) risk evaluation and mitigation strategy (REMS) program were equally knowledgeable about medication abortion compared to patients who completed a ",
+   "published": "2026-11-02T12:00:00.000Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-dexcom-grapple-with-diabetes-coverage-ahead-of-planned-medicare-exp/873461/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-dexcom-grapple-with-diabetes-coverage-ahead-of-planned-medicare-exp/873461/",
+   "source": "medtech-dive",
+   "title": "Abbott, Dexcom grapple with diabetes coverage ahead of planned Medicare expansion",
+   "link": "https://www.medtechdive.com/news/abbott-dexcom-grapple-with-diabetes-coverage-ahead-of-planned-medicare-exp/873461/",
+   "summary": "Abbott said it is facing pricing pressure and slower growth ahead of a planned coverage expansion for people with Type 2 diabetes. Competitor Dexcom, however, did not experience the same slowdown.",
+   "published": "2026-11-02T16:35:42.000Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/advamed-chair-mick-farrell-shares-his-top-priorities-challenges-for-the-me/873389/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/advamed-chair-mick-farrell-shares-his-top-priorities-challenges-for-the-me/873389/",
+   "source": "medtech-dive",
+   "title": "AdvaMed Chair Mick Farrell shares his top priorities, challenges for the medtech industry",
+   "link": "https://www.medtechdive.com/news/advamed-chair-mick-farrell-shares-his-top-priorities-challenges-for-the-me/873389/",
+   "summary": "In a year where companies are grappling with cyberattacks, inflation and potential tariffs, Farrell, who is also CEO of Resmed, shared a bird’s eye view of the issues.",
+   "published": "2026-11-02T16:20:00.000Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-starts-pivotal-trial-for-mitral-valve-replacement-device/873409/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-starts-pivotal-trial-for-mitral-valve-replacement-device/873409/",
+   "source": "medtech-dive",
+   "title": "Abbott starts pivotal trial for mitral valve replacement device",
+   "link": "https://www.medtechdive.com/news/abbott-starts-pivotal-trial-for-mitral-valve-replacement-device/873409/",
+   "summary": "The study is testing a device that Abbott executives believe can expand the mitral valve market.",
+   "published": "2026-11-02T11:03:15.000Z",
+   "firstSeen": "2026-11-03T12:09:44.277Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 8
+   "fetched": 7
   },
   "team-nb": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastNew": "2026-11-03T12:09:44.277Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
-   "fetched": 46
+   "fetched": 45
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastNew": "2026-11-03T12:09:44.277Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastNew": "2026-11-03T12:09:44.277Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": null,
    "lastError": null,
-   "fetched": 109
+   "fetched": 83
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 233
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-11-01T11:24:41.348Z",
-   "lastOk": "2026-11-01T11:24:41.348Z",
-   "lastNew": "2026-11-01T11:24:41.348Z",
+   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastNew": "2026-11-03T12:09:44.277Z",
    "lastError": null,
    "fetched": 55
   }
@@ -8741,7 +8795,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-19223-1/407323248": "PR NF EN ISO 19223-1:2026-09-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-60601-2-36/407322902": "PR NF EN IEC 60601-2-36:2026-09-04 - Entwurf"
    },
-   "textHash": "160u2n6"
+   "textHash": "1y5u55w"
   }
  }
 }
