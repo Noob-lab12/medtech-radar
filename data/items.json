@@ -8058,209 +8058,317 @@
    "summary": "The study is testing a device that Abbott executives believe can expand the mitral valve market.",
    "published": "2026-11-02T11:03:15.000Z",
    "firstSeen": "2026-11-03T12:09:44.277Z"
+  },
+  "ec-medical-devices::https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en": {
+   "id": "ec-medical-devices::https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en",
+   "source": "ec-medical-devices",
+   "title": "New guidance document MDCG 2026-6 on Guidance on clinical evidence for orphan IVDs",
+   "link": "https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en",
+   "summary": "MDCG 2020-16 rev.5 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746 (September 2026)",
+   "published": "2026-11-03T13:12:51.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "dg-sante::https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec4": {
+   "id": "dg-sante::https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec4",
+   "source": "dg-sante",
+   "title": "Medical devices",
+   "link": "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en#sec4",
+   "summary": "New guidance document - MDCG 2026-6: Clinical evidence for orphan in vitro diagnostic medical devices",
+   "published": "2026-11-03T13:17:11.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "mdcg-guidance-watch::https://health.ec.europa.eu/document/download/3c335d66-18db-4ab2-9fdd-fe552e897200_en?filename=mdcg_2026-6_en.pdf": {
+   "id": "mdcg-guidance-watch::https://health.ec.europa.eu/document/download/3c335d66-18db-4ab2-9fdd-fe552e897200_en?filename=mdcg_2026-6_en.pdf",
+   "source": "mdcg-guidance-watch",
+   "title": "MDCG 2026-6",
+   "link": "https://health.ec.europa.eu/document/download/3c335d66-18db-4ab2-9fdd-fe552e897200_en?filename=mdcg_2026-6_en.pdf",
+   "summary": "Neu verlinkt auf: MDCG-Guidance-Seite (Überwachung)",
+   "published": "2026-11-04T12:22:13.596Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "mdcg-guidance-watch::https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en": {
+   "id": "mdcg-guidance-watch::https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en",
+   "source": "mdcg-guidance-watch",
+   "title": "New guidance document MDCG 2026-6 on Guidance on clinical evidence for orphan IVDs",
+   "link": "https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en",
+   "summary": "Neu verlinkt auf: MDCG-Guidance-Seite (Überwachung)",
+   "published": "2026-11-04T12:22:13.596Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "din-medizinprodukte-watch::change::tlz7zs": {
+   "id": "din-medizinprodukte-watch::change::tlz7zs",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-11-04T12:22:13.596Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "emergo-news-watch::change::15ukx5c": {
+   "id": "emergo-news-watch::change::15ukx5c",
+   "source": "emergo-news-watch",
+   "title": "Seiteninhalt geändert: Emergo by UL – News (Überwachung)",
+   "link": "https://www.emergobyul.com/news",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-11-04T12:22:13.596Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-foreign-unannounced-inspections-in-china-and-india-increased-in-fy-2026.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-foreign-unannounced-inspections-in-china-and-india-increased-in-fy-2026.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA unannounced foreign inspections in China and India increased in FY 2026",
+   "link": "https://www.raps.org/resource/fda-foreign-unannounced-inspections-in-china-and-india-increased-in-fy-2026.html",
+   "summary": "03 Nov 2026 FDA unannounced foreign inspections in China and India increased in FY 2026 BETHESDA, MD – A top US Food and Drug Administration (FDA) enforcement official announced that the agency conducted more unannounced drug inspections in India and China in FY 2026 compared to the previous year.",
+   "published": "2026-11-03T12:00:00.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/stakeholders-offer-competing-feedback-on-how-fda-should-regulate-genai-devices.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/stakeholders-offer-competing-feedback-on-how-fda-should-regulate-genai-devices.html",
+   "source": "raps-regulatory-focus",
+   "title": "GenAI: Stakeholders offer competing views on FDA's regulatory approach",
+   "link": "https://www.raps.org/resource/stakeholders-offer-competing-feedback-on-how-fda-should-regulate-genai-devices.html",
+   "summary": "03 Nov 2026 GenAI: Stakeholders offer competing views on FDA's regulatory approach More than 500 comments have been submitted in response to the US Food and Drug Administration’s (FDA) discussion paper on generative AI (genAI)-enabled medical devices, and stakeholders have offered the agency a wide variety of advice on the best way to regulate these technologies.",
+   "published": "2026-11-03T12:00:00.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/legal-experts-environmental-law-can-be-daunting-but-having-a-plan-helps.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/legal-experts-environmental-law-can-be-daunting-but-having-a-plan-helps.html",
+   "source": "raps-regulatory-focus",
+   "title": "Legal experts: Environmental law can be daunting but having a plan helps",
+   "link": "https://www.raps.org/resource/legal-experts-environmental-law-can-be-daunting-but-having-a-plan-helps.html",
+   "summary": "03 Nov 2026 Legal experts: Environmental law can be daunting but having a plan helps BARCELONA – Navigating Europe’s complex environmental and sustainability legislation can be daunting, but healthcare product manufacturers can take concrete steps to ensure they remain compliant, according to two legal experts who spoke at RAPS Regulatory Intelligence Conference Europe on Tuesday.",
+   "published": "2026-11-03T12:00:00.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873608/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873608/",
+   "source": "medtech-dive",
+   "title": "How should the FDA regulate generative AI in medtech? Here are 5 takes",
+   "link": "https://www.medtechdive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873608/",
+   "summary": "Patients, providers and medtech firms submitted hundreds of comments to the Food and Drug Administration on how the agency should approach generative AI in medical devices.",
+   "published": "2026-11-03T17:09:14.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873558/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873558/",
+   "source": "medtech-dive",
+   "title": "AI vendors, health systems join physicians in liability for clinical AI: AMA",
+   "link": "https://www.medtechdive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873558/",
+   "summary": "The AMA's new issue brief assigns distinct responsibilities to physicians, developers and healthcare organizations, arguing that protecting patients requires accountability from all stakeholders.",
+   "published": "2026-11-03T15:35:00.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/bracco-invests-230m-to-build-us-plant-for-injectable-contrast-media/873539/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/bracco-invests-230m-to-build-us-plant-for-injectable-contrast-media/873539/",
+   "source": "medtech-dive",
+   "title": "Bracco invests $230M to build US plant for injectable contrast media",
+   "link": "https://www.medtechdive.com/news/bracco-invests-230m-to-build-us-plant-for-injectable-contrast-media/873539/",
+   "summary": "The Sanford, North Carolina, facility will become the company’s first manufacturing site for injectable contrast media in the U.S.",
+   "published": "2026-11-03T08:27:33.000Z",
+   "firstSeen": "2026-11-04T12:22:13.596Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "team-nb": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-11-03T12:09:44.277Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-21T09:28:46.779Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 45
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-28T10:42:48.197Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-29T11:00:12.195Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 83
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
-   "fetched": 233
+   "fetched": 234
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-11-03T12:09:44.277Z",
-   "lastOk": "2026-11-03T12:09:44.277Z",
-   "lastNew": "2026-11-03T12:09:44.277Z",
+   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 55
   }
@@ -8309,6 +8417,7 @@
     "https://health.ec.europa.eu/document/download/cbb19821-a517-4e13-bf87-fdc6ddd1782e_en?filename=mdcg_2021-24_en.pdf": "MDCG 2021-24 rev.1",
     "https://health.ec.europa.eu/document/download/2e667094-2eaf-4370-9861-d1a283210da7_en?filename=md_border-class_helsinki-proc-mdr-ivdr_en.pdf": "Helsinki Procedure",
     "https://health.ec.europa.eu/document/download/349a2d4c-ea2a-4279-861c-7c063bc077e4_en?filename=md_guidance-manufacturers_en.pdf": "MDCG 2019-15 rev.1",
+    "https://health.ec.europa.eu/document/download/3c335d66-18db-4ab2-9fdd-fe552e897200_en?filename=mdcg_2026-6_en.pdf": "MDCG 2026-6",
     "https://health.ec.europa.eu/document/download/f22f559b-dee5-43b4-9595-3ccdcca9f7ad_en?filename=mdcg_2025-5_en.pdf": "MDCG 2025-5",
     "https://health.ec.europa.eu/document/download/0e076d19-62dc-4ff9-83f2-be6072a45993_en?filename=mdcg_2024-15_en.pdf": "MDCG 2024-15",
     "https://health.ec.europa.eu/document/download/daa1fc59-9d2c-4e82-878e-d6fdf12ecd1a_en?filename=mdcg_2024-10_en.pdf": "MDCG 2024-10",
@@ -8350,7 +8459,7 @@
     "https://health.ec.europa.eu/document/download/385d7e20-d8b5-49d0-abd7-8daf269bf1b8_en?filename=mdcg_2021-3_en.pdf": "MDCG 2021-3",
     "https://webgate.ec.europa.eu/eudamed-help/?lang=en": "EUDAMED Information Centre",
     "https://health.ec.europa.eu/document/download/a80332cf-e9f0-4d45-8863-3d96e8c2a675_en?filename=mdcg_2026-4_en.pdf": "MDCG 2026-4 rev.1",
-    "https://health.ec.europa.eu/document/download/0e7327c7-0e06-4fbd-90d3-8ab7bb30fe9f_en?filename=md_eudamed-qa_en.pdf": "Gradual roll out of EUDAMED&nbsp;",
+    "https://health.ec.europa.eu/document/download/0e7327c7-0e06-4fbd-90d3-8ab7bb30fe9f_en?filename=md_eudamed-qa_en.pdf": "Gradual roll out of EUDAMED",
     "https://health.ec.europa.eu/document/download/c9008091-8ad7-4449-af75-f4f5a6abc761_en?filename=md_mdcg_2022-12_guidance-admpractice_techsol_eudamed_en_0.pdf": "MDCG 2022-12",
     "https://health.ec.europa.eu/document/download/8e9adf30-71b5-4faf-a8fb-b35ce4804440_en?filename=md_mdcg_2021-13_q-a-actor_registr_eudamed_en.pdf": "MDCG 2021-13 rev.1",
     "https://health.ec.europa.eu/document/download/ea0369a7-d86c-465e-9a54-0c0dfb01bc84_en?filename=2021-1_guidance-administrative-practices_en.pdf": "MDCG 2021-1 rev.1",
@@ -8435,7 +8544,7 @@
     "https://health.ec.europa.eu/document/download/28cff0d2-72c7-48d0-83fb-8e698dc51671_en?filename=md_mdcg_2017_8_nbog_mdr_en.doc": "NBOG F 2017-8",
     "https://health.ec.europa.eu/document/download/d7183af8-a1ef-4f5d-b351-41a34f1a2049_en?filename=md_mdcg_2017_7_nbog_mdr_en.doc": "NBOG F 2017-7",
     "https://health.ec.europa.eu/document/download/463b4f08-44a2-4018-9957-488bf386fc3a_en?filename=md_mdcg_2019_7_guidance_art15_mdr_ivdr_en.pdf": "MDCG 2019-7 - rev.1",
-    "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance/pmsv-reporting-forms_en": "PMSV reporting forms&nbsp;",
+    "https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance/pmsv-reporting-forms_en": "PMSV reporting forms",
     "https://health.ec.europa.eu/document/download/a9ad86b7-1b8e-4bae-beb4-48b2b3ed2f05_en?filename=mdcg_2025-10_en.pdf": "MDCG 2025–10",
     "https://health.ec.europa.eu/document/download/dbd0d748-d646-4274-afaa-399952809389_en?filename=mdcg_2024-1_en.pdf": "MDCG 2024-1",
     "https://health.ec.europa.eu/document/download/e170bdf5-1684-4e24-bfbc-ec34b1ea1b4f_en?filename=mdcg_2024-1-1_en.pdf": "MDCG 2024-1-1",
@@ -8475,9 +8584,9 @@
     "https://www.ema.europa.eu/en/human-regulatory/overview/medical-devices": "European Medicines Agency (EMA) Guidance",
     "https://health.ec.europa.eu/document/download/831f9b60-88de-4197-858f-d001c5b0cc26_en?filename=mdcg_scheer_o_064.pdf": "SCHEER guidelines",
     "https://health.ec.europa.eu/document/download/c294046e-b9e5-428a-a837-3620a5a1c27a_en?filename=md_mdcg_camd_mdr_en.pdf": "CAMD FAQ",
+    "https://health.ec.europa.eu/latest-updates/new-guidance-document-mdcg-2026-6-guidance-clinical-evidence-orphan-ivds-2026-11-03_en": "New guidance document MDCG 2026-6 on Guidance on clinical evidence for orphan IVDs",
     "https://health.ec.europa.eu/latest-updates/new-revision-mdcg-position-paper-management-sscp-eudamed-after-mandatory-use-2026-10-30_en": "New revision of the MDCG Position Paper on the management of SS(C)P in Eudamed after mandatory use",
     "https://health.ec.europa.eu/latest-updates/mdcg-2020-16-rev5-guidance-classification-rules-vitro-diagnostic-medical-devices-under-regulation-eu-2026-09-09_en": "MDCG 2020-16 rev.5 - Guidance on Classification Rules for in vitro Diagnostic Medical Devices under Regulation (EU) 2017/746 (September 2026)",
-    "https://health.ec.europa.eu/latest-updates/monitoring-availability-medical-devices-eu-market-2024-01-09_en": "Publication of dashboard version 3.5 for the Study supporting the monitoring of availability of medical devices on the EU market",
     "https://ec.europa.eu/health/medical-devices-sector/latest-updates_en": "See all",
     "https://ec.europa.eu/health/medical-devices-sector/events_en?f%5B0%5D=topic_topic%3A143": "Events",
     "https://ec.europa.eu/health/medical-devices-sector/publications_en?f%5B0%5D=oe_publication_type%3Ahttp%3A//publications.europa.eu/resource/authority/resource-type/PUB_GEN": "Publications",
@@ -8502,7 +8611,7 @@
     "https://commission.europa.eu/legal-notice_en": "Legal notice",
     "https://health.ec.europa.eu/accessibility-statement_en": "Accessibility"
    },
-   "textHash": "qvkak1"
+   "textHash": "7fw3hj"
   },
   "harmonised-normen-watch": {
    "links": {
@@ -8722,8 +8831,8 @@
     "https://www.emergobyul.com/resources/ivdr-resource-center": "IVDR Resource Center",
     "https://www.emergobyul.com/resources/latam-resource-center": "LATAM Resource Center",
     "https://www.emergobyul.com/resources/asia-resource-center": "Asia Resource Center",
-    "https://www.emergobyul.com/news/confirmation-indefinite-recognition-ce-marked-medical-devices-great-britain": "new Regulatory Update Oct 28, 2026 Confirmation of Indefinite Recognition of CE Marked Medical Devices in Great Britain The MHRA confirms indefinite CE marking recognition in Great Britain and extends",
-    "https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028": "new Regulatory Update Oct 27, 2026 Mandatory Use of EUDAMED Vigilance Module Delayed Until 2028 The EC has delayed mandatory use of EUDAMED’s VGL module until at least 2028, while the FDA’s transition",
+    "https://www.emergobyul.com/news/confirmation-indefinite-recognition-ce-marked-medical-devices-great-britain": "Regulatory Update Oct 28, 2026 Confirmation of Indefinite Recognition of CE Marked Medical Devices in Great Britain The MHRA confirms indefinite CE marking recognition in Great Britain and extends acc",
+    "https://www.emergobyul.com/news/mandatory-use-eudamed-vigilance-module-delayed-until-2028": "Regulatory Update Oct 27, 2026 Mandatory Use of EUDAMED Vigilance Module Delayed Until 2028 The EC has delayed mandatory use of EUDAMED’s VGL module until at least 2028, while the FDA’s transition fro",
     "https://www.emergobyul.com/news/us-medical-device-distributors-fda-expectations-distributors-and-manufacturers": "Regulatory Update Oct 17, 2026 US Medical Device Distributors: FDA Expectations for Distributors and Manufacturers Learn about FDA expectations for medical device distributors, initial importer respon",
     "https://www.emergobyul.com/news/qmsr-explained-what-fdas-new-quality-management-system-regulation-means-medical-device": "Regulatory Update Oct 15, 2026 QMSR Explained: What FDA’s New Quality Management System Regulation Means for Medical Device Manufacturers Part 1 of our QMSR Explained series explores the U.S. FDA’s Qu",
     "https://www.emergobyul.com/news/when-and-why-conduct-user-research-studies-formative-usability-testing-and-human-factors": "Insights Oct 15, 2026 When and Why to Conduct User Research Studies, Formative Usability Testing and Human Factors Validation Testing Learn when medical device usability tests call for user research, ",
@@ -8735,7 +8844,7 @@
     "https://www.emergobyul.com/news/imdrf-publishes-report-implementation-imdrf-guidance": "Regulatory Update Sep 4, 2026 IMDRF Publishes Report on Implementation of IMDRF Guidance Learn how IMDRF members and official observers have implemented IMDRF guidance documents, which guidance is mos",
     "https://www.emergobyul.com/news/practical-guide-formative-product-evaluations-why-and-when-use": "Insights Sep 1, 2026 A Practical Guide to Formative Product Evaluations: Why and When to Use Learn how formative product evaluations can help medical device teams identify user needs, uncover usabilit"
    },
-   "textHash": "t3xlto"
+   "textHash": "15ukx5c"
   },
   "din-medizinprodukte-watch": {
    "links": {
@@ -8795,7 +8904,7 @@
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-19223-1/407323248": "PR NF EN ISO 19223-1:2026-09-08 - Entwurf",
     "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-60601-2-36/407322902": "PR NF EN IEC 60601-2-36:2026-09-04 - Entwurf"
    },
-   "textHash": "1y5u55w"
+   "textHash": "tlz7zs"
   }
  }
 }
