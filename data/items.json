@@ -8166,211 +8166,458 @@
    "summary": "The Sanford, North Carolina, facility will become the company’s first manufacturing site for injectable contrast media in the U.S.",
    "published": "2026-11-03T08:27:33.000Z",
    "firstSeen": "2026-11-04T12:22:13.596Z"
+  },
+  "harmonised-normen-watch::change::zqljh": {
+   "id": "harmonised-normen-watch::change::zqljh",
+   "source": "harmonised-normen-watch",
+   "title": "Seiteninhalt geändert: Harmonisierte Normen – Amtsblatt-Liste (Überwachung)",
+   "link": "https://single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards/medical-devices_en",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-11-06T12:19:21.780Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/11/05/medtech-europe-in-the-headlines-in-october-2026/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/11/05/medtech-europe-in-the-headlines-in-october-2026/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe in the headlines in October 2026",
+   "link": "https://www.medtecheurope.org/2026/11/05/medtech-europe-in-the-headlines-in-october-2026/",
+   "summary": "October media coverage highlighted MedTech Europe’s call for a single regulatory pathway for AI-enabled medical technologies, efforts to reduce regulatory duplication and accelerate patient access to innovation, as well as its support for a shift towards value-based public procurement that prioritises quality alongside cost. The publication of the Facts & Figures 2026 report also generated broad [",
+   "published": "2026-11-05T07:30:06.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/11/05/medtech-europe-joins-eu-trade-ministers-for-life-sciences-dialogue-in-dublin/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/11/05/medtech-europe-joins-eu-trade-ministers-for-life-sciences-dialogue-in-dublin/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe joins EU trade ministers for life sciences dialogue in Dublin",
+   "link": "https://www.medtecheurope.org/2026/11/05/medtech-europe-joins-eu-trade-ministers-for-life-sciences-dialogue-in-dublin/",
+   "summary": "On 22 October 2026, MedTech Europe and Irish Medtech represented the European medical technology industry at a High-Level Strategic Dialogue on Life Sciences in Dublin. Hosted by the Irish Presidency and convened by Minister Helen McEntee, the meeting brought together EU trade ministers, European Commissioner Maroš Šefčovič and life sciences representatives to discuss Europe’s competitiveness. […]",
+   "published": "2026-11-05T07:00:58.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/11/05/a-week-of-transatlantic-engagement-for-medtech-europe/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/11/05/a-week-of-transatlantic-engagement-for-medtech-europe/",
+   "source": "medtech-europe",
+   "title": "A week of transatlantic engagement for MedTech Europe",
+   "link": "https://www.medtecheurope.org/2026/11/05/a-week-of-transatlantic-engagement-for-medtech-europe/",
+   "summary": "In October 2026, a MedTech Europe delegation travelled to Boston and Washington DC, to attend The MedTech Conference, co-chair the Global Medical Technology Alliance (GMTA) General Assembly and meet with US and EU officials. The visit combined exchanges with international industry partners and discussions on regulatory and trade developments affecting the medical technology sector. At […] The post",
+   "published": "2026-11-05T07:00:26.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-europe::https://www.medtecheurope.org/2026/10/01/medtech-europe-in-the-headlines-in-september-2026/": {
+   "id": "medtech-europe::https://www.medtecheurope.org/2026/10/01/medtech-europe-in-the-headlines-in-september-2026/",
+   "source": "medtech-europe",
+   "title": "MedTech Europe in the headlines in September 2026",
+   "link": "https://www.medtecheurope.org/2026/10/01/medtech-europe-in-the-headlines-in-september-2026/",
+   "summary": "In September, MedTech Europe featured prominently in coverage of the MDR/IVDR revision, setting out its positions on the IVDR, single-use devices and AI-enabled medical devices. Coverage also centred heavily on the EU’s proposed Public Procurement Regulation, with MedTech Europe welcoming the shift towards value-based procurement while warning against “Made in Europe” requirements. Further coverag",
+   "published": "2026-10-01T07:33:28.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "eu-ai-office::https://interoperable-europe.ec.europa.eu/interoperable-europe/news/ai-toolbox-support-public-administrations-adopting-ai": {
+   "id": "eu-ai-office::https://interoperable-europe.ec.europa.eu/interoperable-europe/news/ai-toolbox-support-public-administrations-adopting-ai",
+   "source": "eu-ai-office",
+   "title": "AI toolbox supports public administrations to put the Apply AI Strategy into practice",
+   "link": "https://interoperable-europe.ec.europa.eu/interoperable-europe/news/ai-toolbox-support-public-administrations-adopting-ai",
+   "summary": "Public administrations looking to adopt artificial intelligence can find practical tools, guidance and examples in the AI toolbox for the European public sector, available on the Interoperable Europe portal. The toolbox supports the implementation of the European Commission’s Apply AI Strategy by helping administrations identify resources they can use and adapt to their needs.",
+   "published": "2026-11-05T14:27:59.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964062": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964062",
+   "source": "eu-ai-office",
+   "title": "Finland: DNA joins national project to develop artificial intelligence-based 6G radio network technology",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/964062",
+   "summary": "Finnish operator DNA has joined a EUR 1.4 million research project to develop and test artificial intelligence-native 6G radio access network (RAN) technology.",
+   "published": "2026-10-26T11:17:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964058": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964058",
+   "source": "eu-ai-office",
+   "title": "Finland: Elisa completes live-network artificial intelligence radio access network trial with Nokia and Nvidia",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/964058",
+   "summary": "Elisa has completed a live-network trial of artificial intelligence-enhanced radio access network (RAN) technology, targeting commercial services in 2027.",
+   "published": "2026-10-21T10:17:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964066": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964066",
+   "source": "eu-ai-office",
+   "title": "United States: T-Mobile, Nokia and Nvidia complete first artificial intelligence radio access network call on a commercial network",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/964066",
+   "summary": "T-Mobile, Nokia and Nvidia report the world's first artificial intelligence radio access network (RAN) call on a live commercial mobile network.",
+   "published": "2026-10-21T10:17:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964076": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/964076",
+   "source": "eu-ai-office",
+   "title": "United Kingdom: O2 and Nokia complete first live deployment of artificial intelligence-powered 5G radio access network technology",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/964076",
+   "summary": "O2 and Nokia have deployed artificial intelligence-powered 5G radio access network technology, reporting a 20% improvement in spectral efficiency.",
+   "published": "2026-10-27T11:17:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "din-medizinprodukte-watch::change::mpv11h": {
+   "id": "din-medizinprodukte-watch::change::mpv11h",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-11-06T12:19:21.780Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/11/06/2026-22657/medical-devices-ear-nose-and-throat-devices-classification-of-the-external-mechanical-stimulator-for": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/11/06/2026-22657/medical-devices-ear-nose-and-throat-devices-classification-of-the-external-mechanical-stimulator-for",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Ear, Nose, and Throat Devices; Classification of the External Mechanical Stimulator for the Relief of Congestion",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22657/medical-devices-ear-nose-and-throat-devices-classification-of-the-external-mechanical-stimulator-for",
+   "summary": "The Food and Drug Administration (FDA) is classifying the external mechanical stimulator for the relief of congestion into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the external mechanical stimulator for the relief of congestion. We are taking this action because we ha",
+   "published": "2026-11-06",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the digital cervical cytology slide imaging system with artificial intelligenc",
+   "published": "2026-11-05",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/11/05/2026-22590/medical-devices-neurological-devices-classification-of-the-prognostic-assessment-software-of-mild": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/11/05/2026-22590/medical-devices-neurological-devices-classification-of-the-prognostic-assessment-software-of-mild",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Neurological Devices; Classification of the Prognostic Assessment Software of Mild Cognitive Impairment",
+   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22590/medical-devices-neurological-devices-classification-of-the-prognostic-assessment-software-of-mild",
+   "summary": "The Food and Drug Administration (FDA) is classifying the prognostic assessment software of mild cognitive impairment into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the prognostic assessment software of mild cognitive impairment. We are taking this action because we ha",
+   "published": "2026-11-05",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "federal-register-fda::https://www.federalregister.gov/documents/2026/11/05/2026-22589/medical-devices-orthopedic-devices-classification-of-the-wearable-vibration-device-for-orthopedic": {
+   "id": "federal-register-fda::https://www.federalregister.gov/documents/2026/11/05/2026-22589/medical-devices-orthopedic-devices-classification-of-the-wearable-vibration-device-for-orthopedic",
+   "source": "federal-register-fda",
+   "title": "Medical Devices; Orthopedic Devices; Classification of the Wearable Vibration Device for Orthopedic Use",
+   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22589/medical-devices-orthopedic-devices-classification-of-the-wearable-vibration-device-for-orthopedic",
+   "summary": "The Food and Drug Administration (FDA) is classifying the wearable vibration device for orthopedic use into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the wearable vibration device for orthopedic use. We are taking this action because we have determined that classifying",
+   "published": "2026-11-05",
+   "typeHint": "rechtsakt",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "mhra-news::https://www.gov.uk/government/news/mhra-sets-out-approach-to-strengthen-patient-and-public-involvement-and-engagement-in-medicines-and-medical-device-regulation": {
+   "id": "mhra-news::https://www.gov.uk/government/news/mhra-sets-out-approach-to-strengthen-patient-and-public-involvement-and-engagement-in-medicines-and-medical-device-regulation",
+   "source": "mhra-news",
+   "title": "MHRA sets out approach to strengthen patient and public involvement and engagement in medicines and medical device regulation",
+   "link": "https://www.gov.uk/government/news/mhra-sets-out-approach-to-strengthen-patient-and-public-involvement-and-engagement-in-medicines-and-medical-device-regulation",
+   "summary": "New plan will broaden participation and make clearer how patient experience informs regulatory decisions, safety and innovation",
+   "published": "2026-11-05T16:00:04.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/experts-call-for-streamlined-eu-ai-framework-urge-greater-literacy.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/experts-call-for-streamlined-eu-ai-framework-urge-greater-literacy.html",
+   "source": "raps-regulatory-focus",
+   "title": "Experts call for streamlined EU AI framework, urge greater literacy",
+   "link": "https://www.raps.org/resource/experts-call-for-streamlined-eu-ai-framework-urge-greater-literacy.html",
+   "summary": "05 Nov 2026 Experts call for streamlined EU AI framework, urge greater literacy BARCELONA – Experts called for a more streamlined framework for artificial intelligence (AI) for healthcare products in Europe and urged regulatory professionals to increase their AI literacy, while cautioning against overreliance on the technology, during a panel discussion at the RAPS AI in Regulatory Conference.",
+   "published": "2026-11-05T12:00:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-official-expects-user-fee-reauthorization-despite-midterm-shakeup.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-official-expects-user-fee-reauthorization-despite-midterm-shakeup.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA official expects user fee reauthorization despite midterm shakeup",
+   "link": "https://www.raps.org/resource/fda-official-expects-user-fee-reauthorization-despite-midterm-shakeup.html",
+   "summary": "05 Nov 2026 FDA official expects user fee reauthorization despite midterm shakeup BETHESDA, MD – A top US Food and Drug Administration (FDA) official stated that the midterm congressional election results will not likely impact the reauthorization of the agency’s user fee agreements, which have been negotiated for FY 2028-2032.",
+   "published": "2026-11-05T12:00:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/ai-won-t-erase-jobs-but-regulatory-professionals-need-to-be-vigilant-experts-say.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/ai-won-t-erase-jobs-but-regulatory-professionals-need-to-be-vigilant-experts-say.html",
+   "source": "raps-regulatory-focus",
+   "title": "AI won’t erase jobs, but regulatory professionals need to be vigilant, experts say",
+   "link": "https://www.raps.org/resource/ai-won-t-erase-jobs-but-regulatory-professionals-need-to-be-vigilant-experts-say.html",
+   "summary": "04 Nov 2026 AI won’t erase jobs, but regulatory professionals need to be vigilant, experts say BARCELONA – As artificial intelligence (AI) permeates the regulatory world, experts said it won't take over regulatory professionals' jobs but will instead help them work more efficiently and dedicate more time on human interactions. However, they said it is the responsibility of regulatory professionals",
+   "published": "2026-11-04T12:00:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-official-urges-sponsors-to-use-alternatives-to-clinical-efficacy-studies-for-biosimilars.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-official-urges-sponsors-to-use-alternatives-to-clinical-efficacy-studies-for-biosimilars.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA official urges sponsors to use alternatives to clinical efficacy studies for biosimilars",
+   "link": "https://www.raps.org/resource/fda-official-urges-sponsors-to-use-alternatives-to-clinical-efficacy-studies-for-biosimilars.html",
+   "summary": "04 Nov 2026 FDA official urges sponsors to use alternatives to clinical efficacy studies for biosimilars BETHESDA, MD – Sarah Yim, director of the US Food and Drug Administration’s (FDA) Office of Therapeutic Biologics and Biosimilars in the Office of New Drugs, emphasized that the agency is actively working to help sponsors reduce their reliance on clinical efficacy studies to demonstrate that a ",
+   "published": "2026-11-04T12:00:00.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "johner-blog::https://www.johner-institut.de/blog/regulatory-affairs/post-market-surveillance/": {
+   "id": "johner-blog::https://www.johner-institut.de/blog/regulatory-affairs/post-market-surveillance/",
+   "source": "johner-blog",
+   "title": "Post-Market Surveillance und Überwachung der Produkte im Markt",
+   "link": "https://www.johner-institut.de/blog/regulatory-affairs/post-market-surveillance/",
+   "summary": "Unter Post-Market Surveillance (Überwachung nach der Inverkehrbringung) versteht man einen proaktiven und systematischen Prozess, um aus Informationen über Medizinprodukte, die bereits in Verkehr gebracht wurden, notwendige Korrektur- und Vorbeugemaßnahmen (CAPA, corrective and preventive action) abzuleiten. Wir haben für Sie eine Checkliste zur Post-Market-Surveillance erstellt. Mit dieser Checkl",
+   "published": "2026-11-05T13:35:26.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/edwards-bumps-up-sales-forecast-on-tavr-strength-in-q3/873876/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/edwards-bumps-up-sales-forecast-on-tavr-strength-in-q3/873876/",
+   "source": "medtech-dive",
+   "title": "Edwards bumps up sales forecast on TAVR strength in Q3",
+   "link": "https://www.medtechdive.com/news/edwards-bumps-up-sales-forecast-on-tavr-strength-in-q3/873876/",
+   "summary": "Going forward, the heart valve maker expects procedure volumes to rise following positive study data and expanded Medicare reimbursement.",
+   "published": "2026-11-05T16:02:26.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/boston-scientific-blackstone-agree-to-455m-deal-to-co-fund-heart-pump-dev/873686/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/boston-scientific-blackstone-agree-to-455m-deal-to-co-fund-heart-pump-dev/873686/",
+   "source": "medtech-dive",
+   "title": "Boston Scientific, Blackstone agree to $455M deal to co-fund heart pump development",
+   "link": "https://www.medtechdive.com/news/boston-scientific-blackstone-agree-to-455m-deal-to-co-fund-heart-pump-dev/873686/",
+   "summary": "As part of the agreement, Blackstone may receive regulatory and commercial milestone payments, plus royalties on net sales.",
+   "published": "2026-11-05T11:04:37.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/minimed-names-david-segal-chief-medical-officer/873834/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/minimed-names-david-segal-chief-medical-officer/873834/",
+   "source": "medtech-dive",
+   "title": "MiniMed names David Segal chief medical officer",
+   "link": "https://www.medtechdive.com/news/minimed-names-david-segal-chief-medical-officer/873834/",
+   "summary": "Segal is succeeding Robert Vigersky, who is transitioning to a chief medical officer emeritus role ahead of his planned retirement at the end of next year.",
+   "published": "2026-11-05T10:51:49.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/zimmer-raises-sales-forecast-despite-slower-knee-business/873760/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/zimmer-raises-sales-forecast-despite-slower-knee-business/873760/",
+   "source": "medtech-dive",
+   "title": "Zimmer raises sales forecast despite slower knee business",
+   "link": "https://www.medtechdive.com/news/zimmer-raises-sales-forecast-despite-slower-knee-business/873760/",
+   "summary": "CEO Ivan Tornos did not attribute the company’s performance in knees to a broader market slowdown, as competitor Stryker did last week.",
+   "published": "2026-11-04T17:30:43.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/",
+   "source": "medtech-dive",
+   "title": "Philips settles with DOJ over recalled CPAP machines",
+   "link": "https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/",
+   "summary": "Philips will pay 288 million euros to settle an investigation related to its recall of millions of sleep and respiratory devices.",
+   "published": "2026-11-04T16:13:34.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/",
+   "source": "medtech-dive",
+   "title": "3 takeaways from TCT 2026",
+   "link": "https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/",
+   "summary": "Edwards’ TAVR results in moderate aortic stenosis drew applause from meeting attendees, while Medtronic’s renal denervation and Abbott’s left atrial appendage closure devices also produced positive study findings.",
+   "published": "2026-11-04T16:10:49.000Z",
+   "firstSeen": "2026-11-06T12:19:21.780Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "dg-sante": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 7
   },
   "team-nb": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-11-03T12:09:44.277Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-10-31T10:29:50.530Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-10-21T09:28:46.779Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 45
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-10-28T10:42:48.197Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-10-29T11:00:12.195Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 83
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 234
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": null,
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
-   "fetched": 126
+   "fetched": 125
   },
   "zlg-watch": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
    "lastNew": "2026-11-04T12:22:13.596Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-11-04T12:22:13.596Z",
-   "lastOk": "2026-11-04T12:22:13.596Z",
-   "lastNew": "2026-11-04T12:22:13.596Z",
+   "lastAttempt": "2026-11-06T12:19:21.780Z",
+   "lastOk": "2026-11-06T12:19:21.780Z",
+   "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
-   "fetched": 55
+   "fetched": 0
   }
  },
  "watch": {
@@ -8646,8 +8893,8 @@
     "https://single-market-economy.ec.europa.eu/single-market/strategy_en": "Single market strategy",
     "https://single-market-economy.ec.europa.eu/single-market/goods_en": "Single market for goods",
     "https://single-market-economy.ec.europa.eu/single-market/services_en": "Single market for services",
-    "https://single-market-economy.ec.europa.eu/single-market/internal-market-emergency-and-resilience-act_en": "Internal Market Emergency and Resilience Act",
     "https://single-market-economy.ec.europa.eu/single-market/chief-economist-business-intelligence-unit_en": "The Chief Economist &amp; Business Intelligence Unit",
+    "https://single-market-economy.ec.europa.eu/single-market/internal-market-emergency-and-resilience-act_en": "Internal Market Emergency and Resilience Act",
     "https://single-market-economy.ec.europa.eu/single-market/simplification_en": "Single market simplification",
     "https://commission.europa.eu/funding-tenders/find-funding/eu-funding-programmes/single-market-programme/overview_en": "Single Market Programme (SMP)",
     "https://single-market-economy.ec.europa.eu/single-market/public-procurement_en": "Public procurement",
@@ -8727,7 +8974,6 @@
     "https://single-market-economy.ec.europa.eu/contact-us_en": "Contact our DG",
     "https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/internal-market-industry-entrepreneurship-and-smes_en": "Our department",
     "https://commission.europa.eu/jobs-european-commission_en": "Jobs at the European Commission",
-    "https://single-market-economy.ec.europa.eu/vacancies_en": "Vacancies at this department",
     "https://ec.social-network.europa.eu/@EUCommission": "Mastodon",
     "http://www.linkedin.com/company/european-commission": "LinkedIn",
     "https://bsky.app/profile/ec.europa.eu": "Bluesky",
@@ -8742,7 +8988,7 @@
     "https://commission.europa.eu/legal-notice_en": "Legal notice",
     "https://single-market-economy.ec.europa.eu/accessibility-statement_en": "Accessibility"
    },
-   "textHash": "11f2anr"
+   "textHash": "zqljh"
   },
   "zlg-watch": {
    "links": {
@@ -8847,64 +9093,8 @@
    "textHash": "15ukx5c"
   },
   "din-medizinprodukte-watch": {
-   "links": {
-    "https://www.dinmedia.de/de/norm-entwurf/din-6868-165/406790180": "DIN 6868-165:2026-12 - Entwurf",
-    "https://www.dinmedia.de/de/vornorm/din-ts-58194/402020552": "DIN/TS 58194:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-18167/402420919": "DIN EN 18167:2026-12",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-18167/388755466": "DIN EN 18167:2025-03",
-    "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-64/402562177": "DIN EN IEC 60601-2-64:2026-12; VDE 0750-2-64:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10322/402424303": "DIN EN ISO 10322:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10322-1/239467711": "DIN EN ISO 10322-1:2016-10",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-10322/390033031": "DIN EN ISO 10322:2025-04",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10322-2/240094379": "DIN EN ISO 10322-2:2016-08",
-    "https://www.dinmedia.de/de/norm/din-en-iso-15747/402987705": "DIN EN ISO 15747:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-iso-15747/303972698": "DIN EN ISO 15747:2019-07",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15747/391508460": "DIN EN ISO 15747:2025-06",
-    "https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696": "VDI 5709:2026-12 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-6875-20/406742186": "DIN 6875-20:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-13068/406157796": "DIN 13068:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-ieee-11073-10441/406352403": "DIN EN ISO/IEEE 11073-10441:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-7396-1/407019617": "DIN EN ISO 7396-1:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11608-1/402651434": "DIN EN ISO 11608-1:2026-11",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11608-3/402424352": "DIN EN ISO 11608-3:2026-11",
-    "https://www.dinmedia.de/de/norm/din-en-iso-16571/402770108": "DIN EN ISO 16571:2026-11",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-26782/406858590": "DIN EN ISO 26782:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30499701-dc/407356852": "26/30499701 DC:2026-10-05 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30545370-dc/407360451": "26/30545370 DC:2026-10-02 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-ieee-11073-10441/406876085": "OENORM EN ISO/IEEE 11073-10441:2026-10-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-5364/406878432": "OENORM EN ISO 5364:2026-10-01",
-    "https://www.dinmedia.de/de/norm/oeve-oenorm-en-iso-80369-1/406875508": "OEVE/OENORM EN ISO 80369-1:2026-10-01",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5359/406117894": "DIN EN ISO 5359:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-5361/404474255": "DIN EN ISO 5361:2026-10",
-    "https://www.dinmedia.de/de/norm/din-en-iso-5364/403359946": "DIN EN ISO 5364:2026-10",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-18082/405925949": "DIN EN ISO 18082:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-19223-1/405360305": "DIN EN ISO 19223-1:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-80369-1/402764369": "DIN EN ISO 80369-1:2026-10",
-    "https://www.dinmedia.de/de/norm/din-en-iso-80601-2-70/398253848": "DIN EN ISO 80601-2-70:2026-10",
-    "https://www.dinmedia.de/de/norm/iso-5833/407192760": "ISO 5833:2026-10",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-7886-1/407457972": "ISO/FDIS 7886-1:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-8537/407457961": "ISO/FDIS 8537:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/vornorm/iso-ts-22358/407458500": "ISO/TS 22358:2026-10",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-26782/407192177": "ISO/DIS 26782:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30497925-dc/407356408": "26/30497925 DC:2026-09-30 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30546943-dc/407360622": "26/30546943 DC:2026-09-25 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30546947-dc/407360652": "26/30546947 DC:2026-09-25 - Entwurf",
-    "https://www.dinmedia.de/de/vornorm/abnt-iso-ts-6838/407015979": "ABNT ISO/TS 6838:2026-09-23",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-19980/407324461": "PR NF EN ISO 19980:2026-09-23 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30571484-dc/407364826": "26/30571484 DC:2026-09-18 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30497937-dc/407356437": "26/30497937 DC:2026-09-16 - Entwurf",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-11979-1/406876309": "OENORM EN ISO 11979-1:2026-09-15",
-    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-13356/406876096": "OENORM EN ISO 13356:2026-09-15 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30497163-dc/407356309": "26/30497163 DC:2026-09-15 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-7396-1/407323958": "PR NF EN ISO 7396-1:2026-09-14 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-14729/407323599": "PR NF EN ISO 14729:2026-09-12 - Entwurf",
-    "https://www.dinmedia.de/de/norm/abnt-nbr-iso-18242-emenda-1/407015609": "ABNT NBR ISO 18242 Emenda 1:2026-09-11",
-    "https://www.dinmedia.de/de/norm/nf-iso-16436-1/407321576": "NF ISO 16436-1:2026-09-11",
-    "https://www.dinmedia.de/de/norm/abnt-nbr-17289/407015426": "ABNT NBR 17289:2026-09-08",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-19223-1/407323248": "PR NF EN ISO 19223-1:2026-09-08 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iec-60601-2-36/407322902": "PR NF EN IEC 60601-2-36:2026-09-04 - Entwurf"
-   },
-   "textHash": "tlz7zs"
+   "links": {},
+   "textHash": "mpv11h"
   }
  }
 }
