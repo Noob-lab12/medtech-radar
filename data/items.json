@@ -9176,211 +9176,274 @@
    "summary": "The Series D round will support commercialization of Galvanize’s soft-tissue ablation platform and development of a chronic bronchitis device.",
    "published": "2026-11-17T11:21:54.000Z",
    "firstSeen": "2026-11-18T13:17:15.449Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/966386": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/966386",
+   "source": "eu-ai-office",
+   "title": "Slovakia: Telefónica to deploy private 5G network for defence experimentation centre",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/966386",
+   "summary": "Telefónica has been selected to deploy and operate a private 5G network at a new defence experimentation centre in Slovakia, supporting trials involving artificial intelligence, extended reality and counter-drone technologies.",
+   "published": "2026-11-10T11:17:00.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/966395": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/966395",
+   "source": "eu-ai-office",
+   "title": "Finland: Nokia donates €1.5 million to Aalto University for AI and 6G research",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/966395",
+   "summary": "Nokia has announced a €1.5 million donation to Aalto University and an increase in annual joint research funding to approximately €1.3 million, focusing on artificial intelligence, 6G and advanced network technologies.",
+   "published": "2026-11-12T11:17:00.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/senseonics-beta-bionics-integrate-diabetes-technology/875120/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/senseonics-beta-bionics-integrate-diabetes-technology/875120/",
+   "source": "medtech-dive",
+   "title": "Senseonics, Beta Bionics integrate diabetes technology",
+   "link": "https://www.medtechdive.com/news/senseonics-beta-bionics-integrate-diabetes-technology/875120/",
+   "summary": "The collaboration, combining Senseonics’ implantable glucose sensor with Beta Bionics’ insulin pump, is intended to simplify diabetes management.",
+   "published": "2026-11-18T20:56:51.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/875020/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/875020/",
+   "source": "medtech-dive",
+   "title": "Health AI spend doubles as providers invest in clinical copilots, front-office AI",
+   "link": "https://www.medtechdive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/875020/",
+   "summary": "As healthcare AI spending increases, providers are investing in use cases outside ambient scribing and increasingly evaluating clinical and administrative tools from startups.",
+   "published": "2026-11-18T19:00:00.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/875070/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/875070/",
+   "source": "medtech-dive",
+   "title": "White House pulls nomination for FDA nominee Overton",
+   "link": "https://www.medtechdive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/875070/",
+   "summary": "The sudden end of Heidi Overton’s candidacy likely ensures a Democrat-controlled Congress will choose the FDA’s next leader — but shouldn’t disrupt the agency, analysts say.",
+   "published": "2026-11-18T17:19:00.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/remedy-robotics-raises-62m-capstans-mitral-replacement-robot-progresses/875061/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/remedy-robotics-raises-62m-capstans-mitral-replacement-robot-progresses/875061/",
+   "source": "medtech-dive",
+   "title": "Remedy Robotics raises $62M; Capstan’s mitral replacement robot progresses",
+   "link": "https://www.medtechdive.com/news/remedy-robotics-raises-62m-capstans-mitral-replacement-robot-progresses/875061/",
+   "summary": "Remedy plans a pivotal trial and has its sights on bringing to market a system for neurovascular intervention, while Capstan Medical performed the first U.S. transcatheter mitral valve replacement with its investigational robot.",
+   "published": "2026-11-18T16:33:18.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/science-corporation-raises-400m-to-commercialize-bci-device/875009/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/science-corporation-raises-400m-to-commercialize-bci-device/875009/",
+   "source": "medtech-dive",
+   "title": "Science Corporation raises $400M to commercialize BCI device",
+   "link": "https://www.medtechdive.com/news/science-corporation-raises-400m-to-commercialize-bci-device/875009/",
+   "summary": "The device, which Science has launched in Europe, is designed to restore the sight of people with some forms of vision loss.",
+   "published": "2026-11-18T10:47:15.000Z",
+   "firstSeen": "2026-11-19T13:40:42.094Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 8
   },
   "dg-sante": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 6
   },
   "team-nb": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-17T13:42:31.231Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-17T13:42:31.231Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 45
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
    "lastError": "Status code 404",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-18T13:17:15.449Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
-   "lastNew": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
+   "lastNew": "2026-11-19T13:40:42.094Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
-   "lastNew": "2026-11-17T13:42:31.231Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
+   "lastNew": "2026-11-19T13:40:42.094Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 83
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 235
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-11-18T13:17:15.449Z",
-   "lastOk": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-19T13:40:42.094Z",
+   "lastOk": "2026-11-19T13:40:42.094Z",
    "lastNew": "2026-11-18T13:17:15.449Z",
    "lastError": null,
-   "fetched": 58
+   "fetched": 0
   }
  },
  "watch": {
@@ -9858,67 +9921,8 @@
    "textHash": "ugraqx"
   },
   "din-medizinprodukte-watch": {
-   "links": {
-    "https://www.dinmedia.de/de/norm-entwurf/din-6854/407828197": "DIN 6854:2027-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-6868-168/406790312": "DIN 6868-168:2027-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-8871-2/407999595": "DIN EN ISO 8871-2:2027-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-8980-3/406052506": "DIN EN ISO 8980-3:2027-01",
-    "https://www.dinmedia.de/de/norm-entwurf/din-6868-165/406790180": "DIN 6868-165:2026-12 - Entwurf",
-    "https://www.dinmedia.de/de/vornorm/din-ts-58194/402020552": "DIN/TS 58194:2026-12",
-    "https://www.dinmedia.de/de/vornorm/din-ts-58194/344010644": "DIN/TS 58194:2021-12",
-    "https://www.dinmedia.de/de/vornorm-entwurf/din-ts-58194/394693110": "DIN/TS 58194:2025-10",
-    "https://www.dinmedia.de/de/norm/din-en-18167/402420919": "DIN EN 18167:2026-12",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-18167/388755466": "DIN EN 18167:2025-03",
-    "https://www.dinmedia.de/de/norm/din-en-iec-60601-2-64/402562177": "DIN EN IEC 60601-2-64:2026-12; VDE 0750-2-64:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10322/402424303": "DIN EN ISO 10322:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10322-1/239467711": "DIN EN ISO 10322-1:2016-10",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-10322/390033031": "DIN EN ISO 10322:2025-04",
-    "https://www.dinmedia.de/de/norm/din-en-iso-10322-2/240094379": "DIN EN ISO 10322-2:2016-08",
-    "https://www.dinmedia.de/de/norm/din-en-iso-15747/402987705": "DIN EN ISO 15747:2026-12",
-    "https://www.dinmedia.de/de/norm/din-en-iso-15747/303972698": "DIN EN ISO 15747:2019-07",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-15747/391508460": "DIN EN ISO 15747:2025-06",
-    "https://www.dinmedia.de/de/technische-regel-entwurf/vdi-5709/405532696": "VDI 5709:2026-12 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-26782/408166686": "OENORM EN ISO 26782:2026-11-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm/ove-en-iec-60601-2-57/408169418": "OVE EN IEC 60601-2-57:2026-11-01",
-    "https://www.dinmedia.de/de/norm-entwurf/din-6875-20/406742186": "DIN 6875-20:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-13068/406157796": "DIN 13068:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-ieee-11073-10441/406352403": "DIN EN ISO/IEEE 11073-10441:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-7396-1/407019617": "DIN EN ISO 7396-1:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11608-1/402651434": "DIN EN ISO 11608-1:2026-11",
-    "https://www.dinmedia.de/de/norm/din-en-iso-11608-3/402424352": "DIN EN ISO 11608-3:2026-11",
-    "https://www.dinmedia.de/de/norm/din-en-iso-16571/402770108": "DIN EN ISO 16571:2026-11",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-26782/406858590": "DIN EN ISO 26782:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-dis-7206-1/408394962": "ISO/DIS 7206-1:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm/iso-10328/408061556": "ISO 10328:2026-11",
-    "https://www.dinmedia.de/de/norm/iso-11117-amd-1/408061846": "ISO 11117 AMD 1:2026-11",
-    "https://www.dinmedia.de/de/vornorm/iso-ts-25198/408061904": "ISO/TS 25198:2026-11",
-    "https://www.dinmedia.de/de/technische-regel-entwurf/iso-dtr-26167/408060800": "ISO/DTR 26167:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/iso-fdis-80601-2-56/408395075": "ISO/FDIS 80601-2-56:2026-11 - Entwurf",
-    "https://www.dinmedia.de/de/norm/nf-en-iec-60601-2-28-a1/408221447": "NF EN IEC 60601-2-28/A1:2026-10-23",
-    "https://www.dinmedia.de/de/norm/abnt-nbr-iso-6631/408069368": "ABNT NBR ISO 6631:2026-10-22",
-    "https://www.dinmedia.de/de/norm/abnt-nbr-iso-11986/408069206": "ABNT NBR ISO 11986:2026-10-22",
-    "https://www.dinmedia.de/de/norm/abnt-nbr-iso-11987/408069223": "ABNT NBR ISO 11987:2026-10-22",
-    "https://www.dinmedia.de/de/norm/abnt-nbr-iso-80369-1/408069257": "ABNT NBR ISO 80369-1:2026-10-22",
-    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-5359/408166751": "OENORM EN ISO 5359:2026-10-15 - Entwurf",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-10322/408165380": "OENORM EN ISO 10322:2026-10-15",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-80601-2-61/408165245": "OENORM EN ISO 80601-2-61:2026-10-15",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-80601-2-74/408165363": "OENORM EN ISO 80601-2-74:2026-10-15",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-80601-2-90/408165259": "OENORM EN ISO 80601-2-90:2026-10-15",
-    "https://www.dinmedia.de/de/norm/oeve-oenorm-en-iso-20417/408165187": "OEVE/OENORM EN ISO 20417:2026-10-15",
-    "https://www.dinmedia.de/de/norm-entwurf/ove-en-iec-60601-2-54/408168194": "OVE EN IEC 60601-2-54:2026-10-15 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-iso-7206-6/408222710": "PR NF ISO 7206-6:2026-10-14 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-iso-16034-1/408223128": "PR NF ISO 16034-1:2026-10-07 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30499701-dc/407356852": "26/30499701 DC:2026-10-05 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/26-30545370-dc/407360451": "26/30545370 DC:2026-10-02 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/oenorm-en-iso-ieee-11073-10441/406876085": "OENORM EN ISO/IEEE 11073-10441:2026-10-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm/oenorm-en-iso-5364/406878432": "OENORM EN ISO 5364:2026-10-01",
-    "https://www.dinmedia.de/de/norm/oeve-oenorm-en-iso-80369-1/406875508": "OEVE/OENORM EN ISO 80369-1:2026-10-01",
-    "https://www.dinmedia.de/de/norm-entwurf/pr-nf-en-iso-15002-a1/408222081": "PR NF EN ISO 15002/A1:2026-10-01 - Entwurf",
-    "https://www.dinmedia.de/de/norm-entwurf/din-en-iso-5359/406117894": "DIN EN ISO 5359:2026-10 - Entwurf",
-    "https://www.dinmedia.de/de/norm/din-en-iso-5361/404474255": "DIN EN ISO 5361:2026-10",
-    "https://www.dinmedia.de/de/norm/din-en-iso-5364/403359946": "DIN EN ISO 5364:2026-10"
-   },
-   "textHash": "1k8pgg"
+   "links": {},
+   "textHash": "mpv11h"
   }
  }
 }
