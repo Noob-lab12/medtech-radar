@@ -939,15 +939,6 @@
    "published": "2026-06-11T03:00:00.000Z",
    "firstSeen": "2026-07-17T15:24:09.122Z"
   },
-  "pmda-top::https://www.pmda.go.jp/english/int-activities/asia/0015.html": {
-   "id": "pmda-top::https://www.pmda.go.jp/english/int-activities/asia/0015.html",
-   "source": "pmda-top",
-   "title": "[KOKUSAI]Registration for the ASEAN-Japan Medical Devices Regulatory Symposium is now open.",
-   "link": "https://www.pmda.go.jp/english/int-activities/asia/0015.html",
-   "summary": "",
-   "published": "2026-05-25T03:00:00.000Z",
-   "firstSeen": "2026-07-17T15:24:09.122Z"
-  },
   "fda-device-recalls::Z-2623-2026": {
    "id": "fda-device-recalls::Z-2623-2026",
    "source": "fda-device-recalls",
@@ -9275,209 +9266,281 @@
    "summary": "Analysts hailed Cunningham’s experience as a boost to GeneDx as the company tries to enter new markets and maintain its leadership in a competitive sector.",
    "published": "2026-11-19T15:00:00.000Z",
    "firstSeen": "2026-11-20T13:23:11.099Z"
+  },
+  "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/967099": {
+   "id": "eu-ai-office::https://ec.europa.eu/newsroom/dae/redirection/item/967099",
+   "source": "eu-ai-office",
+   "title": "The AI Act Advisory Forum holds its second meeting",
+   "link": "https://ec.europa.eu/newsroom/dae/redirection/item/967099",
+   "summary": "The second meeting of the AI Act Advisory Forum took place, in hybrid format, on Monday 16 November in Brussels.",
+   "published": "2026-11-20T15:45:24.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "din-medizinprodukte-watch::change::1eess6": {
+   "id": "din-medizinprodukte-watch::change::1eess6",
+   "source": "din-medizinprodukte-watch",
+   "title": "Seiteninhalt geändert: DIN Media – Normen Medizinprodukte (Überwachung)",
+   "link": "https://www.dinmedia.de/de/fachgebiete/medizinprodukte/search/1056424!search-fg?state=H4sIAAAAAAAAAF2RyW6DMBBA_8VnDgGSKOWWKlKVS4Sa3KoeBjMBF2PT8bgSjfLvRUpY3ON7s2iWm5DQsaxBZMZrHYkrSGQnsts9ElDYYzkGwPyiqpBOQ6oQM7_7glQTujMDexe6C1KrzNN5V0GBhyGrHftLT4SGDwRXHl1p5Z4W1JxoAZe-wwl7Y6DF-B8nC_4BHYc4RWvFLkfKoRoaxqtIKPmcXrdFdfbFF0p-I-u7scJK6TtgZQ3oIPDtkfpHLXmNDqfxHQLJ-tXapgVqQns0IZ8sY2guivWs7HwVx77scyBo3aiYoMRgqkePPSHMDx12zIFrkX2IAj3XWalMEme77Uu6227WwwJLnaw3ySpJ41R8RqIjW3rJ8wPuf_tdR39IAgAA&hitsPerPage=50&sort=AUSGABE%20desc",
+   "summary": "Der Text der überwachten Seite hat sich geändert (ohne neue Links).",
+   "published": "2026-11-21T12:52:37.072Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/docket-commenters-call-for-flexibility-in-rare-disease-trial-design-and-evidence-but-question-fda-s-rct-focus.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/docket-commenters-call-for-flexibility-in-rare-disease-trial-design-and-evidence-but-question-fda-s-rct-focus.html",
+   "source": "raps-regulatory-focus",
+   "title": "Docket commenters call for flexibility in rare disease trial design and evidence, but question FDA’s RCT focus",
+   "link": "https://www.raps.org/resource/docket-commenters-call-for-flexibility-in-rare-disease-trial-design-and-evidence-but-question-fda-s-rct-focus.html",
+   "summary": "20 Nov 2026 Docket commenters call for flexibility in rare disease trial design and evidence, but question FDA’s RCT focus Comments to the US Food and Drug Administration (FDA) public docket on statistical considerations for study designs in rare disease clinical investigations supported the need for flexibility in trial design and evidence for rare diseases, but a few asked the agency to reconsid",
+   "published": "2026-11-20T12:00:00.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/final-ich-q1-stability-testing-guideline-expected-to-be-released-soon.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/final-ich-q1-stability-testing-guideline-expected-to-be-released-soon.html",
+   "source": "raps-regulatory-focus",
+   "title": "Final ICH Q1 stability testing guideline expected to be released soon",
+   "link": "https://www.raps.org/resource/final-ich-q1-stability-testing-guideline-expected-to-be-released-soon.html",
+   "summary": "20 Nov 2026 Final ICH Q1 stability testing guideline expected to be released soon The pending revision of the International Council for Harmonization (ICH) Q1 guideline on stability testing has been adopted and is expected to be published “in the coming weeks,” according to a 19 November announcement from the council. Once published, it will be classified as a Step 4 guideline and will be ready fo",
+   "published": "2026-11-20T12:00:00.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "raps-regulatory-focus::https://www.raps.org/resource/fda-officials-detail-inspection-expectations-for-combination-products.html": {
+   "id": "raps-regulatory-focus::https://www.raps.org/resource/fda-officials-detail-inspection-expectations-for-combination-products.html",
+   "source": "raps-regulatory-focus",
+   "title": "FDA officials detail inspection expectations for combination products",
+   "link": "https://www.raps.org/resource/fda-officials-detail-inspection-expectations-for-combination-products.html",
+   "summary": "20 Nov 2026 FDA officials detail inspection expectations for combination products BALTIMORE – US Food and Drug Administration (FDA) officials said that manufacturers who opt to follow a streamlined approach to their combination product current good manufacturing practice (CGMP) should be aware that the agency will closely scrutinize their risk management activities at the AFDO/RAPS Healthcare Prod",
+   "published": "2026-11-20T12:00:00.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/",
+   "source": "medtech-dive",
+   "title": "Zimmer submits Monogram robot to FDA",
+   "link": "https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/",
+   "summary": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot.",
+   "published": "2026-11-20T16:46:43.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/",
+   "source": "medtech-dive",
+   "title": "J&J to install first Ottava robot in US hospital",
+   "link": "https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/",
+   "summary": "The commercial agreement with Memorial Hermann-Texas Medical Center comes in the same week that rival Medtronic revealed expanded FDA clearance for its Hugo robot in general surgical procedures.",
+   "published": "2026-11-20T16:24:06.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
+  },
+  "medtech-dive::https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/": {
+   "id": "medtech-dive::https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
+   "source": "medtech-dive",
+   "title": "Abbott starts trial of Encantor transcatheter aortic valve",
+   "link": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
+   "summary": "The balloon-expandable system could complement Abbott’s existing self-expanding Navitor device.",
+   "published": "2026-11-20T15:00:00.000Z",
+   "firstSeen": "2026-11-21T12:52:37.072Z"
   }
  },
  "sourceStatus": {
   "ec-medical-devices": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 30
   },
   "eurlex-oj": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 100
   },
   "ec-harmonised-standards": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 8
   },
   "dg-sante": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 100
   },
   "ema-news": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 6
   },
   "team-nb": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-17T13:42:31.231Z",
    "lastError": null,
    "fetched": 10
   },
   "bfarm-medizinprodukte": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-09-27T10:07:16.559Z",
    "lastError": null,
    "fetched": 20
   },
   "bfarm-presse": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-10-31T10:29:50.530Z",
    "lastError": null,
    "fetched": 20
   },
   "federal-register-fda": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-20T13:23:11.099Z",
    "lastError": null,
    "fetched": 25
   },
   "mhra-news": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-17T13:42:31.231Z",
    "lastError": null,
    "fetched": 20
   },
   "swissmedic-new": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-09-18T09:06:16.902Z",
    "lastError": null,
    "fetched": 15
   },
   "pmda-top": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-10-20T09:32:51.882Z",
    "lastError": null,
    "fetched": 45
   },
   "anvisa-noticias": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
    "lastOk": "2026-08-04T12:20:06.880Z",
    "lastNew": null,
-   "lastError": "Status code 404",
+   "lastError": "read ECONNRESET",
    "fetched": 15
   },
   "imdrf-documents": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "imdrf-news": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
    "lastOk": null,
    "lastNew": null,
    "lastError": "Request timed out after 20000ms",
    "fetched": null
   },
   "raps-regulatory-focus": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
-   "lastNew": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
+   "lastNew": "2026-11-21T12:52:37.072Z",
    "lastError": null,
    "fetched": 10
   },
   "johner-blog": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-dive": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
-   "lastNew": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
+   "lastNew": "2026-11-21T12:52:37.072Z",
    "lastError": null,
    "fetched": 10
   },
   "medtech-europe": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-06T12:19:21.780Z",
    "lastError": null,
    "fetched": 10
   },
   "eu-ai-office": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
-   "lastNew": "2026-11-19T13:40:42.094Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
+   "lastNew": "2026-11-21T12:52:37.072Z",
    "lastError": null,
    "fetched": 100
   },
   "bvmed-regulatorik": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-10-23T09:27:44.374Z",
    "lastError": null,
    "fetched": 30
   },
   "who-news": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": null,
    "lastError": null,
    "fetched": 83
   },
   "medical-design-outsourcing": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-09-19T08:53:36.199Z",
    "lastError": null,
    "fetched": 25
   },
   "mdcg-guidance-watch": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 235
   },
   "harmonised-normen-watch": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-11T11:59:48.716Z",
    "lastError": null,
    "fetched": 126
   },
   "zlg-watch": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-09-30T10:37:02.790Z",
    "lastError": null,
    "fetched": 24
   },
   "iso-tc210-watch": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
    "lastOk": "2026-07-26T10:24:27.165Z",
    "lastNew": "2026-07-26T10:24:27.165Z",
    "lastError": "Status code 403",
    "fetched": 35
   },
   "emergo-news-watch": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
    "lastNew": "2026-11-15T12:07:34.191Z",
    "lastError": null,
    "fetched": 28
   },
   "din-medizinprodukte-watch": {
-   "lastAttempt": "2026-11-20T13:23:11.099Z",
-   "lastOk": "2026-11-20T13:23:11.099Z",
-   "lastNew": "2026-11-18T13:17:15.449Z",
+   "lastAttempt": "2026-11-21T12:52:37.072Z",
+   "lastOk": "2026-11-21T12:52:37.072Z",
+   "lastNew": "2026-11-21T12:52:37.072Z",
    "lastError": null,
    "fetched": 58
   }
@@ -10017,7 +10080,7 @@
     "https://www.dinmedia.de/de/norm/din-en-iso-5361/404474255": "DIN EN ISO 5361:2026-10",
     "https://www.dinmedia.de/de/norm/din-en-iso-5364/403359946": "DIN EN ISO 5364:2026-10"
    },
-   "textHash": "1sl5x5r"
+   "textHash": "1eess6"
   }
  }
 }
